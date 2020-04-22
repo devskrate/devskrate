@@ -7,7 +7,7 @@ logo: 'assets/images/clogo.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'devskrate@gmail.com'
+email: 'support@devskrate.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -51,7 +51,7 @@ authors:
       site:           https://srisatyalokesh.github.io
       avatar:         /assets/images/satya.jpg
       bio:            "Software Engineer at Dhan AI. Python Developer, Tech Enthusiastic, Photographer"
-      email:          srisatyalokesh2.12@gmail.com
+      email:          satya@devskrate.com
       twitter:        https://twitter.com/CodeWithSatya
     output: true
 # Defaults
