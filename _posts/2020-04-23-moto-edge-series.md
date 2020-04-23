@@ -31,8 +31,7 @@ Charging	Type-C cable + Wireless Charging(Upto 15W) + 5W(Reverse Wireless Chargi
 RAM/ROM         12GB/128or256GB
 
 # Display and battery:  
-	The display is a 6.7 inch AMOLED display with an aspect ratio of 21:9 and the phone comes with a 90HZ refresh rate 
-but the resolution is only FHD(1080p), which is a bummer at this price point but it helps increase the battery efficiency and in 
+The display is a 6.7 inch AMOLED display with an aspect ratio of 21:9 and the phone comes with a 90HZ refresh rate but the resolution is only FHD(1080p), which is a bummer at this price point but it helps increase the battery efficiency and in 
 this phone moto has provided a huge 5000mAh battery and moto claims it can last till 2 days.
 
 # Camera:
@@ -42,7 +41,7 @@ second sensory is an 8MP three times zoom sensor and this also has OIS for bette
 camera software.
 
 # Software and Hardware:
-	Talking about software, It comes with an almost stock-like experience with a few added features based on android 10, and moto is calling it "My UX".In days where flagship smartphones are removing the headphone jack moto has it in this phone which is a great thing.
+Talking about software, It comes with an almost stock-like experience with a few added features based on android 10, and moto is calling it "My UX".In days where flagship smartphones are removing the headphone jack moto has it in this phone which is a great thing.
 The hardware also is top end with snapdragon 865, It also supports fast charging, wireless charging, reverse wireless charging 
 and all other high-end features to compete against the top of galaxies and iPhones.
 
@@ -51,9 +50,9 @@ This phone is priced at 999.99 dollars which converts to around 75k price, which
 If moto really wants to bring this phone to India it has to reduce the price to somewhere around 55k. 
 
 # Moto Edge:
-	Edge is very similar to Edge plus with very few changes. The main shooter is 64MP instead of 108MP, the battery capacity is 4500mAH instead of 5000mAH, It 
+Edge is very similar to Edge plus with very few changes. The main shooter is 64MP instead of 108MP, the battery capacity is 4500mAH instead of 5000mAH, It 
 only offers 4GB/6GB of RAM and it does not support any kind of wireless and reverse wireless charging on it but the key 
 difference is that it comes with snapdragon 765 5G on board.This phone is priced at 699 EURO, which is 58,000 rupees. I think this phone is fairly overpriced and at this price we can get several other options
 from vendors like one plus, Xiaomi, etc, which can offer us a flagship experience.    
 
-	Both these phones are expected to launch in India after the pandemic has ended,what do you think about these phones
+Both these phones are expected to launch in India after the pandemic has ended,what do you think about these phones
