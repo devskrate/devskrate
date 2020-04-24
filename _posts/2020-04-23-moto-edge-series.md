@@ -15,7 +15,7 @@ in this article.
 The standout feature of this phone has to be its design, It's 
 an all-glass display with metal frame holding them together, The 
 edges wrap around the edges with a punch hole at the top and in 
-one word it looks gorgeous with two colors variants to offer namely midnight 
+one word it looks gorgeous with two color variants to offer namely midnight 
 megneta and solar black. Before 
 taking a deep dive lets see the specs.
 
