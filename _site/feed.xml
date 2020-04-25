@@ -1,4 +1,190 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-22T00:22:33+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Apple iPhone SE 2020 is ready!</title><link href="http://localhost:4000/apple-iphone-se/" rel="alternate" type="text/html" title="Apple iPhone SE 2020 is ready!" /><published>2020-04-15T00:00:00+05:30</published><updated>2020-04-15T00:00:00+05:30</updated><id>http://localhost:4000/apple-iphone-se</id><content type="html" xml:base="http://localhost:4000/apple-iphone-se/">## Hey Folks! ##
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-25T14:55:46+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Configure your VS Code like a pro</title><link href="http://localhost:4000/configure-vscode-like-a-pro/" rel="alternate" type="text/html" title="Configure your VS Code like a pro" /><published>2020-04-25T00:00:00+05:30</published><updated>2020-04-25T00:00:00+05:30</updated><id>http://localhost:4000/configure-vscode-like-a-pro</id><content type="html" xml:base="http://localhost:4000/configure-vscode-like-a-pro/">Being core **Python** and **Java** developers we extensively use VS Code for our project development and use code formatting heavily to enable consistency of code while developing as a team and there are lot of useful extensions which will help you to ease your task and run things on your fingertips.  
+
+### Why Visual Studio Code 
+Visual Studio Code combines the simplicity of a source code editor with powerful developer tooling, like IntelliSense code completion and debugging.
+
+First and foremost, it is an editor that gets out of your way. The delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas.
+
+Here are some Key Benefits of using VS Code - 
+* Available on Mac, Linux, and Ofcourse Windows.
+* Edit, Build, and Debug very easily.
+* Highly configurable - **Open-source project** 
+* VS Code also includes great tooling for web technologies such as NodeJS, JSX/React, HTML, CSS, SCSS, Less, and JSON.
+* Highly robust and Extensible.
+* High availability of industry and community-developed extensions.
+* Much loved dark theme
+
+##### Installing Visual Studio Code
+We can download updated version of VS Code from their website - [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Download from here  - [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+#### Required Extensions for all developers
+**1. Python extension by Microsoft** - [download](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+![Python editing]({{ site.baseurl}}/assets/images/vscode/python-editing.gif){:height=&quot;350px&quot; width=&quot;90%&quot;}
+- An extension with rich support for the Python language, including features such as linting, debugging, IntelliSense, code navigation, code formatting, refactoring, unit tests, snippets, and more!
+* I personally use **black** code-formatter. we can configure it in our workspace settings in **.vscode** file. This helps to maintain code and code-formatting consistent in development.
+    -    Troubleshoot the code formatting plugin in python
+         [https://code.visualstudio.com/docs/python/editing](https://code.visualstudio.com/docs/python/editing)
+         
+**2. Java Extension by Mircosoft** - [download](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+![ Java ]({{ site.baseurl}}/assets/images/vscode/java.png){:height=&quot;60px&quot; width=&quot;60px&quot;}
++ Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
+
+**3. Markdown Renderer Extension** - [download](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/md-image.png){:height=&quot;350px&quot; width=&quot;90%&quot;}
++ Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
+
+**4. Prettier Extension for JavaScript** - [download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+![Pretier]({{ site.baseurl}}/assets/images/vscode/prettier.png){:height=&quot;80px&quot; width=&quot;80px&quot;}
++ It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+    
+**5. ESLint** - [download](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/eslint.png){:height=&quot;60px&quot; width=&quot;60px&quot;}
++ This will be useful to check JavaScript and TypeScript errors 
++ The extension uses the ESLint library installed in the opened workspace folder. If the folder doesn't provide one the extension looks for a global install version. If you haven't installed ESLint either locally or globally do so by running `npm install eslint` in the workspace folder for a local install or `npm install -g eslint` for a global install.
+
+**6. CSS Peek** - [download](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/css.gif){:height=&quot;400px&quot; width=&quot;90%&quot;}
++ CSS Peek is a great tool if you keep forgetting what was a CSS class was used for. However, that could also mean that your CSS class names are not meaningful, or you have written too much &quot;unmaintainable&quot; code. Still, this is sure going to be handy if you are viewing/rewriting someone else’s code. 
+
+**7. Debugger for Chrome** - [download](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/chrome.gif){:height=&quot;400px&quot; width=&quot;90%&quot;}
++ Debugger for Chrome is a great tool if you use a debugger in VSC. It allows you to launch an instance of Chrome navigated to your app, or it can attach to a running instance of Chrome. Using the URL parameter, you tell VSC which URL to either open or launch in Chrome.
+
+**8. Gitlens** - [download](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/git-lens.png){:height=&quot;60px&quot; width=&quot;37%&quot;}
++ GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+
+**9. Git File History** - [download](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/git-file-history.gif){:height=&quot;350px&quot; width=&quot;90%&quot;}
++ This helps to quickly browse the history (edits and commits done by you and others) in a cool and interesting visualization. 
++ you can try this in browser also. you just need to do these three steps.
+    1. Go to a file in GitHub (or GitLab, or Bitbucket)
+    2. Replace github.com with github.githistory.xyz
+    3. There's no step three. you'll love this.
+
+**10. Docker Extension** - [download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/docker.png){:height=&quot;350px&quot; width=&quot;90%&quot;}
++ The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.
+
+**11. SQL Formatter** - [download](https://marketplace.visualstudio.com/items?itemName=bradymholt.pgformatter)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/sql.png){:height=&quot;60px&quot; width=&quot;60px&quot;}
++ This VS Code extension formats PostgreSQL SQL, using the Perl based [pgFormatter](https://github.com/darold/pgFormatter) tool. Supports keywords from SQL-92, SQL-99, SQL-2003, SQL-2008, SQL-2011 and PostgreSQL specifics keywords. Provides configuration to control formatting style.
+
+**12. Path Intellisense** - [downlaod](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/path-intelli.png){:height=&quot;350px&quot; width=&quot;90%&quot;}
++ Path Intellisense helps you include filenames or autocomplete them. This is a great tool if you want to type less for difficult filenames and make sure you always include the correct files.
+
+#### Not just this many more to come in future
+Please share your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at support@devskrate.com. Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="developers" /><category term="microsoft" /><category term="vscode" /><category term="DevStuff" /><category term="configuring" /><summary type="html">Being core Python and Java developers we extensively use VS Code for our project development and use code formatting heavily to enable consistency of code while developing as a team and there are lot of useful extensions which will help you to ease your task and run things on your fingertips.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/vscode/vscode-home.png" /><media:content medium="image" url="http://localhost:4000/assets/images/vscode/vscode-home.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ubuntu 20 booting problems.</title><link href="http://localhost:4000/ubuntu20-booting-problems/" rel="alternate" type="text/html" title="Ubuntu 20 booting problems." /><published>2020-04-25T00:00:00+05:30</published><updated>2020-04-25T00:00:00+05:30</updated><id>http://localhost:4000/ubuntu20-booting-problems</id><content type="html" xml:base="http://localhost:4000/ubuntu20-booting-problems/">&lt;p&gt;Ubuntu 20 LTS has been released recently, after upgrading to it from ubuntu 18, 19, many had may faced booting problems(especially in DualBoot’s).
+Booting problems like bootloop(Restarting when ubuntu is selected) or blank screen after selecting ubuntu in the grub.&lt;/p&gt;
+
+&lt;p&gt;With My experience, I am giving here few fixes you may try.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Uncheck the PPT security in BIOS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Firstly goto the BIOS (It depends on the system, for Dell press F12), then goto security, then goto PTT security and Uncheck it.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Security -&amp;gt; PTT Security and uncheck PTT On
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Click Apply (I would recommend choosing Save as Custom User Settings), then OK, then Exit.&lt;/p&gt;
+
+&lt;p&gt;This should acctuallly work. If this does not work, try the second method.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Boot from Advanced Options&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While booting from grub, you can see “Advanced Options for Ubuntu”. Select it and in that boot from the Old Kernel.
+You may find many things like&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ubuntu, with Linux 5.4-generic&lt;/li&gt;
+  &lt;li&gt;Ubuntu, with Linux 5.4-generic (recovery mode)&lt;/li&gt;
+  &lt;li&gt;Ubuntu, with Linux 4.*-generic&lt;/li&gt;
+  &lt;li&gt;Ubuntu, with Linux 4.*-generic (recovery mode)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Boot with Linux 4.*-generic, don’t boot with recovery or any other options availabe additionally.
+Now, you will boot into Ubuntu:).&lt;/p&gt;
+
+&lt;p&gt;Remember, this method is not a permanent fix, you can use Ubuntu inthis way as long as you find the permanent fix, this will not do anything from accessing all the features.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Additional Info&lt;/strong&gt;: Why method 2 is not a permanent fix, because Ubuntu uses Linux kernel 5.4, so grub will boot from it by default. After booting in you can change the default kernel to boot, but be carefull while handling with the Kernel.&lt;/p&gt;</content><author><name>puneeth</name></author><category term="ubuntu" /><category term="linux" /><category term="kernel" /><category term="intel" /><category term="os" /><summary type="html">Ubuntu 20 LTS has been released recently, after upgrading to it from ubuntu 18, 19, many had may faced booting problems(especially in DualBoot’s). Booting problems like bootloop(Restarting when ubuntu is selected) or blank screen after selecting ubuntu in the grub.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/linux/ubuntu-clogo.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/linux/ubuntu-clogo.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst : Ming-Chi Kuo</title><link href="http://localhost:4000/iphones-delay-in-release/" rel="alternate" type="text/html" title="New iPhones Might Delay Due To the Pandemic Says The Famous Apple Analyst : Ming-Chi Kuo" /><published>2020-04-23T00:00:00+05:30</published><updated>2020-04-23T00:00:00+05:30</updated><id>http://localhost:4000/iphones-delay-in-release</id><content type="html" xml:base="http://localhost:4000/iphones-delay-in-release/">Analyst Ming-Chi Kuo, In his new investor note, has outlined some information regarding the possible delay of the iPhone 12's production as well as the possible postponement of its much-rumored iPhone SE plus due to the Coronavirus pandemic.
+
+# iPhone 12 production:
+In Kuo's note, He said that due to the pandemic caused by COVID-19, The Cupertino giant(Apple) had to do a lot of changes in its production, which lead to a one-month delay in engineering verification testing for the new iPhone 12 models.
+
+The iPhone 12 lineup is expected to include four new models, and According to the analyst
+the lower end models sized 6.1- inch and 5.4-inch iPhone will enter into the mass production in September
+and the 6.7 inch which is expected to come with 5G support will enter not enter the production until October.
+According to Kuo,this is because the 6.7-inch model has the most complicated design.
+
+The above could mean that Apple will announce all the four iPhone models at once
+but the release dates likely going to be different for each model due to the production delays.
+
+# iPhone SE Plus Delayed:
+
+iPhone SE 2020 has sold more models than Apple expected and there were strong rumors
+regarding a plus model of the iPhone SE and was confirmed by the evidences found in the IOS 14 code
+however Kuo's note says that the iPhone SE Plus is likely to be delayed until Q2 2021.</content><author><name>mohit</name></author><category term="apple" /><category term="iphone" /><summary type="html">Analyst Ming-Chi Kuo, In his new investor note, has outlined some information regarding the possible delay of the iPhone 12’s production as well as the possible postponement of its much-rumored iPhone SE plus due to the Coronavirus pandemic. iPhone 12 production: In Kuo’s note, He said that due to the pandemic caused by COVID-19, The Cupertino giant(Apple) had to do a lot of changes in its production, which lead to a one-month delay in engineering verification testing for the new iPhone 12 models. The iPhone 12 lineup is expected to include four new models, and According to the analyst the lower end models sized 6.1- inch and 5.4-inch iPhone will enter into the mass production in September and the 6.7 inch which is expected to come with 5G support will enter not enter the production until October. According to Kuo,this is because the 6.7-inch model has the most complicated design. The above could mean that Apple will announce all the four iPhone models at once but the release dates likely going to be different for each model due to the production delays. iPhone SE Plus Delayed: iPhone SE 2020 has sold more models than Apple expected and there were strong rumors regarding a plus model of the iPhone SE and was confirmed by the evidences found in the IOS 14 code however Kuo’s note says that the iPhone SE Plus is likely to be delayed until Q2 2021.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/apple/iphone-12-renders.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/apple/iphone-12-renders.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motorolo launches its new edge series in states:</title><link href="http://localhost:4000/moto-edge-series/" rel="alternate" type="text/html" title="Motorolo launches its new edge series in states:" /><published>2020-04-23T00:00:00+05:30</published><updated>2020-04-23T00:00:00+05:30</updated><id>http://localhost:4000/moto-edge-series</id><content type="html" xml:base="http://localhost:4000/moto-edge-series/">Moto after 4 years has come back to making flagship phones with its new edge series, 
+It launched two phones namely Moto Edge and Moto Edge Plus. Let's see what Motorola has to offer 
+in this article.
+
+# Moto Edge Plus:
+The standout feature of this phone has to be its design, It's 
+an all-glass display with metal frame holding them together, The 
+edges wrap around the edges with a punch hole at the top and in 
+one word it looks gorgeous with two color variants to offer namely midnight 
+megneta and solar black. Before 
+taking a deep dive lets see the specs.
+
+Processor:	Qualcomm Snapdragon 865
+Rear Camera	Triple Cameras 108MP(with OIS) + 16MP(Ultra Wide + Macro) + 8MP(3x Zoom with OIS)
+front Camera	25MP
+Display	        6.7 inches 90HZ AMOLED(Aspect ratio: 21:9) FHD
+5G support	both mm and sub-6 band.
+Battery	        5000mAH(18W)
+Fingerprint	In-Display Fingerprint Sensor(Optical)
+Water Resistant	Water Resistant(IP 68)
+Charging	Type-C cable + Wireless Charging(Upto 15W) + 5W(Reverse Wireless Charging)
+RAM/ROM         12GB/128or256GB
+
+# Display and battery:  
+The display is a 6.7 inch AMOLED display with an aspect ratio of 21:9 and the phone comes with a 90HZ refresh rate but the resolution is only FHD(1080p), which is a bummer at this price point but it helps increase the battery efficiency and in 
+this phone moto has provided a huge 5000mAh battery and moto claims it can last till 2 days.
+
+# Camera:
+This phone comes with a total of four cameras three at the back and one inside the punch hole. The primary sensor is a 108MP 
+Samsung sensor which we saw in the galaxy s20 ultra, This camera by default shoots at 27MP and it has OIS built-in for stable video.The 
+second sensory is an 8MP three times zoom sensor and this also has OIS for better video as well as zoom. The third is a 16MP Ultra wide sensor to capture ultra-wide shots.The selfie camera is a 25MP shooter. This phone has all the hardware required for a good camera it ultimately comes down to
+camera software.
+
+# Software and Hardware:
+Talking about software, It comes with an almost stock-like experience with a few added features based on android 10, and moto is calling it &quot;My UX&quot;.In days where flagship smartphones are removing the headphone jack moto has it in this phone which is a great thing.
+The hardware also is top end with snapdragon 865, It also supports fast charging, wireless charging, reverse wireless charging 
+and all other high-end features to compete against the top of galaxies and iPhones.
+
+# Pricing:
+This phone is priced at 999.99 dollars which converts to around 75k price, which is very expensive considering what this phone has to offer.
+If moto really wants to bring this phone to India it has to reduce the price to somewhere around 55k. 
+
+# Moto Edge:
+Edge is very similar to Edge plus with very few changes. The main shooter is 64MP instead of 108MP, the battery capacity is 4500mAH instead of 5000mAH, It 
+only offers 4GB/6GB of RAM and it does not support any kind of wireless and reverse wireless charging on it but the key 
+difference is that it comes with snapdragon 765 5G on board.This phone is priced at 699 EURO, which is 58,000 rupees. I think this phone is fairly overpriced and at this price we can get several other options
+from vendors like one plus, Xiaomi, etc, which can offer us a flagship experience.    
+
+Both these phones are expected to launch in India after the pandemic has ended,what do you think about these phones</content><author><name>mohit</name></author><category term="moto" /><category term="flagship" /><summary type="html">Moto after 4 years has come back to making flagship phones with its new edge series, It launched two phones namely Moto Edge and Moto Edge Plus. Let’s see what Motorola has to offer in this article.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/android/motorola-edge.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/android/motorola-edge.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Apple iPhone SE 2020 is ready!</title><link href="http://localhost:4000/apple-iphone-se/" rel="alternate" type="text/html" title="Apple iPhone SE 2020 is ready!" /><published>2020-04-15T00:00:00+05:30</published><updated>2020-04-15T00:00:00+05:30</updated><id>http://localhost:4000/apple-iphone-se</id><content type="html" xml:base="http://localhost:4000/apple-iphone-se/">## Hey Folks! ##
 All the wait is over. Finally,the Apple iPhone SE 2020 is ready for competition.  
 The most awaited iPhone SE has been scilently released by Apple into it's &lt;a href=&quot;https://www.apple.com/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;.
 
@@ -164,221 +350,4 @@ Additionally, the website shows you app trends as well. It’s a separate tab wi
 
 &lt;img src=&quot;assets/images/apps/app_trends.png&quot; title=&quot;App Trends&quot;/&gt;
 
-Another popular app research tool is &lt;a href=&quot;https://www.appbrain.com/info/ranking&quot; target=&quot;_blank&quot;&gt;AppBrain&lt;/a&gt;. In comparison, Similar Web doesn’t show you trends for an individual app, the number of downloads, etc. On the other hand, AppBrain is a furthermore intensive app data website. But, having said that if you write or develop apps, these 2 websites are a must-have bookmark on your browser.</content><author><name>nikhil</name></author><category term="internet" /><category term="play store" /><category term="app store" /><category term="trending" /><category term="app ranking" /><summary type="html">Usually, to gain insight into what’s trending on the app stores, I either read prominent websites or look at the trending page on the app store. However, the problem arises when you have to look for global data. For instance, I am located in India and if I have to check what’s trending on the US Play Store, I would have to change my Google account location. Tedious! Recently, I stumbled upon a website that lets you check the trending apps in every country and even the app trend. It is quite helpful if you are an app developer and want to understand the trend of the market. It’s also helpful if you are a journalist who covers technology and currently trending apps. It helps you gauge the type of apps that are becoming popular within different countries and regions. How to find trending apps in any country? Head over to this Similar Web tool and select the country. For instance, I have selected the United States as the country whose trending apps I want to see. Now, click on the “Go” button on the extreme right side. You will see the list of apps that are currently trending on the Google Play Store. The website also lets you see trending apps on the Apple Play Store. In the first drop-down, you can select the store as “Apple App Store” and let other options as default. Click on the go button and it will populate the trending apps on the Apple store. Additionally, you will also see an “iPad/iPhone” toggle on just below the Go button. There are a couple of different filters besides the App Store and the country. You can filter out apps based on categories like Fitness, Music, Productivity, etc. Moroever, you have a control to view popular paid apps as well. Additionally, the website shows you app trends as well. It’s a separate tab with multiple sections on it. One of the sections shows you apps that have become recently become popular and are new in the top 100 list. In addition to that, there’s a section that shows apps that have climbed their way and have increased their ranking in the top 100. Another popular app research tool is AppBrain. In comparison, Similar Web doesn’t show you trends for an individual app, the number of downloads, etc. On the other hand, AppBrain is a furthermore intensive app data website. But, having said that if you write or develop apps, these 2 websites are a must-have bookmark on your browser.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/apps/trernding_apps.jfif" /><media:content medium="image" url="http://localhost:4000/assets/images/apps/trernding_apps.jfif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">4 steps you should take to secure your Gmail account</title><link href="http://localhost:4000/4-steps-you-should-take-to-secure-your-gmail-account/" rel="alternate" type="text/html" title="4 steps you should take to secure your Gmail account" /><published>2020-03-31T00:00:00+05:30</published><updated>2020-03-31T00:00:00+05:30</updated><id>http://localhost:4000/4-steps-you-should-take-to-secure-your-gmail-account</id><content type="html" xml:base="http://localhost:4000/4-steps-you-should-take-to-secure-your-gmail-account/">From bank statements to personal letters, and even password reset requests, your &lt;a href=&quot;https://mail.google.com/&quot; target=&quot;_blank&quot;&gt;Gmail&lt;/a&gt; account holds an abundance of personal information. If someone were to access it, they'd effectively have access to the rest of your online identity.  
-
-Instead of just hoping that hackers don't find you, take 10 minutes and secure your Gmail account right now.  
-
-## Use a strong password
-I suspect we're all guilty of reusing simple passwords at some point -- I admit that I used to. But reusing passwords across multiple sites and services is just asking for your accounts to be hacked. All it takes is a leak or breach at one service, and hackers will begin trying to sign in to all of your accounts.  
-
-It's time to step up your password game. Use unique, randomly generated passwords, for every online account you have. Keeping track of all those passwords is easy when you use a password manager. We have a roundup of the best password managers available, both free and paid, if you need help with deciding which one to use.  
-
-To change your Google account password, visit the &lt;a href=&quot;https://myaccount.google.com/security&quot; target=&quot;_blank&quot;&gt;Google account security page&lt;/a&gt; and click on Password under the Signing in to Google section. Verify your password if prompted, then enter your new password -- generated by your password manager -- and click Change password.
-
-## Enable two-step verification
-
-Without two-step verification, also commonly called two-factor authentication, hackers only need your password to access your entire Google account -- including YouTube, Gmail and Google Pay. And remember, if you reuse the same password for multiple services, they could get it from a data breach or through a phishing scam.  
-
-With two-step verification, sometimes called two-factor authentication, hackers would need your password and a randomly generated six-digit passcode or physical access to your phone before they could gain access to your account.  
-
-Turn on 2SV by visiting your &lt;a href=&quot;https://myaccount.google.com/security&quot; target=&quot;_blank&quot;&gt;Google account security page&lt;/a&gt; and clicking on 2-Step Verification.  
-
-&lt;img src=&quot;/assets/images/google/two_factor_authentication.png&quot; alt=&quot;Two Step Verification&quot; title=&quot;Two Step Verification&quot; /&gt;
-
-Follow the prompts until you reach the section in the screenshot above. Once there, decide whether you want to receive push alerts in the Gmail app to approve login requests (the default option), or if you want to use random passcodes. Using alerts in the Gmail app is easier, but it means you have to have your phone nearby at all times. You'll also need a connection to approve the alert. So, if you're somewhere where you have no bars -- like on a plane, for instance -- you'll need to be connected to Wi-Fi.  
-
-If you choose to use a passcode, you can receive it via text message or access it in a password manager. I use a password manager to manage my 2SV codes so I can access the codes on any device, regardless of whether I have a data connection on my phone.  
-
-If you opt to use alerts, click **Try it now**. You should receive an alert on the phone that was listed on the screen. Follow the rest of the prompts to complete setup.  
-
-If you want to use passcodes, however, click on **Choose another option** and then **Text message or voice call**.  
-
-Enter your phone number, and then enter the code to activate two-step verification. After entering the code and clicking a few more buttons, 2SV will be turned on.  
-
-&lt;img src=&quot;/assets/images/google/choose_option.png&quot; alt=&quot;Two Step Verification&quot; title=&quot;Two Step Verification&quot; /&gt;
-
-But, wait, you're not done yet. Though 2SV via texted passcodes is more secure than not using 2SV at all, I recommend using push alerts if possible. SIM-swap fraud is becoming more common, allowing hackers to take over your phone number and receive 2SV codes meant for you.  
-
-If you must rely on passcodes, take a few extra minutes and set up an Authenticator app for your Google account. You can either use Google's Authenticator app or a password manager. Click on Set Up under the Authenticator app section and then select the type of phone you use. Use your preferred app to scan the QR code, then enter the passcode generated by your app to verify everything is set up properly and you're done.  
-
-&lt;img src=&quot;/assets/images/google/authenticator.png&quot; alt=&quot;Googole Authenticator&quot; title=&quot;Google Authenticator&quot; /&gt;
-
-Quick side note: There's yet another, even more secure option for locking down your Google account that uses a physical security key which you can read more about here. For most people, however, carrying around an extra device isn't a realistic option. At a minimum, you should turn on 2SV.  
-
-Phew. That was a lot of work, but trust me, it's worth it.   
-
-## Check your backup contact methods
-Since the time that you first set up your Gmail account, you may have changed your phone number, or ditched an old email account. So it's a good idea to double-check your backup contact methods. This is what Google will use should you get locked out of your account to verify you're the account owner. 
-
-Visit &lt;a href=&quot;https://myaccount.google.com/u/1/security&quot; target=&quot;_blank&quot;&gt;this page&lt;/a&gt; and look for the section titled **Ways we can verify it's you**.   
-
-Click on each section -- **Recovery phone**, **Recovery email** and **Security question** -- and update them with current information. 
-
-&lt;img src=&quot;/assets/images/google/backup_google.png&quot; alt=&quot;Google Account Backup Methods&quot; title=&quot;Google Account Backup Methods&quot;/&gt;
-
-Again, if this information is out of date and you get locked out of your account, Google won't be able to verify you own the account.
-
-## Look at account activity
-
-It's possible that a hacker (or an ex) is accessing your account without your knowledge. To check, sign in to your Gmail account and scroll to the bottom of the page. You'll see a line that says &quot;Last account activity...&quot; 
-
-&lt;img src=&quot;account_activity.jpg&quot; /&gt;
-
-At the end of that line, click **Details** to see when, how and where your account is being used. If you suspect any unkosher activity, click on the button labeled **Sign out of all other Gmail web sessions** and immediately change your password. 
-
-Now that you've secured your Gmail account, take a few more minutes to lock down your Amazon account. Then, do the same for your Facebook account and your Apple account while you're at it.</content><author><name>nikhil</name></author><category term="internet" /><category term="security" /><category term="computers" /><category term="mobile" /><category term="hacking" /><summary type="html">From bank statements to personal letters, and even password reset requests, your Gmail account holds an abundance of personal information. If someone were to access it, they’d effectively have access to the rest of your online identity. Instead of just hoping that hackers don’t find you, take 10 minutes and secure your Gmail account right now. Use a strong password I suspect we’re all guilty of reusing simple passwords at some point – I admit that I used to. But reusing passwords across multiple sites and services is just asking for your accounts to be hacked. All it takes is a leak or breach at one service, and hackers will begin trying to sign in to all of your accounts. It’s time to step up your password game. Use unique, randomly generated passwords, for every online account you have. Keeping track of all those passwords is easy when you use a password manager. We have a roundup of the best password managers available, both free and paid, if you need help with deciding which one to use. To change your Google account password, visit the Google account security page and click on Password under the Signing in to Google section. Verify your password if prompted, then enter your new password – generated by your password manager – and click Change password. Enable two-step verification Without two-step verification, also commonly called two-factor authentication, hackers only need your password to access your entire Google account – including YouTube, Gmail and Google Pay. And remember, if you reuse the same password for multiple services, they could get it from a data breach or through a phishing scam. With two-step verification, sometimes called two-factor authentication, hackers would need your password and a randomly generated six-digit passcode or physical access to your phone before they could gain access to your account. Turn on 2SV by visiting your Google account security page and clicking on 2-Step Verification. Follow the prompts until you reach the section in the screenshot above. Once there, decide whether you want to receive push alerts in the Gmail app to approve login requests (the default option), or if you want to use random passcodes. Using alerts in the Gmail app is easier, but it means you have to have your phone nearby at all times. You’ll also need a connection to approve the alert. So, if you’re somewhere where you have no bars – like on a plane, for instance – you’ll need to be connected to Wi-Fi. If you choose to use a passcode, you can receive it via text message or access it in a password manager. I use a password manager to manage my 2SV codes so I can access the codes on any device, regardless of whether I have a data connection on my phone. If you opt to use alerts, click Try it now. You should receive an alert on the phone that was listed on the screen. Follow the rest of the prompts to complete setup. If you want to use passcodes, however, click on Choose another option and then Text message or voice call. Enter your phone number, and then enter the code to activate two-step verification. After entering the code and clicking a few more buttons, 2SV will be turned on. But, wait, you’re not done yet. Though 2SV via texted passcodes is more secure than not using 2SV at all, I recommend using push alerts if possible. SIM-swap fraud is becoming more common, allowing hackers to take over your phone number and receive 2SV codes meant for you. If you must rely on passcodes, take a few extra minutes and set up an Authenticator app for your Google account. You can either use Google’s Authenticator app or a password manager. Click on Set Up under the Authenticator app section and then select the type of phone you use. Use your preferred app to scan the QR code, then enter the passcode generated by your app to verify everything is set up properly and you’re done. Quick side note: There’s yet another, even more secure option for locking down your Google account that uses a physical security key which you can read more about here. For most people, however, carrying around an extra device isn’t a realistic option. At a minimum, you should turn on 2SV. Phew. That was a lot of work, but trust me, it’s worth it. Check your backup contact methods Since the time that you first set up your Gmail account, you may have changed your phone number, or ditched an old email account. So it’s a good idea to double-check your backup contact methods. This is what Google will use should you get locked out of your account to verify you’re the account owner. Visit this page and look for the section titled Ways we can verify it’s you. Click on each section – Recovery phone, Recovery email and Security question – and update them with current information. Again, if this information is out of date and you get locked out of your account, Google won’t be able to verify you own the account. Look at account activity It’s possible that a hacker (or an ex) is accessing your account without your knowledge. To check, sign in to your Gmail account and scroll to the bottom of the page. You’ll see a line that says “Last account activity…” At the end of that line, click Details to see when, how and where your account is being used. If you suspect any unkosher activity, click on the button labeled Sign out of all other Gmail web sessions and immediately change your password. Now that you’ve secured your Gmail account, take a few more minutes to lock down your Amazon account. Then, do the same for your Facebook account and your Apple account while you’re at it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/gmail1.png" /><media:content medium="image" url="http://localhost:4000/assets/images/google/gmail1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Git Cheat Sheet</title><link href="http://localhost:4000/git-cheat-sheet/" rel="alternate" type="text/html" title="Git Cheat Sheet" /><published>2020-03-30T00:00:00+05:30</published><updated>2020-03-30T00:00:00+05:30</updated><id>http://localhost:4000/git-cheat-sheet</id><content type="html" xml:base="http://localhost:4000/git-cheat-sheet/">Git is the free and open source distributed version control system that's responsible for everything GitHub
-related that happens locally on your computer. This cheat sheet features the most important and commonly
-used Git commands for easy reference.
-
-### INSTALLATION &amp; GUIS  
-With platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest
-releases of the command line tool while providing a graphical user interface for day-to-day interaction, review, and 
-repository synchronization.
-
-### Git for All Platforms  
-  &lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot;&gt;https://git-scm.com/downloads&lt;/a&gt;
-
-## SETUP  
-Configuring user information used across all local repositories.  
-**git config --global user.name “[firstname lastname]”** &amp;#8212;
-set a name that is identifiable for credit when review version history  
-**git config --global user.email “[valid-email]”** &amp;#8212;
-set an email address that will be associated with each history marker  
-**git config --global color.ui auto** &amp;#8212;
-set automatic command line coloring for Git for easy reviewing  
-
-## SETUP &amp; INIT   
-Configuring user information, initializing and cloning repositories.  
-**git init** &amp;#8212;
-initialize an existing directory as a Git repository  
-**git clone [url]** &amp;#8212;
-retrieve an entire repository from a hosted location via URL  
-
-## STAGE &amp; SNAPSHOT  
-Working with snapshots and the Git staging area.  
-**git status** &amp;#8212;
-show modified files in working directory, staged for your next commit  
-**git add [file]** &amp;#8212;
-add a file as it looks now to your next commit (stage)  
-**git reset [file]** &amp;#8212;
-unstage a file while retaining the changes in working directory  
-**git diff** &amp;#8212;
-diff of what is changed but not staged  
-**git diff --staged** &amp;#8212;
-diff of what is staged but not yet commited  
-**git commit -m “[descriptive message]”** &amp;#8212;
-commit your staged content as a new commit snapshot  
-
-## BRANCH &amp; MERGE  
-Isolating work in branches, changing context, and integrating changes.  
-**git branch** &amp;#8212;
-list your branches. a * will appear next to the currently active branch  
-**git branch [branch-name]** &amp;#8212;
-create a new branch at the current commit  
-**git checkout** &amp;#8212;
-switch to another branch and check it out into your working directory  
-**git merge [branch]** &amp;#8212;
-merge the specified branch’s history into the current one  
-**git log** &amp;#8212;
-show all commits in the current branch’s history  
-
-## INSPECT &amp; COMPARE  
-Examining logs, diffs and object information  
-**git log** &amp;#8212;
-show the commit history for the currently active branch  
-**git log branchB..branchA** &amp;#8212;
-show the commits on branchA that are not on branchB  
-**git log --follow [file]** &amp;#8212;
-show the commits that changed file, even across renames  
-**git diff branchB...branchA** &amp;#8212;
-show the diff of what is in branchA that is not in branchB  
-**git show [SHA]** &amp;#8212;
-show any object in Git in human-readable format  
-
-## TRACKING PATH CHANGES  
-Versioning file removes and path changes.  
-**git rm [file]** &amp;#8212;
-delete the file from project and stage the removal for commit  
-**git mv [existing-path] [new-path]** &amp;#8212;
-change an existing file path and stage the move  
-**git log --stat -M** &amp;#8212;
-show all commit logs with indication of any paths that moved  
-
-## IGNORING PATTERNS  
-Preventing unintentional staging or commiting of files  
-&lt;b&gt;logs/  
-*.notes  
-pattern*/&lt;/b&gt;  
-
-Save a file with desired paterns as .gitignore with either direct string matches or wildcard globs.  
-**git config --global core.excludesfile [file]** &amp;#8212;
-system wide ignore patern for all local repositories  
-
-## SHARE &amp; UPDATE  
-Retrieving updates from another repository and updating local repos  
-**git remote add [alias] [url]** &amp;#8212;
-add a git URL as an alias  
-**git fetch [alias]** &amp;#8212;
-fetch down all the branches from that Git remote  
-**git merge [alias]/[branch]** &amp;#8212;
-merge a remote branch into your current branch to bring it up to date  
-**git push [alias] [branch]** &amp;#8212;
-Transmit local branch commits to the remote repository branch  
-**git pull** &amp;#8212;
-fetch and merge any commits from the tracking remote branch  
-
-## REWRITE HISTORY  
-Rewriting branches, updating commits and clearing history  
-**git rebase [branch]** &amp;#8212;
-apply any commits of current branch ahead of specified one  
-**git reset --hard [commit]** &amp;#8212;
-clear staging area, rewrite working tree from specified commit  
-
-## TEMPORARY COMMITS   
-Temporarily store modified, tracked files in order to change branches.  
-**git stash** &amp;#8212;
-Save modified and staged changes  
-**git stash list** &amp;#8212;
-list stack-order of stashed file changes  
-**git stash pop** &amp;#8212;
-write working from top of stash stack  
-**git stash drop** &amp;#8212;
-discard the changes from top of stash stack  
-
-Download the pdf version of GitHub Cheat Sheet provided by GitHub Education &lt;a href=&quot;https://education.github.com/git-cheat-sheet-education.pdf&quot; target=&quot;_blank&quot; title=&quot;GitHub Cheat Sheet pdf&quot;&gt;here&lt;/a&gt;.
-
-### GitHub Desktop  
-  To download GitHub Desktop on to your personal devices, visit GitHub Desktop site &lt;a href=&quot;https://desktop.github.com/&quot;         target=&quot;_blank&quot; title=&quot;GitHub Desktop&quot;&gt;here&lt;/a&gt;.
-
-  For Linux and Solaris platforms, the latest release is available on the official Git web site.</content><author><name>nikhil</name></author><category term="github" /><category term="git" /><category term="cheat sheet" /><summary type="html">Git is the free and open source distributed version control system that’s responsible for everything GitHub related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference. INSTALLATION &amp;amp; GUIS With platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest releases of the command line tool while providing a graphical user interface for day-to-day interaction, review, and repository synchronization. Git for All Platforms https://git-scm.com/downloads SETUP Configuring user information used across all local repositories. git config –global user.name “[firstname lastname]” — set a name that is identifiable for credit when review version history git config –global user.email “[valid-email]” — set an email address that will be associated with each history marker git config –global color.ui auto — set automatic command line coloring for Git for easy reviewing SETUP &amp;amp; INIT Configuring user information, initializing and cloning repositories. git init — initialize an existing directory as a Git repository git clone [url] — retrieve an entire repository from a hosted location via URL STAGE &amp;amp; SNAPSHOT Working with snapshots and the Git staging area. git status — show modified files in working directory, staged for your next commit git add [file] — add a file as it looks now to your next commit (stage) git reset [file] — unstage a file while retaining the changes in working directory git diff — diff of what is changed but not staged git diff –staged — diff of what is staged but not yet commited git commit -m “[descriptive message]” — commit your staged content as a new commit snapshot BRANCH &amp;amp; MERGE Isolating work in branches, changing context, and integrating changes. git branch — list your branches. a * will appear next to the currently active branch git branch [branch-name] — create a new branch at the current commit git checkout — switch to another branch and check it out into your working directory git merge [branch] — merge the specified branch’s history into the current one git log — show all commits in the current branch’s history INSPECT &amp;amp; COMPARE Examining logs, diffs and object information git log — show the commit history for the currently active branch git log branchB..branchA — show the commits on branchA that are not on branchB git log –follow [file] — show the commits that changed file, even across renames git diff branchB…branchA — show the diff of what is in branchA that is not in branchB git show [SHA] — show any object in Git in human-readable format TRACKING PATH CHANGES Versioning file removes and path changes. git rm [file] — delete the file from project and stage the removal for commit git mv [existing-path] [new-path] — change an existing file path and stage the move git log –stat -M — show all commit logs with indication of any paths that moved IGNORING PATTERNS Preventing unintentional staging or commiting of files logs/ .notes pattern/ Save a file with desired paterns as .gitignore with either direct string matches or wildcard globs. git config –global core.excludesfile [file] — system wide ignore patern for all local repositories SHARE &amp;amp; UPDATE Retrieving updates from another repository and updating local repos git remote add [alias] [url] — add a git URL as an alias git fetch [alias] — fetch down all the branches from that Git remote git merge [alias]/[branch] — merge a remote branch into your current branch to bring it up to date git push [alias] [branch] — Transmit local branch commits to the remote repository branch git pull — fetch and merge any commits from the tracking remote branch REWRITE HISTORY Rewriting branches, updating commits and clearing history git rebase [branch] — apply any commits of current branch ahead of specified one git reset –hard [commit] — clear staging area, rewrite working tree from specified commit TEMPORARY COMMITS Temporarily store modified, tracked files in order to change branches. git stash — Save modified and staged changes git stash list — list stack-order of stashed file changes git stash pop — write working from top of stash stack git stash drop — discard the changes from top of stash stack Download the pdf version of GitHub Cheat Sheet provided by GitHub Education here. GitHub Desktop To download GitHub Desktop on to your personal devices, visit GitHub Desktop site here. For Linux and Solaris platforms, the latest release is available on the official Git web site.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/git/cheatsheet.png" /><media:content medium="image" url="http://localhost:4000/assets/images/git/cheatsheet.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A first look at Microsoft’s xCloud game streaming service for Windows PCs</title><link href="http://localhost:4000/microsoft-xcloud-game-streaming-service-for-windows/" rel="alternate" type="text/html" title="A first look at Microsoft’s xCloud game streaming service for Windows PCs" /><published>2020-03-21T00:00:00+05:30</published><updated>2020-03-21T00:00:00+05:30</updated><id>http://localhost:4000/microsoft-xcloud-game-streaming-service-for-windows</id><content type="html" xml:base="http://localhost:4000/microsoft-xcloud-game-streaming-service-for-windows/">Microsoft has started testing its Project xCloud game streaming service for Windows 10 PCs this week. The software giant is making the preview version, which lets you stream Xbox games to a PC, available to all Microsoft employees. The Verge has been able to obtain exclusive screenshots of how xCloud will work on PCs.
-
-Microsoft has developed an Xbox Game Streaming app for Windows 10 that will be available in the Windows Store. Much like the Android or iOS versions, the app requires a Bluetooth Xbox One controller, a Microsoft account, and a good internet connection. The PC app will also support streaming games from an Xbox One console locally or remotely, instead of using Microsoft’s xCloud server blades.&lt;br&gt;
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudpcwindows10_1.jpg&quot; style=&quot;width: 300px; display: inline&quot; /&gt;
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudpcwindows10_2.jpg&quot; style=&quot;width: 300px; display: inline&quot; /&gt;
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudpcwindows10_3.jpg&quot; style=&quot;width: 300px; display: inline&quot; /&gt;
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudpcwindows10_4.jpg&quot; style=&quot;width: 300px; display: inline&quot; /&gt;
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudpcwindows10_5.jpg&quot; style=&quot;width: 300px; display: inline&quot; /&gt;
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudpcwindows10_6.jpg&quot; style=&quot;width: 300px&quot; /&gt;
-
-There are a variety of games available to Microsoft employees to test, but the app is currently limited to 720p streams for now. “This internal preview is running at 720p resolution with 1080p just around the corner,” reveals an internal Microsoft support note.
-
-The experience is very similar to what is available on Android and iOS, even down to the user interface and the way you access and stream games. It certainly looks ready to be tested broadly, and it’s likely that Microsoft will roll this out to external Xbox testers soon.
-
-Microsoft also recently upgraded its xCloud server blades to include eight Xbox One S consoles in a single server instance. That’s up from the four the company was previously testing.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/xcloudblade.jpg&quot; title=&quot;Microsoft's xCloud Server&quot; alt=&quot;Microsoft's xCloud Server&quot;;&quot;/&gt;
-
-Microsoft is now working to eventually transition these xCloud servers to the Xbox Series X processor. This next-gen processor is far more powerful and capable of running four Xbox One S game sessions simultaneously on a single chip. It also includes a new built-in video encoder that is up to six times faster than the current external encoder that Microsoft uses on existing xCloud servers.
-
-Microsoft has committed to launching xCloud this year, with PS4 controller support and this Windows 10 streaming on the way. The Xbox maker is planning to integrate Project xCloud with Xbox Game Pass later this year, allowing players to stream games from the company’s subscription service directly from the cloud.
-
-*image and post credits to &lt;a href=&quot;https://www.theverge.com/&quot;&gt;The Verge&lt;/a&gt;</content><author><name>nikhil</name></author><category term="microsoft" /><category term="xcloud" /><category term="windows" /><category term="gaming" /><summary type="html">Microsoft has started testing its Project xCloud game streaming service for Windows 10 PCs this week. The software giant is making the preview version, which lets you stream Xbox games to a PC, available to all Microsoft employees. The Verge has been able to obtain exclusive screenshots of how xCloud will work on PCs. Microsoft has developed an Xbox Game Streaming app for Windows 10 that will be available in the Windows Store. Much like the Android or iOS versions, the app requires a Bluetooth Xbox One controller, a Microsoft account, and a good internet connection. The PC app will also support streaming games from an Xbox One console locally or remotely, instead of using Microsoft’s xCloud server blades. There are a variety of games available to Microsoft employees to test, but the app is currently limited to 720p streams for now. “This internal preview is running at 720p resolution with 1080p just around the corner,” reveals an internal Microsoft support note. The experience is very similar to what is available on Android and iOS, even down to the user interface and the way you access and stream games. It certainly looks ready to be tested broadly, and it’s likely that Microsoft will roll this out to external Xbox testers soon. Microsoft also recently upgraded its xCloud server blades to include eight Xbox One S consoles in a single server instance. That’s up from the four the company was previously testing. &amp;lt;img src=”/assets/images/microsoft/xcloudblade.jpg” title=”Microsoft’s xCloud Server” alt=”Microsoft’s xCloud Server”;”/&amp;gt; Microsoft is now working to eventually transition these xCloud servers to the Xbox Series X processor. This next-gen processor is far more powerful and capable of running four Xbox One S game sessions simultaneously on a single chip. It also includes a new built-in video encoder that is up to six times faster than the current external encoder that Microsoft uses on existing xCloud servers. Microsoft has committed to launching xCloud this year, with PS4 controller support and this Windows 10 streaming on the way. The Xbox maker is planning to integrate Project xCloud with Xbox Game Pass later this year, allowing players to stream games from the company’s subscription service directly from the cloud. *image and post credits to The Verge</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/xcloud.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/xcloud.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Realme’s NARZO</title><link href="http://localhost:4000/realme-narzo-new-series/" rel="alternate" type="text/html" title="Realme's NARZO" /><published>2020-03-20T00:00:00+05:30</published><updated>2020-03-20T00:00:00+05:30</updated><id>http://localhost:4000/realme-narzo-new-series</id><content type="html" xml:base="http://localhost:4000/realme-narzo-new-series/">**Realme has gained a lot of popularity since it's launch of it's first phone the realme 1 and It is the one of the fastest growing brand in INDIA**
- 
-It has launched quiet a lot of popular phones under different series namely **C** series, the **number** series, the **pro** series and the **X** series and the company is soon going to 
-launch a brand new series under the name **NARZO** to take on the likes of redmi and poco.
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Get ready to &lt;a href=&quot;https://twitter.com/hashtag/FeelThePower?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#FeelThePower&lt;/a&gt; as we unleash the bold and the unique with &lt;a href=&quot;https://twitter.com/hashtag/realmeNarzo10?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#realmeNarzo10&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/hashtag/realmeNarzo10A?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#realmeNarzo10A&lt;/a&gt;!&lt;br&gt;Launching at 12:30 PM, 26th March on our official channels.&lt;br&gt;Know more: &lt;a href=&quot;https://t.co/fMrX6tt9CJ&quot;&gt;https://t.co/fMrX6tt9CJ&lt;/a&gt; &lt;a href=&quot;https://t.co/0W2pZQoZAP&quot;&gt;pic.twitter.com/0W2pZQoZAP&lt;/a&gt;&lt;/p&gt;&amp;mdash; realme (@realmemobiles) &lt;a href=&quot;https://twitter.com/realmemobiles/status/1240859360428879872?ref_src=twsrc%5Etfw&quot;&gt;March 20, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
-
-According to a twitter post by realme, we will be getting two models under this brand name, namely 10 and 10a. 10 will end up being the high end or more flashy variant where as 10a will be the budget option coming under this series. More about this phone will be revealed on the launch date which will be on 26th march at 12:30PM.
-
-So, what's NARZO, who is it really and what does it mean to the public while much of the details regarding the new smartphone portfolio are not out yet but, we can gather a bits of information from the promotional twitter post and the teaser and **it is clearly evident that will be focusing on the youth and it's key focuses will be on design, performance and it's styling**.</content><author><name>mohit</name></author><category term="realme" /><category term="narzo" /><category term="android phone" /><summary type="html">Realme has gained a lot of popularity since it’s launch of it’s first phone the realme 1 and It is the one of the fastest growing brand in INDIA It has launched quiet a lot of popular phones under different series namely C series, the number series, the pro series and the X series and the company is soon going to launch a brand new series under the name NARZO to take on the likes of redmi and poco.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/realme/2020-03-narzo.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/realme/2020-03-narzo.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+Another popular app research tool is &lt;a href=&quot;https://www.appbrain.com/info/ranking&quot; target=&quot;_blank&quot;&gt;AppBrain&lt;/a&gt;. In comparison, Similar Web doesn’t show you trends for an individual app, the number of downloads, etc. On the other hand, AppBrain is a furthermore intensive app data website. But, having said that if you write or develop apps, these 2 websites are a must-have bookmark on your browser.</content><author><name>nikhil</name></author><category term="internet" /><category term="play store" /><category term="app store" /><category term="trending" /><category term="app ranking" /><summary type="html">Usually, to gain insight into what’s trending on the app stores, I either read prominent websites or look at the trending page on the app store. However, the problem arises when you have to look for global data. For instance, I am located in India and if I have to check what’s trending on the US Play Store, I would have to change my Google account location. Tedious! Recently, I stumbled upon a website that lets you check the trending apps in every country and even the app trend. It is quite helpful if you are an app developer and want to understand the trend of the market. It’s also helpful if you are a journalist who covers technology and currently trending apps. It helps you gauge the type of apps that are becoming popular within different countries and regions. How to find trending apps in any country? Head over to this Similar Web tool and select the country. For instance, I have selected the United States as the country whose trending apps I want to see. Now, click on the “Go” button on the extreme right side. You will see the list of apps that are currently trending on the Google Play Store. The website also lets you see trending apps on the Apple Play Store. In the first drop-down, you can select the store as “Apple App Store” and let other options as default. Click on the go button and it will populate the trending apps on the Apple store. Additionally, you will also see an “iPad/iPhone” toggle on just below the Go button. There are a couple of different filters besides the App Store and the country. You can filter out apps based on categories like Fitness, Music, Productivity, etc. Moroever, you have a control to view popular paid apps as well. Additionally, the website shows you app trends as well. It’s a separate tab with multiple sections on it. One of the sections shows you apps that have become recently become popular and are new in the top 100 list. In addition to that, there’s a section that shows apps that have climbed their way and have increased their ranking in the top 100. Another popular app research tool is AppBrain. In comparison, Similar Web doesn’t show you trends for an individual app, the number of downloads, etc. On the other hand, AppBrain is a furthermore intensive app data website. But, having said that if you write or develop apps, these 2 websites are a must-have bookmark on your browser.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/apps/trernding_apps.jfif" /><media:content medium="image" url="http://localhost:4000/assets/images/apps/trernding_apps.jfif" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
