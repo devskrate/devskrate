@@ -85,7 +85,6 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **11. SQL Formatter** - [download](https://marketplace.visualstudio.com/items?itemName=bradymholt.pgformatter)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/sql.png)
 + This VS Code extension formats PostgreSQL SQL, using the Perl based [pgFormatter](https://github.com/darold/pgFormatter) tool. Supports keywords from SQL-92, SQL-99, SQL-2003, SQL-2008, SQL-2011 and PostgreSQL specifics keywords. Provides configuration to control formatting style.
 
 **12. Path Intellisense** - [downlaod](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
