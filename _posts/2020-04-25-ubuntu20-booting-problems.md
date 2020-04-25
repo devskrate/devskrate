@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ubuntu 20 booting problems." 
+title:  "Ubuntu 20.4 booting problems." 
 author: puneeth
 categories: [ ubuntu, linux ]
 image: assets/images/linux/ubuntu-clogo.jpg
