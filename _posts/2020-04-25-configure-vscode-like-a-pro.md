@@ -63,7 +63,7 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **7. Debugger for Chrome** - [download](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/chrome.gif){:height="400px" width="90%"}
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/chrome.gif)
 + Debugger for Chrome is a great tool if you use a debugger in VSC. It allows you to launch an instance of Chrome navigated to your app, or it can attach to a running instance of Chrome. Using the URL parameter, you tell VSC which URL to either open or launch in Chrome.
 
 **8. Gitlens** - [download](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -72,7 +72,7 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **9. Git File History** - [download](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/git-file-history.gif){:height="350px" width="90%"}
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/git-file-history.gif)
 + This helps to quickly browse the history (edits and commits done by you and others) in a cool and interesting visualization. 
 + you can try this in browser also. you just need to do these three steps.
     1. Go to a file in GitHub (or GitLab, or Bitbucket)
@@ -81,12 +81,12 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **10. Docker Extension** - [download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/docker.png){:height="350px" width="90%"}
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/docker.png)
 + The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.
 
 **11. SQL Formatter** - [download](https://marketplace.visualstudio.com/items?itemName=bradymholt.pgformatter)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/sql.png){:height="60px" width="60px"}
+![Markdown gif]({{ site.baseurl}}/assets/images/vscode/sql.png)
 + This VS Code extension formats PostgreSQL SQL, using the Perl based [pgFormatter](https://github.com/darold/pgFormatter) tool. Supports keywords from SQL-92, SQL-99, SQL-2003, SQL-2008, SQL-2011 and PostgreSQL specifics keywords. Provides configuration to control formatting style.
 
 **12. Path Intellisense** - [downlaod](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
