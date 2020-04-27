@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-27T23:47:13+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Generating preview links</title><link href="http://localhost:4000/meta-tags/" rel="alternate" type="text/html" title="Generating preview links " /><published>2020-04-27T00:00:00+05:30</published><updated>2020-04-27T00:00:00+05:30</updated><id>http://localhost:4000/meta-tags</id><content type="html" xml:base="http://localhost:4000/meta-tags/">&lt;p&gt;Have you ever wondered that if you share a link in the whatsapp, telegram, and in social media platforms how you will get the description and image related to the website? and one more thing, do you know how search engines parse the data in your websites and show it in the search results according to it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-27T23:48:46+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Generating preview links</title><link href="http://localhost:4000/meta-tags/" rel="alternate" type="text/html" title="Generating preview links " /><published>2020-04-27T00:00:00+05:30</published><updated>2020-04-27T00:00:00+05:30</updated><id>http://localhost:4000/meta-tags</id><content type="html" xml:base="http://localhost:4000/meta-tags/">&lt;p&gt;Have you ever wondered that if you share a link in the whatsapp, telegram, and in social media platforms how you will get the description and image related to the website? and one more thing, do you know how search engines parse the data in your websites and show it in the search results according to it.&lt;/p&gt;
 
 &lt;p&gt;Meta tags are the things which will do these things. 
 The minimal way of creating the meta tags are&lt;/p&gt;
@@ -63,41 +63,37 @@ The minimal way of creating the meta tags are&lt;/p&gt;
 &lt;h4 id=&quot;required-extensions-for-all-developers&quot;&gt;Required Extensions for all developers&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;1. Python extension by Microsoft&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-python.python&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/python-editing.gif&quot; alt=&quot;Python editing&quot; height=&quot;350px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/python-editing.gif&quot; alt=&quot;Python editing&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;An extension with rich support for the Python language, including features such as linting, debugging, IntelliSense, code navigation, code formatting, refactoring, unit tests, snippets, and more!&lt;/li&gt;
   &lt;li&gt;I personally use &lt;strong&gt;black&lt;/strong&gt; code-formatter. we can configure it in our workspace settings in &lt;strong&gt;.vscode&lt;/strong&gt; file. This helps to maintain code and code-formatting consistent in development.
     &lt;ul&gt;
-      &lt;li&gt;Troubleshoot the code formatting plugin in python
-&lt;a href=&quot;https://code.visualstudio.com/docs/python/editing&quot;&gt;https://code.visualstudio.com/docs/python/editing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Troubleshoot the code formatting plugin in python &lt;a href=&quot;https://code.visualstudio.com/docs/python/editing&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;2. Java Extension by Mircosoft&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/java.png&quot; alt=&quot; Java &quot; height=&quot;60px&quot; width=&quot;60px&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Markdown Renderer Extension&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/md-image.png&quot; alt=&quot;Markdown gif&quot; height=&quot;350px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/md-image.png&quot; alt=&quot;Markdown gif&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;4. Prettier Extension for JavaScript&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/prettier.png&quot; alt=&quot;Pretier&quot; height=&quot;80px&quot; width=&quot;80px&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;5. ESLint&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/eslint.png&quot; alt=&quot;Markdown gif&quot; height=&quot;60px&quot; width=&quot;60px&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;This will be useful to check JavaScript and TypeScript errors&lt;/li&gt;
   &lt;li&gt;The extension uses the ESLint library installed in the opened workspace folder. If the folder doesn’t provide one the extension looks for a global install version. If you haven’t installed ESLint either locally or globally do so by running &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install eslint&lt;/code&gt; in the workspace folder for a local install or &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install -g eslint&lt;/code&gt; for a global install.&lt;/li&gt;
@@ -105,28 +101,27 @@ The minimal way of creating the meta tags are&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;6. CSS Peek&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/css.gif&quot; alt=&quot;Markdown gif&quot; height=&quot;400px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/css.gif&quot; alt=&quot;Markdown gif&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;CSS Peek is a great tool if you keep forgetting what was a CSS class was used for. However, that could also mean that your CSS class names are not meaningful, or you have written too much “unmaintainable” code. Still, this is sure going to be handy if you are viewing/rewriting someone else’s code.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;7. Debugger for Chrome&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/chrome.gif&quot; alt=&quot;Markdown gif&quot; height=&quot;400px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/chrome.gif&quot; alt=&quot;Markdown gif&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Debugger for Chrome is a great tool if you use a debugger in VSC. It allows you to launch an instance of Chrome navigated to your app, or it can attach to a running instance of Chrome. Using the URL parameter, you tell VSC which URL to either open or launch in Chrome.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;8. Gitlens&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/git-lens.png&quot; alt=&quot;Markdown gif&quot; height=&quot;60px&quot; width=&quot;37%&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;9. Git File History&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/git-file-history.gif&quot; alt=&quot;Markdown gif&quot; height=&quot;350px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/git-file-history.gif&quot; alt=&quot;Markdown gif&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;This helps to quickly browse the history (edits and commits done by you and others) in a cool and interesting visualization.&lt;/li&gt;
   &lt;li&gt;you can try this in browser also. you just need to do these three steps.
@@ -140,21 +135,19 @@ The minimal way of creating the meta tags are&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;10. Docker Extension&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/docker.png&quot; alt=&quot;Markdown gif&quot; height=&quot;350px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/docker.png&quot; alt=&quot;Markdown gif&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;11. SQL Formatter&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=bradymholt.pgformatter&quot;&gt;download&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/sql.png&quot; alt=&quot;Markdown gif&quot; height=&quot;60px&quot; width=&quot;60px&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;This VS Code extension formats PostgreSQL SQL, using the Perl based &lt;a href=&quot;https://github.com/darold/pgFormatter&quot;&gt;pgFormatter&lt;/a&gt; tool. Supports keywords from SQL-92, SQL-99, SQL-2003, SQL-2008, SQL-2011 and PostgreSQL specifics keywords. Provides configuration to control formatting style.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;12. Path Intellisense&lt;/strong&gt; - &lt;a href=&quot;https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&quot;&gt;downlaod&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/vscode/path-intelli.png&quot; alt=&quot;Markdown gif&quot; height=&quot;350px&quot; width=&quot;90%&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Path Intellisense helps you include filenames or autocomplete them. This is a great tool if you want to type less for difficult filenames and make sure you always include the correct files.&lt;/li&gt;
 &lt;/ul&gt;
