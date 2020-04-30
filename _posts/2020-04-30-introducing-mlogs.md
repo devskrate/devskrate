@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mlog"
+title:  "Intorducing Mlogs"
 author: satya
-categories: [ blog ]
+categories: [ blog, mlog ]
 image: assets/images/mlogs/mlogs.png
 tags: [blog, mlog, introduction, series]
 ---
