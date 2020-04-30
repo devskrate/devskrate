@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T19:04:48+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Intorducing Mlogs</title><link href="http://localhost:4000/introducing-mlogs/" rel="alternate" type="text/html" title="Intorducing Mlogs" /><published>2020-04-30T00:00:00+05:30</published><updated>2020-04-30T00:00:00+05:30</updated><id>http://localhost:4000/introducing-mlogs</id><content type="html" xml:base="http://localhost:4000/introducing-mlogs/">#### Introducing Mlogs
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T19:10:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Intorducing Mlogs</title><link href="http://localhost:4000/introducing-mlogs/" rel="alternate" type="text/html" title="Intorducing Mlogs" /><published>2020-04-30T00:00:00+05:30</published><updated>2020-04-30T00:00:00+05:30</updated><id>http://localhost:4000/introducing-mlogs</id><content type="html" xml:base="http://localhost:4000/introducing-mlogs/">#### Introducing Mlogs
 
 Mlogs are **mini-blogs** which have read time less than 5 minutes and these are completely mobile friendly.
 
@@ -109,7 +109,7 @@ and offer tips to avoid the above mishaps.&lt;/p&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;7. Floating window&lt;/strong&gt;:
-Talking about the Ad situation in MIUI only time has the answer.&lt;/p&gt;
+Android 10 itself bas the floating window feature, MI included  it to miui.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img alt=&quot;Floating window&quot; width=&quot;55%&quot; src=&quot;/assets/images/mi/miui12-floating-window.jpg&quot; /&gt;
