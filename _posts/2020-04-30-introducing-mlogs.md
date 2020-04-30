@@ -13,7 +13,7 @@ Mlogs are **mini-blogs** which have read time less than 5 minutes and these are 
 
 You can read these mlogs easily using instant view in [telegram](https://t.me/DevsKrate)
 
-> Mlog - **Mini Mobile** friendly **Blogs**
+### Mlog - **Mini Mobile** friendly **Blogs**
 
 #### Why Mlogs?
 
