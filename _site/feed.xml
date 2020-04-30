@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T18:57:52+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Intorducing Mlogs</title><link href="http://localhost:4000/introducing-mlogs/" rel="alternate" type="text/html" title="Intorducing Mlogs" /><published>2020-04-30T00:00:00+05:30</published><updated>2020-04-30T00:00:00+05:30</updated><id>http://localhost:4000/introducing-mlogs</id><content type="html" xml:base="http://localhost:4000/introducing-mlogs/">#### Introducing Mlogs
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-30T19:04:48+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Intorducing Mlogs</title><link href="http://localhost:4000/introducing-mlogs/" rel="alternate" type="text/html" title="Intorducing Mlogs" /><published>2020-04-30T00:00:00+05:30</published><updated>2020-04-30T00:00:00+05:30</updated><id>http://localhost:4000/introducing-mlogs</id><content type="html" xml:base="http://localhost:4000/introducing-mlogs/">#### Introducing Mlogs
 
 Mlogs are **mini-blogs** which have read time less than 5 minutes and these are completely mobile friendly.
 
@@ -93,37 +93,37 @@ Xiaomi this time along has followed a three-pronged approach to improve privacy 
 and offer tips to avoid the above mishaps.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;60%&quot; src=&quot;/assets/images/mi/miui12-privacy-flare.jpg&quot; /&gt;
+  &lt;img alt=&quot;Flare privacy image&quot; width=&quot;60%&quot; src=&quot;/assets/images/mi/miui12-privacy-flare.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;The &lt;strong&gt;second&lt;/strong&gt; one is Barbed Wire, in which it offers several permission options similar to Android 10 and gives us options like for permanently allow or only when app is in use or allow only once and it even shows the icon of which app is using what services.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;60%&quot; src=&quot;/assets/images/mi/miui12-privacy-barbed.jpg&quot; /&gt;
+  &lt;img alt=&quot;Barbed privacy image&quot; width=&quot;60%&quot; src=&quot;/assets/images/mi/miui12-privacy-barbed.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;The &lt;strong&gt;third&lt;/strong&gt; one is the Mask system which lets users to create and share virtual ID’s when apps ask about the data, we saw a similar implementation in the Color OS 7 skin as well.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;27%&quot; src=&quot;/assets/images/mi/miui12-privacy-virtual-id.jpg&quot; /&gt;
+  &lt;img width=&quot;27%&quot; alt=&quot;Mask&quot; src=&quot;/assets/images/mi/miui12-privacy-virtual-id.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;7. Floating window&lt;/strong&gt;:
 Talking about the Ad situation in MIUI only time has the answer.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;55%&quot; src=&quot;/assets/images/mi/miui12-floating-window.jpg&quot; /&gt;
+  &lt;img alt=&quot;Floating window&quot; width=&quot;55%&quot; src=&quot;/assets/images/mi/miui12-floating-window.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;8. Ads&lt;/strong&gt;:
 Talking about the Ad situation in MIUI only time has the answer.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;30%&quot; src=&quot;/assets/images/mi/miui12-ads.jpg&quot; /&gt;
+  &lt;img alt=&quot;Ads&quot; width=&quot;30%&quot; src=&quot;/assets/images/mi/miui12-ads.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;9. AI :&lt;/strong&gt;
-AI feature is only available to china present.&lt;/p&gt;
+AI feature is only available to china at present.&lt;/p&gt;
 
 &lt;p&gt;These are some of the important features coming to Xiaomi devices through MIUI 12 update.&lt;/p&gt;
 
