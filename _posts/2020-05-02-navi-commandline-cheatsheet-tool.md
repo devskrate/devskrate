@@ -34,32 +34,32 @@ See how cool navi is -
 - it will teach you new one-liners.
 - **Open Source tool**
 
-it can be either used as a command or as a shell widget (Ctrl-R).
+It can be either used as a command or as a shell widget (Ctrl-R).
 ![navi-demo]({{ site.baseurl}}/assets/images/mlogs/navi/navi-demo2.gif)
 
 #### Installation
 
 ##### Using [Homebrew](http://brew.sh/) or [Linuxbrew](http://linuxbrew.sh/)
 
-```sh
+```batch
 brew install navi
 ```
 
 ##### Using [cargo](https://github.com/rust-lang/cargo)
 
-```bash
+```batch
 cargo install navi
 ```
 
 ##### Using install script
 
-```bash
+```batch
 bash <(curl -sL https://raw.githubusercontent.com/denisidoro/navi/master/scripts/install)
 ```
 
 ##### Building from source
 
-```bash
+```batch
 git clone https://github.com/denisidoro/navi ~/.navi
 cd ~/.navi
 make install 
