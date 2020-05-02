@@ -68,7 +68,7 @@ make install
 
 By running `navi` for the first time, you'll be suggested to download some *cheatsheets*. By running `navi` again, these *cheatsheets* will appear.
 
-### Shell widget
+#### Shell widget
 
 You can use **navi** as a widget to your shell. This way, your history is correctly populated and you can edit the command as you wish before executing it. To set it up, add this line to your `.bashrc`-like file:
 ```sh
