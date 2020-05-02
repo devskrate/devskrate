@@ -4,7 +4,7 @@ title:  "Configure your VS Code like a pro"
 author: satya
 categories: [ Devlopment, DevStuff, VisualStudioCode]
 image: assets/images/vscode/vscode-home.png
-tags: [developers, microsoft, vscode, DevStuff, configuring]
+tags: [developers, microsoft, vscode, DevStuff, configuring, featured]
 ---
 
 Being core **Python** and **Java** developers we extensively use VS Code for our project development and use code formatting heavily to enable consistency of code while developing as a team and there are lot of useful extensions which will help you to ease your task and run things on your fingertips.  
