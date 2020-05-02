@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/devskrate/prod">
-    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">DevsKrate</h3>
