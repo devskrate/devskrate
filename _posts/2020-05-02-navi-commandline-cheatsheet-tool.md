@@ -7,10 +7,10 @@ image: assets/images/mlogs/navi/navi.png
 tags: [dev-linux, mlogs, navi, linux]
 ---
 
-Do you feel command-line is only for geeks or nerds?
-Do you feel hard to remember commands and it's options?
-Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands.
-You may come across many Linux tools but this will surely help for everyone who use Linux.
+Do you feel command-line is only for geeks or nerds?          
+Do you feel hard to remember commands and it's options?            
+Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands.        
+You may come across many Linux tools but this will surely help for everyone who use Linux.        
 
 > There's nothing like NewBee(Noob) and Pro in Linux. It's an ocean of resources, Usage will completely depend on the work you do.
 
@@ -78,7 +78,7 @@ source <(navi widget bash)
 
 Please refer to `navi --help` for more details or refer their [documentation](https://github.com/denisidoro/navi/blob/master/README.md)
 
-Beauty of navi is you can see, understand and contribute to it as it is an **open source project**
+Beauty of navi is you can see, understand and contribute to it as it is an **open source project**               
 Here is the link for the repo on [GitHub](https://github.com/denisidoro/navi/)
 
 ##### Happy Quarantine 
