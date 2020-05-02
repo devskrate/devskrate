@@ -3,7 +3,8 @@ layout: default
 ---
 {% assign author = site.authors[page.author] %}
 <script type="text/javascript" src="../assets/js/clipboard.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.5/lib/darkmode-js.min.js"></script>
+<!--Dark mode JS-->
+<script src="../assets/js/dark-mode.js"></script>
 <script>
   var options = {
   bottom: '32px', // default: '32px'
@@ -40,7 +41,7 @@ console.error('Trigger:', e.trigger);
 });
 </script>
 <div class="container">
-<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+<div id="post-title-area" class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
 			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
 				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
