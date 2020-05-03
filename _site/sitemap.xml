@@ -125,7 +125,7 @@
 <lastmod>2020-05-02T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about.html</loc>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/all-posts</loc>
@@ -188,7 +188,7 @@
 <loc>http://localhost:4000/categories/windows</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact.html</loc>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

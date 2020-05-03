@@ -81,21 +81,18 @@
                <!--  Replace menu links here -->
 
 <li class="nav-item">
-<a class="nav-link" href="/index.html">Home</a>
+<a class="nav-link" href="/">Home</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/authors-list.html">Authors</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="/about.html ">About Us</a>
-</li>
-<li class="nav-item">
-    <a class="nav-link" href="/contact.html ">Contact Us</a>
+    <a class="nav-link" href="/contact">Contact Us</a>
 </li>
 <!--li class="nav-item dropdown ml-auto " style="">
     <a class="nav-link dropdown-toggle" id="dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
     <ul class="dropdown-menu" aria-labelledby="dropdown">
-        <li class="dropdown-item " ><a class="dropdown-item-dropdown" href="/about.html ">About Us</a></li>
+        <li class="dropdown-item " ><a class="dropdown-item-dropdown" href="/contact ">About Us</a></li>
         <li class="dropdown-item " ><a class="dropdown-item-dropdown" href="/contact.html ">Contact Us</a></li>
         <!--li class="dropdown-item dropdown">
             <a class="dropdown-toggle" id="dropdown1-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown1.1</a>
@@ -133,9 +130,9 @@ var documents = [{
     "body": " 404 Page not found :(  The requested page could not be found. "
     }, {
     "id": 1,
-    "url": "http://localhost:4000/about.html",
-    "title": "About",
-    "body": "Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc. , and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge. : DevsKrate : Tech to Everyone: "
+    "url": "http://localhost:4000/contact",
+    "title": "Contact",
+    "body": " Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc. , and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge. DevsKrate : Tech to EveryoneIf you’d like to get in touch with us, feel free to write us at devskrate@gmail. com "
     }, {
     "id": 2,
     "url": "http://localhost:4000/all-posts",
@@ -238,9 +235,9 @@ var documents = [{
     "body": "          Categorie :windows    {% assign category = site. posts | where: categories , windows  %}          {% for post in category %}      {% include main-loop-card. html %}      {% endfor %}                  {% include sidebar-featured. html %}            "
     }, {
     "id": 22,
-    "url": "http://localhost:4000/contact.html",
+    "url": "http://localhost:4000/contact",
     "title": "Contact",
-    "body": " If you’d like to get in touch with us, feel free to write us at devskrate@gmail. com: "
+    "body": " If you’d like to get in touch with us, feel free to write us at support@devskrate. com "
     }, {
     "id": 23,
     "url": "http://localhost:4000/",
@@ -280,7 +277,7 @@ var documents = [{
     "id": 30,
     "url": "http://localhost:4000/navi-commandline-cheatsheet-tool/",
     "title": "Navi - An interactive commandline cheatsheet tool",
-    "body": "2020/05/02 - Do you feel command-line is only for geeks or nerds?Do you feel hard to remember commands and it’s options?Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands. You may come across many Linux tools but this will surely help for everyone who use Linux.  There’s nothing like NewBee(Noob) and Pro in Linux. It’s an ocean of resources, Usage will completely depend on the work you do. What is navi?: Navi is an interactive cheatsheet tool written in Rust for the command-line and application launchers. Just like Bro pages, Cheat, Tldr tools, Navi also provides a list of examples for a given command, skipping all other comprehensive text parts. Navi allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands, prompting for argument values. from now you will never say any of these.  How to run that command again? Oh, it’s not in my bash history Damn, it’s almost what I wanted but I need to change some argsSee how cool navi is - Pros of navi:  it will make you type less; it will spare you from knowing CLIs by heart; it will teach you new one-liners.  Open Source toolIt can be either used as a command or as a shell widget (Ctrl-R). Installation: Using Homebrew or Linuxbrewbrew install naviUsing cargocargo install naviUsing install scriptbash &lt;(curl -sL https://raw. githubusercontent. com/denisidoro/navi/master/scripts/install)Building from sourcegit clone https://github. com/denisidoro/navi ~/. navicd ~/. navimake install Usage: By running navi for the first time, you’ll be suggested to download some cheatsheets. By running navi again, these cheatsheets will appear. Shell widget: You can use navi as a widget to your shell. This way, your history is correctly populated and you can edit the command as you wish before executing it. To set it up, add this line to your . bashrc-like file: # bashsource &lt;(navi widget bash)Please refer to navi --help for more details or refer their documentation Beauty of navi is you can see, understand and contribute to it as it is an open source projectHere is the link for the repo on GitHub Happy QuarantinePlease share your feedback on twitter, Instagram, or mail us at support@devskrate. com. Use #DevsKrate on any social media platforms we will reach out to you. "
+    "body": "2020/05/02 - Do you feel command-line is only for geeks or nerds?    Do you feel hard to remember commands and it’s options?     Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands.    You may come across many Linux tools but this will surely help for everyone who use Linux.  There’s nothing like NewBee(Noob) and Pro in Linux. It’s an ocean of resources, Usage will completely depend on the work you do. What is navi?: Navi is an interactive cheatsheet tool written in Rust for the command-line and application launchers. Just like Bro pages, Cheat, Tldr tools, Navi also provides a list of examples for a given command, skipping all other comprehensive text parts. Navi allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands, prompting for argument values. from now you will never say any of these.  How to run that command again? Oh, it’s not in my bash history Damn, it’s almost what I wanted but I need to change some argsSee how cool navi is - Pros of navi:  it will make you type less; it will spare you from knowing CLIs by heart; it will teach you new one-liners.  Open Source toolIt can be either used as a command or as a shell widget (Ctrl-R). Installation: Using Homebrew or Linuxbrewbrew install naviUsing cargocargo install naviUsing install scriptbash &lt;(curl -sL https://raw. githubusercontent. com/denisidoro/navi/master/scripts/install)Building from sourcegit clone https://github. com/denisidoro/navi ~/. navicd ~/. navimake install Usage: By running navi for the first time, you’ll be suggested to download some cheatsheets. By running navi again, these cheatsheets will appear. Shell widget: You can use navi as a widget to your shell. This way, your history is correctly populated and you can edit the command as you wish before executing it. To set it up, add this line to your . bashrc-like file: # bashsource &lt;(navi widget bash)Please refer to navi --help for more details or refer their documentation Beauty of navi is you can see, understand and contribute to it as it is an open source project       Here is the link for the repo on GitHub Happy QuarantinePlease share your feedback on twitter, Instagram, or mail us at support@devskrate. com. Use #DevsKrate on any social media platforms we will reach out to you. "
     }, {
     "id": 31,
     "url": "http://localhost:4000/firefox-containers/",
@@ -514,13 +511,15 @@ function lunr_search(term) {
     <main role="main" class="site-content">
         
 <script type="text/javascript" src="../assets/js/clipboard.min.js"></script>
+<!--script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script-->
+
 <!--Dark mode JS-->
 <script src="../assets/js/dark-mode.js"></script>
 <script>
   var options = {
-  bottom: '32px', // default: '32px'
-  right: 'unset', // default: '32px'
-  left: '32px', // default: 'unset'
+  top: '38px', // default: '32px'
+  right: '95px', // default: '32px'
+  left: 'unset', // default: 'unset'
   time: '0.3s', // default: '0.3s'
   mixColor: '#fff', // default: '#fff'
   backgroundColor: '#fff',  // default: '#fff'
@@ -534,7 +533,7 @@ function lunr_search(term) {
 const darkmode = new Darkmode(options);
 darkmode.showWidget();
 </script>
-<!--script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script-->
+
 <script>
 var clipboard = new ClipboardJS('.btn');
 
@@ -735,7 +734,6 @@ console.error('Trigger:', e.trigger);
     <script src="/assets/js/theme.js"></script>
     
 
-
     <!-- Footer -->
     <footer class="bg-white border-top p-3 text-muted small">
         <div class="container">
@@ -753,9 +751,7 @@ console.error('Trigger:', e.trigger);
             </div>
         </div>
         </div>
-    </footer>
-
-    
+    </footer>    
 
 </body>
 </html>
