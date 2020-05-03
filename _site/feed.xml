@@ -1,81 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-03T15:47:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Navi - An interactive commandline cheatsheet tool</title><link href="http://localhost:4000/navi-commandline-cheatsheet-tool/" rel="alternate" type="text/html" title="Navi - An interactive commandline cheatsheet tool" /><published>2020-05-02T00:00:00+05:30</published><updated>2020-05-02T00:00:00+05:30</updated><id>http://localhost:4000/navi-commandline-cheatsheet-tool</id><content type="html" xml:base="http://localhost:4000/navi-commandline-cheatsheet-tool/">&lt;p&gt;Do you feel command-line is only for geeks or nerds?        &lt;br /&gt;
-Do you feel hard to remember commands and it’s options?          &lt;br /&gt;
-Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands.      &lt;br /&gt;
-You may come across many Linux tools but this will surely help for everyone who use Linux.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-03T18:33:21+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Navi - An interactive commandline cheatsheet tool</title><link href="http://localhost:4000/navi-commandline-cheatsheet-tool/" rel="alternate" type="text/html" title="Navi - An interactive commandline cheatsheet tool" /><published>2020-05-02T00:00:00+05:30</published><updated>2020-05-02T00:00:00+05:30</updated><id>http://localhost:4000/navi-commandline-cheatsheet-tool</id><content type="html" xml:base="http://localhost:4000/navi-commandline-cheatsheet-tool/">Do you feel command-line is only for geeks or nerds?          
+Do you feel hard to remember commands and it's options?            
+Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands.        
+You may come across many Linux tools but this will surely help for everyone who use Linux.        
 
-&lt;blockquote&gt;
-  &lt;p&gt;There’s nothing like NewBee(Noob) and Pro in Linux. It’s an ocean of resources, Usage will completely depend on the work you do.&lt;/p&gt;
-&lt;/blockquote&gt;
+&gt; There's nothing like NewBee(Noob) and Pro in Linux. It's an ocean of resources, Usage will completely depend on the work you do.
 
-&lt;h4 id=&quot;what-is-navi&quot;&gt;What is navi?&lt;/h4&gt;
+#### What is navi?
 
-&lt;p&gt;&lt;strong&gt;Navi&lt;/strong&gt; is an interactive cheatsheet tool written in &lt;strong&gt;Rust&lt;/strong&gt; for the &lt;strong&gt;command-line and application launchers&lt;/strong&gt;. Just like Bro pages, Cheat, Tldr tools, Navi also provides a list of examples for a given command, skipping all other comprehensive text parts.&lt;/p&gt;
+**Navi** is an interactive cheatsheet tool written in **Rust** for the **command-line and application launchers**. Just like Bro pages, Cheat, Tldr tools, Navi also provides a list of examples for a given command, skipping all other comprehensive text parts.
 
-&lt;p&gt;&lt;strong&gt;Navi&lt;/strong&gt; allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands, prompting for argument values.&lt;/p&gt;
+**Navi** allows you to browse through cheatsheets (that you may write yourself or download from maintainers) and execute commands, prompting for argument values.
 
-&lt;p&gt;from now you will never say any of these.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;How to run that command again?&lt;/li&gt;
-  &lt;li&gt;Oh, it’s not in my bash history&lt;/li&gt;
-  &lt;li&gt;Damn, it’s almost what I wanted but I need to change some args&lt;/li&gt;
-&lt;/ul&gt;
+from now you will never say any of these.
+- How to run that command again?
+- Oh, it's not in my bash history
+- Damn, it's almost what I wanted but I need to change some args
 
-&lt;p&gt;See how cool navi is - 
-&lt;img src=&quot;/assets/images/mlogs/navi/navi-demo.gif&quot; alt=&quot;navi-demo&quot; /&gt;&lt;/p&gt;
+See how cool navi is - 
+![navi-demo]({{ site.baseurl}}/assets/images/mlogs/navi/navi-demo.gif)
 
-&lt;h4 id=&quot;pros-of-navi&quot;&gt;Pros of navi&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;it will make you type less;&lt;/li&gt;
-  &lt;li&gt;it will spare you from knowing CLIs by heart;&lt;/li&gt;
-  &lt;li&gt;it will teach you new one-liners.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open Source tool&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+#### Pros of navi
+- it will make you type less;
+- it will spare you from knowing CLIs by heart;
+- it will teach you new one-liners.
+- **Open Source tool**
 
-&lt;p&gt;It can be either used as a command or as a shell widget (Ctrl-R).
-&lt;img src=&quot;/assets/images/mlogs/navi/navi-demo2.gif&quot; alt=&quot;navi-demo&quot; /&gt;&lt;/p&gt;
+It can be either used as a command or as a shell widget (Ctrl-R).
+![navi-demo]({{ site.baseurl}}/assets/images/mlogs/navi/navi-demo2.gif)
 
-&lt;h4 id=&quot;installation&quot;&gt;Installation&lt;/h4&gt;
+#### Installation
 
-&lt;h5 id=&quot;using-homebrew-or-linuxbrew&quot;&gt;Using &lt;a href=&quot;http://brew.sh/&quot;&gt;Homebrew&lt;/a&gt; or &lt;a href=&quot;http://linuxbrew.sh/&quot;&gt;Linuxbrew&lt;/a&gt;&lt;/h5&gt;
+##### Using [Homebrew](http://brew.sh/) or [Linuxbrew](http://linuxbrew.sh/)
 
-&lt;div class=&quot;language-batch highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;brew&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;navi&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+```batch
+brew install navi
+```
 
-&lt;h5 id=&quot;using-cargo&quot;&gt;Using &lt;a href=&quot;https://github.com/rust-lang/cargo&quot;&gt;cargo&lt;/a&gt;&lt;/h5&gt;
+##### Using [cargo](https://github.com/rust-lang/cargo)
 
-&lt;div class=&quot;language-batch highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;cargo&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;navi&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+```batch
+cargo install navi
+```
 
-&lt;h5 id=&quot;using-install-script&quot;&gt;Using install script&lt;/h5&gt;
+##### Using install script
 
-&lt;div class=&quot;language-batch highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;bash&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;curl&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;-sL &lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;https&lt;/span&gt;://raw.githubusercontent.com/denisidoro/navi/master/scripts/install&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+```batch
+bash &lt;(curl -sL https://raw.githubusercontent.com/denisidoro/navi/master/scripts/install)
+```
 
-&lt;h5 id=&quot;building-from-source&quot;&gt;Building from source&lt;/h5&gt;
+##### Building from source
 
-&lt;div class=&quot;language-batch highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;clone&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;https&lt;/span&gt;://github.com/denisidoro/navi &lt;span class=&quot;o&quot;&gt;~&lt;/span&gt;/.navi
-&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;~&lt;/span&gt;/.navi
-&lt;span class=&quot;kd&quot;&gt;make&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;install&lt;/span&gt; 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h4 id=&quot;usage&quot;&gt;Usage&lt;/h4&gt;
+```batch
+git clone https://github.com/denisidoro/navi ~/.navi
+cd ~/.navi
+make install 
+```
+#### Usage
 
-&lt;p&gt;By running &lt;code class=&quot;highlighter-rouge&quot;&gt;navi&lt;/code&gt; for the first time, you’ll be suggested to download some &lt;em&gt;cheatsheets&lt;/em&gt;. By running &lt;code class=&quot;highlighter-rouge&quot;&gt;navi&lt;/code&gt; again, these &lt;em&gt;cheatsheets&lt;/em&gt; will appear.&lt;/p&gt;
+By running `navi` for the first time, you'll be suggested to download some *cheatsheets*. By running `navi` again, these *cheatsheets* will appear.
 
-&lt;h4 id=&quot;shell-widget&quot;&gt;Shell widget&lt;/h4&gt;
+#### Shell widget
 
-&lt;p&gt;You can use &lt;strong&gt;navi&lt;/strong&gt; as a widget to your shell. This way, your history is correctly populated and you can edit the command as you wish before executing it. To set it up, add this line to your &lt;code class=&quot;highlighter-rouge&quot;&gt;.bashrc&lt;/code&gt;-like file:&lt;/p&gt;
-&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# bash&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;source&lt;/span&gt; &amp;lt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;navi widget bash&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+You can use **navi** as a widget to your shell. This way, your history is correctly populated and you can edit the command as you wish before executing it. To set it up, add this line to your `.bashrc`-like file:
+```sh
+# bash
+source &lt;(navi widget bash)
+```
 
-&lt;p&gt;Please refer to &lt;code class=&quot;highlighter-rouge&quot;&gt;navi --help&lt;/code&gt; for more details or refer their &lt;a href=&quot;https://github.com/denisidoro/navi/blob/master/README.md&quot;&gt;documentation&lt;/a&gt;&lt;/p&gt;
+Please refer to `navi --help` for more details or refer their [documentation](https://github.com/denisidoro/navi/blob/master/README.md)
 
-&lt;p&gt;Beauty of navi is you can see, understand and contribute to it as it is an &lt;strong&gt;open source project&lt;/strong&gt;             &lt;br /&gt;
-Here is the link for the repo on &lt;a href=&quot;https://github.com/denisidoro/navi/&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+Beauty of navi is you can see, understand and contribute to it as it is an **open source project**               
+Here is the link for the repo on [GitHub](https://github.com/denisidoro/navi/)
 
-&lt;h5 id=&quot;happy-quarantine&quot;&gt;Happy Quarantine&lt;/h5&gt;
+##### Happy Quarantine 
 
-&lt;p&gt;Please share your feedback on &lt;a href=&quot;https://twitter.com/devskrate&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/devskrate&quot;&gt;Instagram&lt;/a&gt;, or mail us at &lt;a href=&quot;mailto:support@devskrate.com&quot;&gt;support@devskrate.com&lt;/a&gt;. Use &lt;a href=&quot;https://devskrate.com&quot;&gt;#DevsKrate&lt;/a&gt; on any social media platforms we will reach out to you.&lt;/p&gt;</content><author><name>satya</name></author><category term="dev-linux" /><category term="mlogs" /><category term="navi" /><category term="linux" /><summary type="html">Do you feel command-line is only for geeks or nerds? Do you feel hard to remember commands and it’s options? Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands. You may come across many Linux tools but this will surely help for everyone who use Linux.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/navi/navi.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/navi/navi.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Firefox containers</title><link href="http://localhost:4000/firefox-containers/" rel="alternate" type="text/html" title="Firefox containers" /><published>2020-05-01T00:00:00+05:30</published><updated>2020-05-01T00:00:00+05:30</updated><id>http://localhost:4000/firefox-containers</id><content type="html" xml:base="http://localhost:4000/firefox-containers/">Have you ever got annoyed while using multiple accounts like personal, school, work accounts in a single browser?
+Please share your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="dev-linux" /><category term="mlogs" /><category term="navi" /><category term="linux" /><summary type="html">Do you feel command-line is only for geeks or nerds? Do you feel hard to remember commands and it’s options? Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands. You may come across many Linux tools but this will surely help for everyone who use Linux.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/navi/navi.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/navi/navi.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Firefox containers</title><link href="http://localhost:4000/firefox-containers/" rel="alternate" type="text/html" title="Firefox containers" /><published>2020-05-01T00:00:00+05:30</published><updated>2020-05-01T00:00:00+05:30</updated><id>http://localhost:4000/firefox-containers</id><content type="html" xml:base="http://localhost:4000/firefox-containers/">Have you ever got annoyed while using multiple accounts like personal, school, work accounts in a single browser?
 
 Yeah firefox got a solution for this,
 **Firefox Multi-Account Containers**: Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
