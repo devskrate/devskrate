@@ -72,7 +72,7 @@ Based on Github contribution chart renders an isometric(3D) pixel view of GitHub
 
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
-Here is my isometric contribution chart - **I'm loving it.. :wink:**      
+Here is my [**github**](https://github.com.srisatyalokesh) isometric contribution chart - **I'm loving it.. :wink:**      
 ![isometric-demo]({{ site.baseurl}}/assets/images/mlogs/github/isometric.png)
 
 ##### Happy Quarantine 
