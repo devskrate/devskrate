@@ -8,14 +8,14 @@ tags: [chrome, firefox, extensions, github]
 ---
 
 
-GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions :sweat_smile:
+GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions 
 
 If your answer is **YES** to any of these questions, this [mlog](https://devskrate.com/introducing-mlogs/) is for you.    
 * Do you love to explore GitHub?
 * Do you use GitHub extensively?
 * Do you ever felt that GitHub should be redesigned to meet your needs?
 * Are you a fan of [Git](https://devskrate.com/git-cheat-sheet/)?
-* Are you a Developer :grin: ?
+* Are you a Developer ?
 
 We brought you some cool and amazing browser extensions to enhance your experience with GitHub.
 
@@ -72,7 +72,7 @@ Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub
 
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
-Here is my [**github**](https://github.com.srisatyalokesh) isometric contribution chart - **I'm loving it.. :wink:**      
+Here is my [**github**](https://github.com.srisatyalokesh) isometric contribution chart - **I'm loving it..**      
 ![isometric-demo]({{ site.baseurl}}/assets/images/mlogs/github/isometric.png)
 
 ##### Happy Quarantine 
