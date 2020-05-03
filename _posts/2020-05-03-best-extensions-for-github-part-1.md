@@ -4,11 +4,15 @@ title:  GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
 author: satya
 categories: [ Extensions, GitHub ]
 image: assets/images/mlogs/github/gittensions.jpg
-tags: [chrome, firefox, extensions, github]
+tags: [chrome, firefox, extensions, github, gitlab]
 ---
 
 
+<<<<<<< HEAD
 GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions 
+=======
+GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions
+>>>>>>> f0518776a5efceff3da50ec6035dcbd639169502
 
 If your answer is **YES** to any of these questions, this [mlog](https://devskrate.com/introducing-mlogs/) is for you.    
 * Do you love to explore GitHub?
@@ -72,8 +76,8 @@ Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub
 
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
-Here is my [**github**](https://github.com.srisatyalokesh) isometric contribution chart - **I'm loving it..**      
-![isometric-demo]({{ site.baseurl}}/assets/images/mlogs/github/isometric.png)
+Here is my [**github**](https://github.com./srisatyalokesh) isometric contribution chart - **I'm loving it..**      
+![isometric-demo]({{ site.baseurl}}/assets/images/mlogs/github/isometric.PNG)
 
 ##### Happy Quarantine 
 Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.
