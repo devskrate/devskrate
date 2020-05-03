@@ -33,7 +33,7 @@ Features
 
 ![octotree-demo]({{ site.baseurl}}/assets/images/mlogs/github/octotree-demo.gif)
 
-There's a pro version avialable for this extension, explore the features of pro version [here](https://www.octotree.io/)
+There's a pro version avaiable for this extension, explore the features of pro version [here](https://www.octotree.io/)
 
 
 #### 2. Enhanced Github - [Chrome](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)
@@ -68,7 +68,7 @@ But this extension to replace original file icon with filetype-specific icons. T
 
 #### 5. Isometric Contributions -[Chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/related), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/isometric-github/?src=search)
 
-Based on Github contribution chart renders an isometric(3D) pixel view of GitHub contribution graphs.
+Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub contribution graphs.
 
 This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
 
