@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: "/contact"
+permalink: "/about"
 comments: false
 ---
 <p class="contact-page" markdown="1">
@@ -9,7 +9,7 @@ comments: false
 
 **DevsKrate : Tech to Everyone**
 
-**If you’d like to get in touch with us, feel free to write us at** <bold><a href="mailto:devskrate@gmail.com">devskrate@gmail.com</a></bold>
+**If you’d like to get in touch with us, feel free to write us at** <bold><a href="mailto:support@devskrate.com.com">support@devskrate.com</a></bold>
 <br><br><br><br><br><br>
 
 </p>
