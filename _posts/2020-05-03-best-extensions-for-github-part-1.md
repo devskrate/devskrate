@@ -8,11 +8,9 @@ tags: [chrome, firefox, extensions, github, gitlab]
 ---
 
 
-<<<<<<< HEAD
-GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions 
-=======
+
 GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions
->>>>>>> f0518776a5efceff3da50ec6035dcbd639169502
+
 
 If your answer is **YES** to any of these questions, this [mlog](https://devskrate.com/introducing-mlogs/) is for you.    
 * Do you love to explore GitHub?
@@ -24,6 +22,7 @@ If your answer is **YES** to any of these questions, this [mlog](https://devskra
 We brought you some cool and amazing browser extensions to enhance your experience with GitHub.
 
 If you're not using any of these you're missing so much fun. What are you waiting for add them to your browser right away. you'll feel like 
+
 > **GitHub on steroids**     
 
 #### 1. OctoTree - [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/?src=search)
