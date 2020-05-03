@@ -4,7 +4,7 @@ title:  GitTensions - Exclusive Extensions for GitHub and GitLab - part 1
 author: satya
 categories: [ Extensions, GitHub ]
 image: assets/images/mlogs/github/gittensions.jpg
-tags: [chrome, firefox, extensions, github]
+tags: [chrome, firefox, extensions, github, gitlab]
 ---
 
 
