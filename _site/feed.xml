@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-03T15:06:35+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Navi - An interactive commandline cheatsheet tool</title><link href="http://localhost:4000/navi-commandline-cheatsheet-tool/" rel="alternate" type="text/html" title="Navi - An interactive commandline cheatsheet tool" /><published>2020-05-02T00:00:00+05:30</published><updated>2020-05-02T00:00:00+05:30</updated><id>http://localhost:4000/navi-commandline-cheatsheet-tool</id><content type="html" xml:base="http://localhost:4000/navi-commandline-cheatsheet-tool/">&lt;p&gt;Do you feel command-line is only for geeks or nerds?        &lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-03T18:42:42+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">GitTensions - Exclusive Extensions for GitHub and GitLab - part 1</title><link href="http://localhost:4000/best-extensions-for-github-part-1/" rel="alternate" type="text/html" title="GitTensions - Exclusive Extensions for GitHub and GitLab - part 1" /><published>2020-05-03T00:00:00+05:30</published><updated>2020-05-03T00:00:00+05:30</updated><id>http://localhost:4000/best-extensions-for-github-part-1</id><content type="html" xml:base="http://localhost:4000/best-extensions-for-github-part-1/">&lt;p&gt;GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions&lt;/p&gt;
+
+&lt;p&gt;If your answer is &lt;strong&gt;YES&lt;/strong&gt; to any of these questions, this &lt;a href=&quot;https://devskrate.com/introducing-mlogs/&quot;&gt;mlog&lt;/a&gt; is for you.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Do you love to explore GitHub?&lt;/li&gt;
+  &lt;li&gt;Do you use GitHub extensively?&lt;/li&gt;
+  &lt;li&gt;Do you ever felt that GitHub should be redesigned to meet your needs?&lt;/li&gt;
+  &lt;li&gt;Are you a fan of &lt;a href=&quot;https://devskrate.com/git-cheat-sheet/&quot;&gt;Git&lt;/a&gt;?&lt;/li&gt;
+  &lt;li&gt;Are you a Developer ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We brought you some cool and amazing browser extensions to enhance your experience with GitHub.&lt;/p&gt;
+
+&lt;p&gt;If you’re not using any of these you’re missing so much fun. What are you waiting for add them to your browser right away. you’ll feel like&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;GitHub on steroids&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;1-octotree---chrome-firefox&quot;&gt;1. OctoTree - &lt;a href=&quot;https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc&quot;&gt;Chrome&lt;/a&gt;, &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/octotree/?src=search&quot;&gt;Firefox&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.octotree.io/&quot;&gt;OctoTree&lt;/a&gt; is a Browser extension that brings your GitHub experience to the next level. Best thing is this provides side nav-bar to browse through all files in a repo.&lt;/p&gt;
+
+&lt;p&gt;Features&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Easy-to-navigate code tree, just like in IDEs&lt;/li&gt;
+  &lt;li&gt;Fast file browsing with pjax&lt;/li&gt;
+  &lt;li&gt;Support private repositories&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/octotree-demo.gif&quot; alt=&quot;octotree-demo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a pro version available for this extension, explore the features of pro version &lt;a href=&quot;https://www.octotree.io/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-enhanced-github---chrome&quot;&gt;2. Enhanced Github - &lt;a href=&quot;https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd&quot;&gt;Chrome&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Display repo size, size of each file, download link for individual files and option to copy file contents with a single click.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/enhance-github.jpg&quot; alt=&quot;enhance-githuub-demo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Features&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Displays repo size and each file size in every active branch (not applicable for folder / symlink)&lt;/li&gt;
+  &lt;li&gt;Show download link for each individual file (not applicable for folder / symlink)&lt;/li&gt;
+  &lt;li&gt;Download file while viewing it’s contents and Copy file’s contents directly to Clipboard.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-gitexpandinizr--chrome&quot;&gt;3. Git.Expandinizr- &lt;a href=&quot;https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib&quot;&gt;Chrome&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Usually we do feel irritating when Github truncates the name of file or folder, to view full name we need to open that file. But with this extension this problem will be solved.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/truncate.png&quot; alt=&quot;truncate-demo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Features&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Removes the truncating of file, directory names and notifications in the repository browser&lt;/li&gt;
+  &lt;li&gt;Really long file and directory names will word-wrap&lt;/li&gt;
+  &lt;li&gt;Fully expands the website, with breakpoints at 1400px, 1600px and 1800px&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;4-file-icon-for-github---chrome-firefox&quot;&gt;4. File Icon for GitHub - &lt;a href=&quot;https://chrome.google.com/webstore/detail/file-icon-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe&quot;&gt;Chrome&lt;/a&gt;, &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/?src=search&quot;&gt;Firefox&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;On GitHub, no matter what kind of file is, their icons are all same. However, in your fancy editor, there are some packages which give every filetype an unique icon.&lt;/p&gt;
+
+&lt;p&gt;But this extension to replace original file icon with filetype-specific icons. This improves visual recognition on GitHub, GitLab, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/file-icons.jpg&quot; alt=&quot;fileicons-demo&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;5-isometric-contributions--chrome-firefox&quot;&gt;5. Isometric Contributions -&lt;a href=&quot;https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/related&quot;&gt;Chrome&lt;/a&gt;, &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/isometric-github/?src=search&quot;&gt;Firefox&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub contribution graphs.&lt;/p&gt;
+
+&lt;p&gt;This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.&lt;/p&gt;
+
+&lt;p&gt;Here is my github isometric contribution chart - &lt;strong&gt;I’m loving it..&lt;/strong&gt;    &lt;br /&gt;
+&lt;img src=&quot;/assets/images/mlogs/github/isometric.PNG&quot; alt=&quot;isometric-demo&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;happy-quarantine&quot;&gt;Happy Quarantine&lt;/h5&gt;
+&lt;p&gt;Share your most loved extensions and your feedback on &lt;a href=&quot;https://twitter.com/devskrate&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/devskrate&quot;&gt;Instagram&lt;/a&gt;, or mail us at &lt;a href=&quot;mailto:support@devskrate.com&quot;&gt;support@devskrate.com&lt;/a&gt;. Use &lt;a href=&quot;https://devskrate.com&quot;&gt;#DevsKrate&lt;/a&gt; on any social media platforms we will reach out to you.&lt;/p&gt;</content><author><name>satya</name></author><category term="chrome" /><category term="firefox" /><category term="extensions" /><category term="github" /><category term="gitlab" /><summary type="html">GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/gittensions.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/gittensions.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Navi - An interactive commandline cheatsheet tool</title><link href="http://localhost:4000/navi-commandline-cheatsheet-tool/" rel="alternate" type="text/html" title="Navi - An interactive commandline cheatsheet tool" /><published>2020-05-02T00:00:00+05:30</published><updated>2020-05-02T00:00:00+05:30</updated><id>http://localhost:4000/navi-commandline-cheatsheet-tool</id><content type="html" xml:base="http://localhost:4000/navi-commandline-cheatsheet-tool/">&lt;p&gt;Do you feel command-line is only for geeks or nerds?        &lt;br /&gt;
 Do you feel hard to remember commands and it’s options?          &lt;br /&gt;
 Here is cheatsheet tool at your fingertips which will help you to browse through commands and make note of some new commands.      &lt;br /&gt;
 You may come across many Linux tools but this will surely help for everyone who use Linux.&lt;/p&gt;
@@ -526,52 +604,4 @@ but the release dates likely going to be different for each model due to the pro
 
 &lt;p&gt;iPhone SE 2020 has sold more models than Apple expected and there were strong rumors
 regarding a plus model of the iPhone SE and was confirmed by the evidences found in the IOS 14 code
-however Kuo’s note says that the iPhone SE Plus is likely to be delayed until Q2 2021.&lt;/p&gt;</content><author><name>mohit</name></author><category term="apple" /><category term="iphone" /><summary type="html">Analyst Ming-Chi Kuo, In his new investor note, has outlined some information regarding the possible delay of the iPhone 12’s production as well as the possible postponement of its much-rumored iPhone SE plus due to the Coronavirus pandemic. iPhone 12 production: In Kuo’s note, He said that due to the pandemic caused by COVID-19, The Cupertino giant(Apple) had to do a lot of changes in its production, which lead to a one-month delay in engineering verification testing for the new iPhone 12 models. The iPhone 12 lineup is expected to include four new models, and According to the analyst the lower end models sized 6.1- inch and 5.4-inch iPhone will enter into the mass production in September and the 6.7 inch which is expected to come with 5G support will enter not enter the production until October. According to Kuo,this is because the 6.7-inch model has the most complicated design. The above could mean that Apple will announce all the four iPhone models at once but the release dates likely going to be different for each model due to the production delays. iPhone SE Plus Delayed: iPhone SE 2020 has sold more models than Apple expected and there were strong rumors regarding a plus model of the iPhone SE and was confirmed by the evidences found in the IOS 14 code however Kuo’s note says that the iPhone SE Plus is likely to be delayed until Q2 2021.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/apple/iphone-12-renders.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/apple/iphone-12-renders.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Motorolo launches its new edge series in states:</title><link href="http://localhost:4000/moto-edge-series/" rel="alternate" type="text/html" title="Motorolo launches its new edge series in states:" /><published>2020-04-23T00:00:00+05:30</published><updated>2020-04-23T00:00:00+05:30</updated><id>http://localhost:4000/moto-edge-series</id><content type="html" xml:base="http://localhost:4000/moto-edge-series/">&lt;p&gt;Moto after 4 years has come back to making flagship phones with its new edge series, 
-It launched two phones namely Moto Edge and Moto Edge Plus. Let’s see what Motorola has to offer 
-in this article.&lt;/p&gt;
-
-&lt;h1 id=&quot;moto-edge-plus&quot;&gt;Moto Edge Plus:&lt;/h1&gt;
-&lt;p&gt;The standout feature of this phone has to be its design, It’s 
-an all-glass display with metal frame holding them together, The 
-edges wrap around the edges with a punch hole at the top and in 
-one word it looks gorgeous with two color variants to offer namely midnight 
-megneta and solar black. Before 
-taking a deep dive lets see the specs.&lt;/p&gt;
-
-&lt;p&gt;Processor:	Qualcomm Snapdragon 865
-Rear Camera	Triple Cameras 108MP(with OIS) + 16MP(Ultra Wide + Macro) + 8MP(3x Zoom with OIS)
-front Camera	25MP
-Display	        6.7 inches 90HZ AMOLED(Aspect ratio: 21:9) FHD
-5G support	both mm and sub-6 band.
-Battery	        5000mAH(18W)
-Fingerprint	In-Display Fingerprint Sensor(Optical)
-Water Resistant	Water Resistant(IP 68)
-Charging	Type-C cable + Wireless Charging(Upto 15W) + 5W(Reverse Wireless Charging)
-RAM/ROM         12GB/128or256GB&lt;/p&gt;
-
-&lt;h1 id=&quot;display-and-battery&quot;&gt;Display and battery:&lt;/h1&gt;
-&lt;p&gt;The display is a 6.7 inch AMOLED display with an aspect ratio of 21:9 and the phone comes with a 90HZ refresh rate but the resolution is only FHD(1080p), which is a bummer at this price point but it helps increase the battery efficiency and in 
-this phone moto has provided a huge 5000mAh battery and moto claims it can last till 2 days.&lt;/p&gt;
-
-&lt;h1 id=&quot;camera&quot;&gt;Camera:&lt;/h1&gt;
-&lt;p&gt;This phone comes with a total of four cameras three at the back and one inside the punch hole. The primary sensor is a 108MP 
-Samsung sensor which we saw in the galaxy s20 ultra, This camera by default shoots at 27MP and it has OIS built-in for stable video.The 
-second sensory is an 8MP three times zoom sensor and this also has OIS for better video as well as zoom. The third is a 16MP Ultra wide sensor to capture ultra-wide shots.The selfie camera is a 25MP shooter. This phone has all the hardware required for a good camera it ultimately comes down to
-camera software.&lt;/p&gt;
-
-&lt;h1 id=&quot;software-and-hardware&quot;&gt;Software and Hardware:&lt;/h1&gt;
-&lt;p&gt;Talking about software, It comes with an almost stock-like experience with a few added features based on android 10, and moto is calling it “My UX”.In days where flagship smartphones are removing the headphone jack moto has it in this phone which is a great thing.
-The hardware also is top end with snapdragon 865, It also supports fast charging, wireless charging, reverse wireless charging 
-and all other high-end features to compete against the top of galaxies and iPhones.&lt;/p&gt;
-
-&lt;h1 id=&quot;pricing&quot;&gt;Pricing:&lt;/h1&gt;
-&lt;p&gt;This phone is priced at 999.99 dollars which converts to around 75k price, which is very expensive considering what this phone has to offer.
-If moto really wants to bring this phone to India it has to reduce the price to somewhere around 55k.&lt;/p&gt;
-
-&lt;h1 id=&quot;moto-edge&quot;&gt;Moto Edge:&lt;/h1&gt;
-&lt;p&gt;Edge is very similar to Edge plus with very few changes. The main shooter is 64MP instead of 108MP, the battery capacity is 4500mAH instead of 5000mAH, It 
-only offers 4GB/6GB of RAM and it does not support any kind of wireless and reverse wireless charging on it but the key 
-difference is that it comes with snapdragon 765 5G on board.This phone is priced at 699 EURO, which is 58,000 rupees. I think this phone is fairly overpriced and at this price we can get several other options
-from vendors like one plus, Xiaomi, etc, which can offer us a flagship experience.&lt;/p&gt;
-
-&lt;p&gt;Both these phones are expected to launch in India after the pandemic has ended,what do you think about these phones&lt;/p&gt;</content><author><name>mohit</name></author><category term="moto" /><category term="flagship" /><summary type="html">Moto after 4 years has come back to making flagship phones with its new edge series, It launched two phones namely Moto Edge and Moto Edge Plus. Let’s see what Motorola has to offer in this article.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/android/motorola-edge.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/android/motorola-edge.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+however Kuo’s note says that the iPhone SE Plus is likely to be delayed until Q2 2021.&lt;/p&gt;</content><author><name>mohit</name></author><category term="apple" /><category term="iphone" /><summary type="html">Analyst Ming-Chi Kuo, In his new investor note, has outlined some information regarding the possible delay of the iPhone 12’s production as well as the possible postponement of its much-rumored iPhone SE plus due to the Coronavirus pandemic. iPhone 12 production: In Kuo’s note, He said that due to the pandemic caused by COVID-19, The Cupertino giant(Apple) had to do a lot of changes in its production, which lead to a one-month delay in engineering verification testing for the new iPhone 12 models. The iPhone 12 lineup is expected to include four new models, and According to the analyst the lower end models sized 6.1- inch and 5.4-inch iPhone will enter into the mass production in September and the 6.7 inch which is expected to come with 5G support will enter not enter the production until October. According to Kuo,this is because the 6.7-inch model has the most complicated design. The above could mean that Apple will announce all the four iPhone models at once but the release dates likely going to be different for each model due to the production delays. iPhone SE Plus Delayed: iPhone SE 2020 has sold more models than Apple expected and there were strong rumors regarding a plus model of the iPhone SE and was confirmed by the evidences found in the IOS 14 code however Kuo’s note says that the iPhone SE Plus is likely to be delayed until Q2 2021.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/apple/iphone-12-renders.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/apple/iphone-12-renders.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
