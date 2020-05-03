@@ -33,7 +33,7 @@ Features
 
 ![octotree-demo]({{ site.baseurl}}/assets/images/mlogs/github/octotree-demo.gif)
 
-There's a pro version avaiable for this extension, explore the features of pro version [here](https://www.octotree.io/)
+There's a pro version available for this extension, explore the features of pro version [here](https://www.octotree.io/)
 
 
 #### 2. Enhanced Github - [Chrome](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)
