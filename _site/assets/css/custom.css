@@ -10772,3 +10772,24 @@ pre, code, kbd, samp {
     }
   }
   /*# sourceMappingURL=bootstrap.css.map */
+
+ .darkmode--activated .article-headline, .darkmode--activated #post-title-area{
+  color: whitesmoke !important;
+  background-color: black !important;
+}
+.darkmode--activated{
+  color: whitesmoke !important;
+  background-color: black !important;
+}
+.darkmode--activated h3 span{
+  color: black !important;
+  background-color: white !important;
+}
+
+.darkmode--activated .contact-page{
+  color: black !important;
+  background-color: white !important;
+}
+.darkmode-toggle{
+  z-index: 1050;
+ }

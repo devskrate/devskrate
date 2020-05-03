@@ -131,9 +131,9 @@ function () {
     }
 
     var defaultOptions = {
-      bottom: '32px',
-      right: '32px',
-      left: 'unset',
+      bottom: '20px',
+      right: 'unset',
+      left: '20px',
       time: '0.3s',
       mixColor: '#fff',
       backgroundColor: '#fff',
@@ -202,10 +202,7 @@ function () {
         if (!isDarkmode) {
           layer.classList.add('darkmode-layer--expanded');
           button.setAttribute('disabled', true);
-          $('body').css('color', 'white');
-          $('#post-title-area').removeClass('bg-white');
-          $('.article-headline').css('color', 'white');
-          $('#post-title-area').css('background-color', 'black'); 
+          
           setTimeout(function () {
             layer.classList.add('darkmode-layer--no-transition');
             layer.classList.add('darkmode-layer--simple');
@@ -214,9 +211,7 @@ function () {
         } else {
           layer.classList.remove('darkmode-layer--simple');
           button.setAttribute('disabled', true);
-          $('body').css('color', '#212529');
-          $('.article-headline').css('color', '#222222');
-          $('#post-title-area').addClass('bg-white');
+
           setTimeout(function () {
             layer.classList.remove('darkmode-layer--no-transition');
             layer.classList.remove('darkmode-layer--expanded');
