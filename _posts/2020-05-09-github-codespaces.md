@@ -58,7 +58,7 @@ With your development in the cloud, you can contribute code from any device, usi
 ###### 5. Dependencies, decluttered
 Contribute to projects without complicating your local setup. Spin up dev environments with a click—even for projects you haven't worked on before—and switch between them with ease. Github supports all popular development programming languages support to make sure that you will have a great experience.
 
-![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/dependecies-1.png)
+![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/dependencies-1.png)
 
 #### Signup for beta now.
 Codespaces is available in beta. Add yourself to our early-access list to be one of the first to use it.
