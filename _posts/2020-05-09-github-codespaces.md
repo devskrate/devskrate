@@ -3,7 +3,7 @@ layout: post
 title:  GitHub CodeSpaces - Your instant Dev Environment
 author: satya
 categories: [ Codespaces, GitHub ]
-image: assets/images/mlogs/github/codespaces.jpg
+image: assets/images/mlogs/github/codespaces.png
 tags: [Microsoft, vscode, extensions, github]
 ---
 
