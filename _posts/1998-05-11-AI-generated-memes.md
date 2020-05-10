@@ -4,7 +4,7 @@ title:  AI-generated memes can compete with Human-generated memes
 author: satya
 categories: [ Artificial Intelligence,Automation ]
 image: assets/images/mlogs/js/RoughViz.js.png
-tags: [memes, AI, ML, Machine Learning]]
+tags: [memes, AI, ML, Machine Learning]
 ---
 
 I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator. 
