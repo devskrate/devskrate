@@ -3,7 +3,7 @@ layout: post
 title:  AI-generated memes can compete with Human-generated memes
 author: satya
 categories: [ Artificial Intelligence,Automation ]
-image: assets/images/mlogs/js/RoughViz.js.png
+image: assets/images/mlogs/AI/AI-memes.png
 tags: [memes, AI, ML, Machine Learning]
 ---
 
