@@ -32,3 +32,7 @@ Here are collection of some crazy memes generated there.
 ![meme2]({{ site.baseurl }}/assets/images/mlogs/AI/meme2.jpg)     
 <br/>
 ![meme3]({{ site.baseurl }}/assets/images/mlogs/AI/meme3.jpg)  
+
+Try creating different memes and share with us on [Twitter](https://twitter.com/devskrate) or [Instagram](https://instagram.com/devskrate).
+
+Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.
