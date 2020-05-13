@@ -29,12 +29,12 @@ To be eligible to enter the Challenge, an Entrant must:
 1. Internet Connection  
 2. One of the Supported Browsers (Google Chrome 57+, Firefox 55+, Safari 11+, Microsoft Edge 16+)  
 3. One of the Supported OS  
-..* Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or newer  
-..* Mac: OS X / macOS 10.9 or newer  
-..* Linux: 64-bit Ubuntu 14.04+, Debian 8+, openSUSE 13.3+, or Fedora Linux 24+  
-..* Chrome OS: Any Chrome OS device updated to v57+  
-..* Android: Any Android 5.0+ device with at least 1GB RAM  
-..* iOS: Any iOS 11+ device  
+  * Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or newer  
+  * Mac: OS X / macOS 10.9 or newer  
+  * Linux: 64-bit Ubuntu 14.04+, Debian 8+, openSUSE 13.3+, or Fedora Linux 24+  
+  * Chrome OS: Any Chrome OS device updated to v57+  
+  * Android: Any Android 5.0+ device with at least 1GB RAM  
+  * iOS: Any iOS 11+ device  
 
 
 
