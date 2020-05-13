@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-13T20:23:33+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Google’s Change the game design challenge</title><link href="http://localhost:4000/google-game-changers/" rel="alternate" type="text/html" title="Google's Change the game design challenge" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/google-game-changers</id><content type="html" xml:base="http://localhost:4000/google-game-changers/">Google has recently launched &quot;Change the Game Design&quot; contest to encourage students who are passionate about game designing during this lockdown.  
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-13T20:27:48+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Google’s Change the game design challenge</title><link href="http://localhost:4000/google-game-changers/" rel="alternate" type="text/html" title="Google's Change the game design challenge" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/google-game-changers</id><content type="html" xml:base="http://localhost:4000/google-game-changers/">Google has recently launched &quot;Change the Game Design&quot; contest to encourage students who are passionate about game designing during this lockdown.  
 
 Google is seeking for new and innovative ideas in designing new games and came with this challenge stating that &quot;If you’ve ever wondered what it takes to build a game of your own, tell us your idea—if you want to play it, we want to hear it&quot;. In an &lt;a href=&quot;https://www.blog.google/products/google-play/change-the-game-design-challenge/&quot; target=&quot;_blank&quot;&gt;official blog post&lt;/a&gt; by Aude Gandon, Global Brand Director of Google Play had officially made the contest live on the official &lt;a href=&quot;https://www.blog.google/&quot; target=&quot;_blank&quot;&gt;Google Blog&lt;/a&gt;.  
 
@@ -25,65 +25,96 @@ To be eligible to enter the Challenge, an Entrant must:
   * Linux: 64-bit Ubuntu 14.04+, Debian 8+, openSUSE 13.3+, or Fedora Linux 24+  
   * Chrome OS: Any Chrome OS device updated to v57+  
   * Android: Any Android 5.0+ device with at least 1GB RAM  
-  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poco F2 Pro Launched</title><link href="http://localhost:4000/poco-f2-pro/" rel="alternate" type="text/html" title="Poco F2 Pro Launched" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/poco-f2-pro</id><content type="html" xml:base="http://localhost:4000/poco-f2-pro/">Poco F2 Pro Launches as a Rebranded Redmi K30 Pro; Price Starting at €499
+  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poco F2 Pro Launched</title><link href="http://localhost:4000/poco-f2-pro/" rel="alternate" type="text/html" title="Poco F2 Pro Launched" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/poco-f2-pro</id><content type="html" xml:base="http://localhost:4000/poco-f2-pro/">&lt;p&gt;Poco F2 Pro Launches as a Rebranded Redmi K30 Pro; Price Starting at €499&lt;/p&gt;
 
-Poco, In February launched its new mid-ranger the Poco x2 which is a rebranded k30. As people say &quot;History tends to repeat itself&quot;, a somewhat similar thing has happened the Poco f2 pro is a
+&lt;p&gt;Poco, In February launched its new mid-ranger the Poco x2 which is a rebranded k30. As people say “History tends to repeat itself”, a somewhat similar thing has happened the Poco f2 pro is a
 rebranded Redmi k30 pro.
-What does the phone bring with it lets find out in this article?
+What does the phone bring with it lets find out in this article?&lt;/p&gt;
 
-**Key Specs**:
+&lt;p&gt;&lt;strong&gt;Key Specs&lt;/strong&gt;:&lt;/p&gt;
 
-{:class=&quot;table table-bordered dark&quot;}
-|Name            | Specifications                                                            |
-| -----------    | ------------------------------------------------------------------------  |
-|Processor       | Qualcomm Snapdragon 865                                                   |
-|Rear Camera     | Quad Cameras 64MP(Primary)+13MP(Ultra Wide)+5MP(Zoom Lens)+2MP(depth Sensor)|
-|Front Camera    | 20MP(popup)                                                               |
-|Display         | 6.67 inches 60HZ AMOLED,180Hz touch sampling rate                         |
-|Connectivity    | 5G, WIFI 6,Super Bluetooth                                                |
-|Battery         | 4700mAH(30W Fast charging)                                                |
-|Fingerprint     | In-Display Fingerprint Sensor(Optical)                                    |
-|Charging        | Type-C cable, with Fast charging                                          |
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Specifications&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Processor&lt;/td&gt;
+      &lt;td&gt;Qualcomm Snapdragon 865&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rear Camera&lt;/td&gt;
+      &lt;td&gt;Quad Cameras 64MP(Primary)+13MP(Ultra Wide)+5MP(Zoom Lens)+2MP(depth Sensor)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Front Camera&lt;/td&gt;
+      &lt;td&gt;20MP(popup)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Display&lt;/td&gt;
+      &lt;td&gt;6.67 inches 60HZ AMOLED,180Hz touch sampling rate&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Connectivity&lt;/td&gt;
+      &lt;td&gt;5G, WIFI 6,Super Bluetooth&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Battery&lt;/td&gt;
+      &lt;td&gt;4700mAH(30W Fast charging)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Fingerprint&lt;/td&gt;
+      &lt;td&gt;In-Display Fingerprint Sensor(Optical)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charging&lt;/td&gt;
+      &lt;td&gt;Type-C cable, with Fast charging&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-**Design and Build Quality**:
+&lt;p&gt;&lt;strong&gt;Design and Build Quality&lt;/strong&gt;:
 The massive notch of the F1 is replaced by a fullscreen bezel-less experience on the front and
-has an in-display fingerprint sensor on the front as well. The rear panel has a circular camera array and Poco branding, which is beautiful to look at. Both the front and back are protected by Corning Gorilla Glass 5.
+has an in-display fingerprint sensor on the front as well. The rear panel has a circular camera array and Poco branding, which is beautiful to look at. Both the front and back are protected by Corning Gorilla Glass 5.&lt;/p&gt;
 
-**Display**:
+&lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;:
 This phone now comes with a glass sandwich design put together by an aluminum frame, which is way superior compared to the polycarbonate build its predecessor(Poco F1) comes with. This phone
-comes with a 6.67-inch Full-HD+ AMOLED display with a 20:9 aspect ratio. We are disappointed to see a 60Hz display in 2020 but at least it comes with 180Hz touch sampling rate and a peak brightness close to 1200nits. This display also brings with it support for HDR 10+. We can also set different color types like Enhanced, Original, P3, sRGB.
+comes with a 6.67-inch Full-HD+ AMOLED display with a 20:9 aspect ratio. We are disappointed to see a 60Hz display in 2020 but at least it comes with 180Hz touch sampling rate and a peak brightness close to 1200nits. This display also brings with it support for HDR 10+. We can also set different color types like Enhanced, Original, P3, sRGB.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;75%&quot; src=&quot;{{site.baseurl}}/assets/images/mi/poco/pocof2-pro-display.jpg&quot;&gt;
+  &lt;img width=&quot;75%&quot; src=&quot;/assets/images/mi/poco/pocof2-pro-display.jpg&quot; /&gt;
 &lt;/p&gt;
 
-**Camera**:
+&lt;p&gt;&lt;strong&gt;Camera&lt;/strong&gt;:
 The F2 Pro comes with a quad-camera array in the circular cutout on the rear. The primary
 sensor is the 64MP Sony IMX686 sensor, along with a 13MP (f/2.4) ultra-wide-angle lens with 123-
 degree FOV, a 5MP telephoto macro camera and a 2MP depth sensor. The phone also supports 8k
-video capture. On the selfie side of things it comes with a 20MP pop-up camera with support for slow-motion video and other cool features.
+video capture. On the selfie side of things it comes with a 20MP pop-up camera with support for slow-motion video and other cool features.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;75%&quot; src=&quot;{{site.baseurl}}/assets/images/mi/poco/pocof2-pro-camera.jpg&quot;&gt;
+  &lt;img width=&quot;75%&quot; src=&quot;/assets/images/mi/poco/pocof2-pro-camera.jpg&quot; /&gt;
 &lt;/p&gt;
 
-**Connectivity**:
+&lt;p&gt;&lt;strong&gt;Connectivity&lt;/strong&gt;:
 This phone comes with the top of the line snapdragon 865 with support for WIFI 6,5G. This
-phone also supports super Bluetooth,NFC, GPS. It also comes with a 3.5mm headphone jack at the top which is rear to see in flagships nowadays.Poco also includes an IR blaster to let you control home appliances.
+phone also supports super Bluetooth,NFC, GPS. It also comes with a 3.5mm headphone jack at the top which is rear to see in flagships nowadays.Poco also includes an IR blaster to let you control home appliances.&lt;/p&gt;
 
-**Hardware and Software**:
-This phone is powered by top of the line Qualcomm's snapdragon 865. This also has Liquid cooling 2.0 to help the phone sustain high performance for longer periods and coming to software set if
-things, It runs MIUI 11 for Poco which is based on Android 10 out of the box. The feature offered by the Poco launcher is exactly similar to MIUI 11. The only difference is that this  launcher offers a clutter-free app drawer.
+&lt;p&gt;&lt;strong&gt;Hardware and Software&lt;/strong&gt;:
+This phone is powered by top of the line Qualcomm’s snapdragon 865. This also has Liquid cooling 2.0 to help the phone sustain high performance for longer periods and coming to software set if
+things, It runs MIUI 11 for Poco which is based on Android 10 out of the box. The feature offered by the Poco launcher is exactly similar to MIUI 11. The only difference is that this  launcher offers a clutter-free app drawer.&lt;/p&gt;
 
-**Battery &amp; Charging:**
-This phone comes with a huge 4,700 mAh battery and support for 30W fast charging, which promises to top up the entire phone in 63 minutes.
+&lt;p&gt;&lt;strong&gt;Battery &amp;amp; Charging:&lt;/strong&gt;
+This phone comes with a huge 4,700 mAh battery and support for 30W fast charging, which promises to top up the entire phone in 63 minutes.&lt;/p&gt;
 
-**Pricing**:
+&lt;p&gt;&lt;strong&gt;Pricing&lt;/strong&gt;:
 This phone comes in two configurations – 6GB+128GB and 8GB+256GB and has been priced starting at 499 euros (around Rs. 40,750). You will need to shell out 599 euros (around Rs. 48,900) for
-the 8GB+256GB variant.
+the 8GB+256GB variant.&lt;/p&gt;
 
-**Opinion**:
-We think that the phone is overpriced for what it brings on board with it. If Poco really want's this to be the true successor of the F1 it should be priced at somewhere around 30,000 rupees.</content><author><name>nikhil</name></author><category term="poco" /><category term="redmi" /><category term="mi" /><category term="smartphones" /><summary type="html">Poco F2 Pro Launches as a Rebranded Redmi K30 Pro; Price Starting at €499</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI-generated memes can compete with Human-generated memes</title><link href="http://localhost:4000/AI-generated-memes/" rel="alternate" type="text/html" title="AI-generated memes can compete with Human-generated memes" /><published>2020-05-12T00:00:00+05:30</published><updated>2020-05-12T00:00:00+05:30</updated><id>http://localhost:4000/AI-generated-memes</id><content type="html" xml:base="http://localhost:4000/AI-generated-memes/">I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator. 
+&lt;p&gt;&lt;strong&gt;Opinion&lt;/strong&gt;:
+We think that the phone is overpriced for what it brings on board with it. If Poco really want’s this to be the true successor of the F1 it should be priced at somewhere around 30,000 rupees.&lt;/p&gt;</content><author><name>nikhil</name></author><category term="poco" /><category term="redmi" /><category term="mi" /><category term="smartphones" /><summary type="html">Poco F2 Pro Launches as a Rebranded Redmi K30 Pro; Price Starting at €499</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI-generated memes can compete with Human-generated memes</title><link href="http://localhost:4000/AI-generated-memes/" rel="alternate" type="text/html" title="AI-generated memes can compete with Human-generated memes" /><published>2020-05-12T00:00:00+05:30</published><updated>2020-05-12T00:00:00+05:30</updated><id>http://localhost:4000/AI-generated-memes</id><content type="html" xml:base="http://localhost:4000/AI-generated-memes/">I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator. 
 
 
 ##### Why this is interesting?
