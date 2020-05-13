@@ -11,7 +11,7 @@ Google has recently launched "Change the Game Design" contest to encourage stude
 
 Google is seeking for new and innovative ideas in designing new games and came with this challenge stating that "If you’ve ever wondered what it takes to build a game of your own, tell us your idea—if you want to play it, we want to hear it". In an <a href="https://www.blog.google/products/google-play/change-the-game-design-challenge/" target="_blank">official blog post</a> by Aude Gandon, Global Brand Director of Google Play had officially made the contest live on the official <a href="https://www.blog.google/" target="_blank">Google Blog</a>.  
 
-Starting from this Tuesday, Google is accepting applications for the <a href="https://play.google.com/about/changethegame/designchallenge2020/" target="_blank">2020 Change the Game Design Challenge</a>. And with schools closed for the year and many of you spending extra time at home, they're expeceting a little huge number of applicants.  
+Starting from this Tuesday, Google is accepting applications for the <a href="https://play.google.com/about/changethegame/designchallenge2020/" target="_blank">2020 Change the Game Design Challenge</a> till July 31, 2020. And with schools closed for the year and many of you spending extra time at home, they're expeceting a little huge number of applicants.  
 
 If your game idea is selected, you’ll receive an invitation to meet other game changers. Together, you’ll participate in an online game development workshop hosted by our partner <a href="https://www.girlsmakegames.com/" target="_blank">Girls Make Games</a>. Throughout four sessions, you’ll get a crash course and hands on experience turning your idea into a playable game.  
 
