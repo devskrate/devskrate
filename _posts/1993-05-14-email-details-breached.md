@@ -21,9 +21,9 @@ But there are so many breaches occuring here and there everyday.
 ## How to find if your email is exposed or not:
 
 To find this, we have three three sources that can be trusted.
-1. Google Password Manager  
-2. Firefox Monitor  
-3. Have I Been Pwned?  
+**1. Google Password Manager**    
+**2. Firefox Monitor**  
+**3. Have I Been Pwned?**  
 
 ### Google Password Manager  
 
