@@ -47,4 +47,4 @@ Visit Button Bass<a href="http://buttonbass.com/
 Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.  
 Visit Radio Garden<a href="http://radio.garden/" target="_blank">here</a>
 
-<img src="{{ site.baseurl }}/assets/images/internet/radiogarden" alt="Radio Garden" title="Radio Garden">
+<img src="{{ site.baseurl }}/assets/images/internet/radiogarden.jpg" alt="Radio Garden" title="Radio Garden">
