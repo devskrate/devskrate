@@ -23,7 +23,7 @@ And now, both Teams and Slack had gained a good amount of daily active users.
 
 Talking about features, there is a large difference in both of then. They're  
 
-
+{:class="table table-bordered dark"}
 |                         |  Slack                                                                                                    |  Microsoft Teams                                                                                                                                                     |
 |-------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pricing model           | Freemium Standard $6.67 user/month (billed annually)  Plus $12.50 user/month (billed annually)            | Freemium Office 365 Business Essentials  $5 per user/month(billed annually) $12.50 per user/month(billed annually)  You can try both paid plans for free for 30 days |
