@@ -7,7 +7,7 @@ image: assets/images/mlogs/js/github-cli.png
 tags: [commandline, linux, git, developers, beta]
 ---
 
-here is an easier and more seamless way to work with GitHub from the command line — [GitHub CLI](https://cli.github.com/), currently it is in **beta**. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
+Here is an easier and more seamless way to work with GitHub from the command line — [GitHub CLI](https://cli.github.com/), currently it is in **beta**. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
 The tool `gh` brings the [GitHub](https://github.com/) experience right to your terminal.
 
 
@@ -16,6 +16,7 @@ You can install GitHub CLI today on most of the Operating Systems available -
 - macOS     
 - Windows     
 - Linux     
+
 Install this from [here](https://github.com/cli/cli#installation-and-upgrading)
 
 It’s available today for GitHub Team and Enterprise Cloud, but not yet available for GitHub Enterprise Server. This will have support support for Enterprise Server when it’s out of beta.
