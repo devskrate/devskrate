@@ -22,7 +22,23 @@ And now, both Teams and Slack had gained a good amount of daily active users.
 #### Choosing between Slack and Microsoft Teams for your next collaboration tool? Here’s what you need to know about the differences between the two, so you can choose the platform that best suits the needs of your team.  
 
 Talking about features, there is a large difference in both of then. They're  
-  
+
+<table>
+
+<table class="table-three-columns" border="1px">
+<tbody>
+<tr><td></td>
+<td><strong>Slack</strong></td><td><strong>Microsoft Teams</strong></td></tr>
+<tr><td>Pricing model</td><td>Freemium<p></p><p>Standard $6.67 user/month (billed annually)</p><p>Plus $12.50 user/month (billed annually)</p></td><td><span style="font-weight: 400;">Freemium</span><p></p><p>Office 365 Business Essentials</p><p>$5 per user/month</p><p>(billed annually)</p><p>Office 365 Business Premium</p><p>$12.50 per user/month</p><p>(billed annually)</p><p>You can try both paid plans for free for 30 days</p></td></tr>
+<tr><td>Message history limit</td><td>10K messages in Free plan, unlimited in Standard and Plus plans</td><td>Unlimited in all plans</td></tr>
+<tr><td>Audio/video calls</td><td>Unlimited 1:1 voice and video calls in Free plan<p></p><p>Conference calls for up to 15 participants in Paid plans</p></td><td>Voice/video calls with <a href="https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams" target="_blank" rel="noopener noreferrer">up to 250 people</a> in a meeting.</td></tr>
+<tr><td>Integrations</td><td>10 integrations limit in Free plan, 800+ integrations in paid plans</td><td>180+ apps and services (as of July 2018)</td></tr>
+<tr><td>File storage limit</td><td>Free plan: 5GB file storage for a team<p></p><p>Standard plan: 10GB per user</p><p>Plus plan: 20GB per user</p></td><td><span style="font-weight: 400;">Free plan: </span><span style="font-weight: 400;">2 GB/user and 10GB of shared storage</span><p></p><p><span style="font-weight: 400;">Paid plans: </span><a href="https://docs.microsoft.com/en-us/microsoftteams/limits-specifications-teams"><span style="font-weight: 400;">1 TB</span></a><span style="font-weight: 400;"> per organization</span></p></td></tr>
+<tr><td>Screen sharing</td><td>Unavailable in Free version, available in Standard and Plus versions</td><td><span style="font-weight: 400;">Available in all plans</span></td></tr>
+<tr><td>Interface color options</td><td>Custom sidebar themes.</td><td>3 themes (light, dark, high contrast)</td></tr>
+<tr><td>Conversation threads</td><td>Yes</td><td>Yes</td></tr>
+</tbody>
+</table>    
 
 |                         |  Slack                                                                                                    |  Microsoft Teams                                                                                                                                                     |
 |-------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
