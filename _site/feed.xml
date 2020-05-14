@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-13T20:27:48+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Google’s Change the game design challenge</title><link href="http://localhost:4000/google-game-changers/" rel="alternate" type="text/html" title="Google's Change the game design challenge" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/google-game-changers</id><content type="html" xml:base="http://localhost:4000/google-game-changers/">Google has recently launched &quot;Change the Game Design&quot; contest to encourage students who are passionate about game designing during this lockdown.  
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-14T21:40:37+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Github teams is free for everyone</title><link href="http://localhost:4000/github-is-free-for-teams/" rel="alternate" type="text/html" title="Github teams is free for everyone" /><published>2020-05-14T00:00:00+05:30</published><updated>2020-05-14T00:00:00+05:30</updated><id>http://localhost:4000/github-is-free-for-teams</id><content type="html" xml:base="http://localhost:4000/github-is-free-for-teams/">&lt;p&gt;We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts.
+&lt;strong&gt;All of the core GitHub features are now free for everyone. 🎉&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Until now, if your organization wanted to use GitHub for private development, you had to subscribe to one of our paid plans.
+But every developer on earth should have access to GitHub. They told that &lt;strong&gt;Price shouldn’t be a barrier.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This means teams can now manage their work together in one place: CI/CD, project management, code review, packages, and more.
+Github allows everyone to be able to ship great software on the platform developers love.&lt;/p&gt;
+
+&lt;p&gt;Teams who need advanced features (like code owners), enterprise features (like SAML), or personalized support can upgrade to one of our paid plans.&lt;/p&gt;
+
+&lt;p&gt;Github is also reducing the price of paid Team plan from &lt;strong&gt;$9 per user/month to $4 per user/month&lt;/strong&gt;, effective immediately.
+Existing customers will have their bills automatically reduced going forward.&lt;/p&gt;
+
+&lt;p&gt;For more information about pricing visit &lt;a href=&quot;http://github.com/pricing&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We will come up with a new mlog how to use these features for effective devlopment of your project.&lt;/p&gt;</content><author><name>satya</name></author><category term="repositories" /><category term="private" /><category term="teams" /><category term="organizations" /><summary type="html">We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts. All of the core GitHub features are now free for everyone. 🎉</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/github-teams.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/github-teams.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Google’s Change the game design challenge</title><link href="http://localhost:4000/google-game-changers/" rel="alternate" type="text/html" title="Google's Change the game design challenge" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/google-game-changers</id><content type="html" xml:base="http://localhost:4000/google-game-changers/">Google has recently launched &quot;Change the Game Design&quot; contest to encourage students who are passionate about game designing during this lockdown.  
 
 Google is seeking for new and innovative ideas in designing new games and came with this challenge stating that &quot;If you’ve ever wondered what it takes to build a game of your own, tell us your idea—if you want to play it, we want to hear it&quot;. In an &lt;a href=&quot;https://www.blog.google/products/google-play/change-the-game-design-challenge/&quot; target=&quot;_blank&quot;&gt;official blog post&lt;/a&gt; by Aude Gandon, Global Brand Director of Google Play had officially made the contest live on the official &lt;a href=&quot;https://www.blog.google/&quot; target=&quot;_blank&quot;&gt;Google Blog&lt;/a&gt;.  
 
@@ -25,10 +41,9 @@ To be eligible to enter the Challenge, an Entrant must:
   * Linux: 64-bit Ubuntu 14.04+, Debian 8+, openSUSE 13.3+, or Fedora Linux 24+  
   * Chrome OS: Any Chrome OS device updated to v57+  
   * Android: Any Android 5.0+ device with at least 1GB RAM  
-  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poco F2 Pro Launched</title><link href="http://localhost:4000/poco-f2-pro/" rel="alternate" type="text/html" title="Poco F2 Pro Launched" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/poco-f2-pro</id><content type="html" xml:base="http://localhost:4000/poco-f2-pro/">&lt;p&gt;Poco F2 Pro Launches as a Rebranded Redmi K30 Pro; Price Starting at €499&lt;/p&gt;
+  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poco F2 Pro Launched, Here are Specs and pricing</title><link href="http://localhost:4000/poco-f2-pro-specs-price/" rel="alternate" type="text/html" title="Poco F2 Pro Launched, Here are Specs and pricing" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/poco-f2-pro-specs-price</id><content type="html" xml:base="http://localhost:4000/poco-f2-pro-specs-price/">&lt;p&gt;Redmi K30 Pro has been rebranded to poco and launched it as POCO F2 Pro; Price Starting at €499&lt;/p&gt;
 
-&lt;p&gt;Poco, In February launched its new mid-ranger the Poco x2 which is a rebranded k30. As people say “History tends to repeat itself”, a somewhat similar thing has happened the Poco f2 pro is a
-rebranded Redmi k30 pro.
+&lt;p&gt;Poco, In February launched its new mid-ranger the Poco x2 which is a rebranded K30. As people say “History tends to repeat itself”, a somewhat similar thing has happened the Poco F2 pro is a rebranded Redmi K30 pro.
 What does the phone bring with it lets find out in this article?&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Key Specs&lt;/strong&gt;:&lt;/p&gt;
@@ -81,40 +96,34 @@ The massive notch of the F1 is replaced by a fullscreen bezel-less experience on
 has an in-display fingerprint sensor on the front as well. The rear panel has a circular camera array and Poco branding, which is beautiful to look at. Both the front and back are protected by Corning Gorilla Glass 5.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Display&lt;/strong&gt;:
-This phone now comes with a glass sandwich design put together by an aluminum frame, which is way superior compared to the polycarbonate build its predecessor(Poco F1) comes with. This phone
-comes with a 6.67-inch Full-HD+ AMOLED display with a 20:9 aspect ratio. We are disappointed to see a 60Hz display in 2020 but at least it comes with 180Hz touch sampling rate and a peak brightness close to 1200nits. This display also brings with it support for HDR 10+. We can also set different color types like Enhanced, Original, P3, sRGB.&lt;/p&gt;
+This phone now comes with a glass sandwitch design put together by an aluminum frame, which is way superior compared to the polycarbonate build its predecessor(Poco F1) comes with. This phone comes with a 6.67-inch Full-HD+ AMOLED display with a 20:9 aspect ratio. We are disappointed to see a 60Hz display in 2020 but at least it comes with 180Hz touch sampling rate and a peak brightness close to 1200nits. This display also brings with it support for HDR 10+. We can also set different color types like Enhanced, Original, P3, sRGB.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img width=&quot;75%&quot; src=&quot;/assets/images/mi/poco/pocof2-pro-display.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Camera&lt;/strong&gt;:
-The F2 Pro comes with a quad-camera array in the circular cutout on the rear. The primary
-sensor is the 64MP Sony IMX686 sensor, along with a 13MP (f/2.4) ultra-wide-angle lens with 123-
-degree FOV, a 5MP telephoto macro camera and a 2MP depth sensor. The phone also supports 8k
-video capture. On the selfie side of things it comes with a 20MP pop-up camera with support for slow-motion video and other cool features.&lt;/p&gt;
+The F2 Pro comes with a quad-camera array in the circular cutout on the rear. The primary sensor is the 64MP Sony IMX686 sensor, along with a 13MP (f/2.4) ultra-wide-angle lens with 123-degree FOV, a 5MP telephoto macro camera and a 2MP depth sensor. The phone also supports 8k video capture. On the selfie side of things it comes with a 20MP pop-up camera with support for slow-motion video and other cool features. We think the pop-up cameras are not the one everyone liked.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img width=&quot;75%&quot; src=&quot;/assets/images/mi/poco/pocof2-pro-camera.jpg&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Connectivity&lt;/strong&gt;:
-This phone comes with the top of the line snapdragon 865 with support for WIFI 6,5G. This
-phone also supports super Bluetooth,NFC, GPS. It also comes with a 3.5mm headphone jack at the top which is rear to see in flagships nowadays.Poco also includes an IR blaster to let you control home appliances.&lt;/p&gt;
+This phone comes with the top of the line snapdragon 865 with support for WIFI 6,5G. This phone also supports super Bluetooth,NFC, GPS. It also comes with a 3.5mm headphone jack at the top which is rear to see in flagships nowadays.Poco also includes an IR blaster to let you control home appliances.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hardware and Software&lt;/strong&gt;:
-This phone is powered by top of the line Qualcomm’s snapdragon 865. This also has Liquid cooling 2.0 to help the phone sustain high performance for longer periods and coming to software set if
-things, It runs MIUI 11 for Poco which is based on Android 10 out of the box. The feature offered by the Poco launcher is exactly similar to MIUI 11. The only difference is that this  launcher offers a clutter-free app drawer.&lt;/p&gt;
+This phone is powered by top of the line Qualcomm’s snapdragon 865. This also has Liquid cooling 2.0 to help the phone sustain high performance for longer periods and coming to software set if things, It runs MIUI 11 for Poco which is based on Android 10 out of the box. The feature offered by the Poco launcher is exactly similar to MIUI 11. The only difference is that this  launcher offers a clutter-free app drawer. It will also get MIUI 14.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Battery &amp;amp; Charging:&lt;/strong&gt;
-This phone comes with a huge 4,700 mAh battery and support for 30W fast charging, which promises to top up the entire phone in 63 minutes.&lt;/p&gt;
+This phone comes with a huge 4,700 mAh battery and support for 30W fast charging, which promises to top up the entire phone in 63 minutes. We are not sure about the wireless charging as of now.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pricing&lt;/strong&gt;:
 This phone comes in two configurations – 6GB+128GB and 8GB+256GB and has been priced starting at 499 euros (around Rs. 40,750). You will need to shell out 599 euros (around Rs. 48,900) for
 the 8GB+256GB variant.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Opinion&lt;/strong&gt;:
-We think that the phone is overpriced for what it brings on board with it. If Poco really want’s this to be the true successor of the F1 it should be priced at somewhere around 30,000 rupees.&lt;/p&gt;</content><author><name>nikhil</name></author><category term="poco" /><category term="redmi" /><category term="mi" /><category term="smartphones" /><summary type="html">Poco F2 Pro Launches as a Rebranded Redmi K30 Pro; Price Starting at €499</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI-generated memes can compete with Human-generated memes</title><link href="http://localhost:4000/AI-generated-memes/" rel="alternate" type="text/html" title="AI-generated memes can compete with Human-generated memes" /><published>2020-05-12T00:00:00+05:30</published><updated>2020-05-12T00:00:00+05:30</updated><id>http://localhost:4000/AI-generated-memes</id><content type="html" xml:base="http://localhost:4000/AI-generated-memes/">I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator. 
+We think that the phone is overpriced for what it brings on board with it. We are really hoping for real poco series not the rebranded versions of redmi series. We really enjoyed poco F1 and we want the fire of POCO in it’s successors also.upto MIUI 14&lt;/p&gt;</content><author><name>mohit</name></author><category term="poco" /><category term="redmi" /><category term="mi" /><category term="smartphones" /><summary type="html">Redmi K30 Pro has been rebranded to poco and launched it as POCO F2 Pro; Price Starting at €499</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI-generated memes can compete with Human-generated memes</title><link href="http://localhost:4000/AI-generated-memes/" rel="alternate" type="text/html" title="AI-generated memes can compete with Human-generated memes" /><published>2020-05-12T00:00:00+05:30</published><updated>2020-05-12T00:00:00+05:30</updated><id>http://localhost:4000/AI-generated-memes</id><content type="html" xml:base="http://localhost:4000/AI-generated-memes/">I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator. 
 
 
 ##### Why this is interesting?
@@ -447,35 +456,4 @@ You can download the [Firefox Container](https://addons.mozilla.org/en-US/firefo
 **Additional info**:
 The Firefox Multi-Account Containers extension lets you carve out a separate box for each of your online lives – no more opening a different browser just to check your work email!
 
-Under the hood, it separates website storage into tab-specific Containers. Cookies downloaded by one Container are not available to other Containers. With the Firefox Multi-Account Containers extension, you can...</content><author><name>puneeth</name></author><category term="firefox" /><category term="browser" /><category term="mozilla" /><category term="containers" /><summary type="html">Have you ever got annoyed while using multiple accounts like personal, school, work accounts in a single browser?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/mozilla/firefox-container-f.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/mozilla/firefox-container-f.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Intorducing Mlogs</title><link href="http://localhost:4000/introducing-mlogs/" rel="alternate" type="text/html" title="Intorducing Mlogs" /><published>2020-04-30T00:00:00+05:30</published><updated>2020-04-30T00:00:00+05:30</updated><id>http://localhost:4000/introducing-mlogs</id><content type="html" xml:base="http://localhost:4000/introducing-mlogs/">#### Introducing Mlogs
-
-Mlogs are **mini-blogs** which have read time less than 5 minutes and these are completely mobile friendly.
-
-You can read these mlogs easily using instant view in [telegram](https://t.me/DevsKrate)
-
-### Mlog - **Mini Mobile** friendly **Blogs**
-
-#### Why Mlogs?
-
-![Why Mlogs]({{ site.baseurl}}/assets/images/mlogs/why-mlogs.png)
-
-Being a techster we want to explore more things related to tech and we feel very interesting to keep updated with updated news and applications.
-
-Rather than combining some set of topics in a single blog we want to split these topics into mlogs to keep you updated by spending minimal amount of time.
-
-#### Series of mlogs
-
-There will be different series of mlogs each series will talk about different topics.
-&gt; We will make sure that these mlog series will be as interesting as Netflix's web-series.
-
-Our first mlog series will help you to understand better tricks while working with Linux and Commands in it.
-
-Here is our first mlog - [Transferfiles between PC and mobile wirelessly by scanning QR code](https://DevsKrate.com/transfer-files-between-computer-and-mobile-wireless/)
-
-Trust me we are going to help you automate all your routine boring stuff you're doing out there all these days in linux.
-
-So what are you waiting for let's **heist** some knowledge from [DevsKrate](https://devskrate.com)
-
-##### Happy Quarantine 
-
-Please share your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="blog" /><category term="mlog" /><category term="introduction" /><category term="series" /><summary type="html">Introducing Mlogs</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/mlogs.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/mlogs.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+Under the hood, it separates website storage into tab-specific Containers. Cookies downloaded by one Container are not available to other Containers. With the Firefox Multi-Account Containers extension, you can...</content><author><name>puneeth</name></author><category term="firefox" /><category term="browser" /><category term="mozilla" /><category term="containers" /><summary type="html">Have you ever got annoyed while using multiple accounts like personal, school, work accounts in a single browser?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/mozilla/firefox-container-f.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/mozilla/firefox-container-f.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
