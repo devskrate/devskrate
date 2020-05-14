@@ -18,7 +18,7 @@ Github allows everyone to be able to ship great software on the platform develop
 
 Teams who need advanced features (like code owners), enterprise features (like SAML), or personalized support can upgrade to one of our paid plans.
 
-Github is also reducing the price of paid Team plan from $9 per user/month to $4 per user/month, effective immediately.
+Github is also reducing the price of paid Team plan from **$9 per user/month to $4 per user/month**, effective immediately.
 Existing customers will have their bills automatically reduced going forward.
 
 

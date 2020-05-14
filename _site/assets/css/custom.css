@@ -10793,3 +10793,7 @@ pre, code, kbd, samp {
 .darkmode-toggle{
   z-index: 1050;
  }
+
+.darkmode--activated .table {
+  color: whitesmoke;
+}
