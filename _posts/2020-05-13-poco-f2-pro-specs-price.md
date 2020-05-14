@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Poco F2 Pro Launched
+title:  Poco F2 Pro Launched, Here are Specs and pricing
 author: mohit
 categories: [ Poco, Mi, smartphones ]
 image: assets/images/mi/poco/pocof2_pro_feature.jpg
