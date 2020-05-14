@@ -9,7 +9,7 @@ tags: [internet, bored tech]
 
 Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
 ## 1. FREESOUND  
-FreeSound is the largest database of sound tracks that are available fr free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to <a href="https://freesound.org/" target="_blank">freesound.org</a>. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
+FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to <a href="https://freesound.org/" target="_blank">freesound.org</a>. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
 <img src="{{ site.baseurl }}/assets/images/internet/freesound.jpg" alt="FreeSound" title="FreeSound">
 
 ## 2. NAPFLIX  
@@ -30,14 +30,16 @@ Well, talking about the browser, try out super log. It’s a simple app that aut
 
 <img src="{{ site.baseurl }}/assets/images/internet/superlogout.gif" alt="Super Log Out" title="Super Log Out">
 
-When you are using a public or friends computer Though, don’t click on the link Unless you really want to use this service.
-Visit Super Log Out<a href="http://superlogout.com/" target="_blank">here</a>. <span style="color:red">Caution: Dont Visit, unless you require it!!!</span>  
+When you are using a public or friends computer Though, don’t click on the link Unless you really want to use this service.  
+
+Visit Super Log Out<a href="http://superlogout.com/" target="_blank">here</a>. <span style="color:red; background-color:black">Caution: Dont Visit, unless you require it!!!</span>  
 ## 5. Button Bass  
 This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.  
 
 <img src="{{ site.baseurl }}/assets/images/internet/buttonbass.jpg" alt="Button Bass" title="Button Bass">
 
-And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.  
+And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.   
+
 Visit Button Bass<a href="http://buttonbass.com/  
 " target="_blank">here</a>    
 
