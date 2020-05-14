@@ -71,4 +71,6 @@ Here are some of our conclusions regarding Slack vs. Microsoft Teams.
 
 **Summary:** Both apps are a good choice but they are catered for different needs. If you want lots of third-party integrations and the ability to customize your app to a great extent go with **Slack**.
 
-On the other hand, **Microsoft Teams** works really well for companies that do a lot of work Office 365 and who already pay for that service.
+On the other hand, **Microsoft Teams** works really well for companies that do a lot of work Office 365 and who already pay for that service.  
+
+If you are planning to use free version, then Microsoft Teams would suit you the best because, there are are a lot more features in Microsoft Teams than Slack. May be this is the reason why, Microsoft Teams had a larger user base.
