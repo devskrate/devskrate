@@ -3,7 +3,7 @@ layout: post
 title:  GTA V for free and more other popular games for a limited time
 author: nikhil
 categories: [ Games, Free ]
-image: assets/images/mlogs/js/RoughViz.js.png
+image: assets/images/games/epic-games-free-games.jpg
 tags: [Games, EpciGames, Free]
 ---
 
