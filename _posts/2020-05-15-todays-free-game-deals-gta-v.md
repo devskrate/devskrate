@@ -43,4 +43,4 @@ Ark: Survival Evolved (stylized as **ΛRK**) is an action-adventure survival vid
 ![Ark: Survival Evolved](https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.png/330px-ArkSurvivalEvolved.png)
 
 
-**Stay tuned for the updated links.**
+**Stay tuned for the updated links**
