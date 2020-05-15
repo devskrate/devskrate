@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Free games for a limited time
-author: puneeth
+author: nikhil
 categories: [ Games, Free ]
 image: assets/images/mlogs/js/RoughViz.js.png
 tags: [Games, EpciGames, Free]
