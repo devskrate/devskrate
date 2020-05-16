@@ -10,10 +10,12 @@ tags: [internet, bored tech]
 Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
 #### 1. FREESOUND  
 FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to <a href="https://freesound.org/" target="_blank">freesound.org</a>. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
+
 <img src="{{ site.baseurl }}/assets/images/internet/freesound.jpg" alt="FreeSound" title="FreeSound">
 
 #### 2. NAPFLIX  
 Unlike Netflix, which keep you awake at nights. <a href="http://napflix.tv/" target="_blank">Napflix</a> will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.  
+
 <img src="{{ site.baseurl }}/assets/images/internet/napflix.jpg" alt="NapFlix" title="NapFlix">
 
 #### 3. webkay - What every Browser knows about you  
