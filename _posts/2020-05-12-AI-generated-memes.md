@@ -25,13 +25,17 @@ Basically, Imgflip’s neural network processed a lot of memes and then tried to
 
 Here are collection of some crazy memes generated there.
 
-<a href="https://imgflip.com/i/40ulhn"><img src="https://i.imgflip.com/40ulhn.jpg" /></a>
+<a href="https://imgflip.com/i/40ulhn"><img width="90%" src="https://i.imgflip.com/40ulhn.jpg" /></a>
 
-![meme1]({{ site.baseurl }}/assets/images/mlogs/AI/meme1.jpg)      
-<br/>       
-![meme2]({{ site.baseurl }}/assets/images/mlogs/AI/meme2.jpg)     
-<br/>
-![meme3]({{ site.baseurl }}/assets/images/mlogs/AI/meme3.jpg)  
+<p align="">
+  <img width="90%" alt="Ulanucher" src="{{ site.baseurl }}/assets/images/mlogs/AI/meme1.jpg">
+</p>
+<p align="">
+  <img width="90%" alt="Ulanucher" src="{{ site.baseurl }}/assets/images/mlogs/AI/meme2.jpg">
+</p>
+<p align="">
+  <img width="90%" alt="Ulanucher" src="{{ site.baseurl }}/assets/images/mlogs/AI/meme3.jpg">
+</p>
 
 Try creating different memes and share with us on [Twitter](https://twitter.com/devskrate) or [Instagram](https://instagram.com/devskrate).
 
