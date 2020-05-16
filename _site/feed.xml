@@ -1,44 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-16T17:55:14+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
-#### 1. FREESOUND  
-FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/freesound.jpg&quot; alt=&quot;FreeSound&quot; title=&quot;FreeSound&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-16T18:04:22+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">&lt;p&gt;Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet.&lt;/p&gt;
+&lt;h4 id=&quot;1-freesound&quot;&gt;1. FREESOUND&lt;/h4&gt;
+&lt;p&gt;FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.&lt;/p&gt;
 
-#### 2. NAPFLIX  
-Unlike Netflix, which keep you awake at nights. &lt;a href=&quot;http://napflix.tv/&quot; target=&quot;_blank&quot;&gt;Napflix&lt;/a&gt; will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.  
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/napflix.jpg&quot; alt=&quot;NapFlix&quot; title=&quot;NapFlix&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/freesound.jpg&quot; alt=&quot;FreeSound&quot; title=&quot;FreeSound&quot; /&gt;&lt;/p&gt;
 
-#### 3. webkay - What every Browser knows about you  
-This website tells you what your browser know about you, and all the website can access these data without asking your permission. Like your approx Location, your OS and the browser, what computer are you using, what social media are you logged in and a lot of other private stuff.  
+&lt;h4 id=&quot;2-napflix&quot;&gt;2. NAPFLIX&lt;/h4&gt;
+&lt;p&gt;Unlike Netflix, which keep you awake at nights. &lt;a href=&quot;http://napflix.tv/&quot; target=&quot;_blank&quot;&gt;Napflix&lt;/a&gt; will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/webkay.jpg&quot; alt=&quot;webkay&quot; title=&quot;webkay&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/napflix.jpg&quot; alt=&quot;NapFlix&quot; title=&quot;NapFlix&quot; /&gt;&lt;/p&gt;
 
-But what I really want to point out here is that The online sites also track your battery percentage not just in desktop, but also on mobile. So, imagine, you want to book an uber with less than 5% battery juice. Well, then then technically, it’s possible for the company to increase price just for you. Not saying this would happen, but technically it’s possible.  
+&lt;h4 id=&quot;3-webkay---what-every-browser-knows-about-you&quot;&gt;3. webkay - What every Browser knows about you&lt;/h4&gt;
+&lt;p&gt;This website tells you what your browser know about you, and all the website can access these data without asking your permission. Like your approx Location, your OS and the browser, what computer are you using, what social media are you logged in and a lot of other private stuff.&lt;/p&gt;
 
-Visit webkay &lt;a href=&quot;http://webkay.robinlinus.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/webkay.jpg&quot; alt=&quot;webkay&quot; title=&quot;webkay&quot; /&gt;&lt;/p&gt;
 
-#### 4. Super Log Out  
-Well, talking about the browser, try out super log. It’s a simple app that automatically log you out of all the sign in account on your browser with just one click.  
+&lt;p&gt;But what I really want to point out here is that The online sites also track your battery percentage not just in desktop, but also on mobile. So, imagine, you want to book an uber with less than 5% battery juice. Well, then then technically, it’s possible for the company to increase price just for you. Not saying this would happen, but technically it’s possible.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/superlogout.gif&quot; alt=&quot;Super Log Out&quot; title=&quot;Super Log Out&quot;&gt;
+&lt;p&gt;Visit webkay &lt;a href=&quot;http://webkay.robinlinus.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
-When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.  
+&lt;h4 id=&quot;4-super-log-out&quot;&gt;4. Super Log Out&lt;/h4&gt;
+&lt;p&gt;Well, talking about the browser, try out super log. It’s a simple app that automatically log you out of all the sign in account on your browser with just one click.&lt;/p&gt;
 
-Visit Super Log Out &lt;a href=&quot;http://superlogout.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;span style=&quot;color:red; background-color:#D3D3D3;font-weight:bold;&quot;&gt;Caution: Dont Visit, unless you require it!!!&lt;/span&gt;  
-#### 5. Button Bass  
-This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.  
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/superlogout.gif&quot; alt=&quot;Super Log Out&quot; title=&quot;Super Log Out&quot; /&gt;&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/buttonbass.jpg&quot; alt=&quot;Button Bass&quot; title=&quot;Button Bass&quot;&gt;
+&lt;p&gt;When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.&lt;/p&gt;
 
-And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.   
+&lt;p&gt;Visit Super Log Out &lt;a href=&quot;http://superlogout.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;span style=&quot;color:red; background-color:#D3D3D3;font-weight:bold;&quot;&gt;Caution: Dont Visit, unless you require it!!!&lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&quot;5-button-bass&quot;&gt;5. Button Bass&lt;/h4&gt;
+&lt;p&gt;This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.&lt;/p&gt;
 
-Visit Button Bass &lt;a href=&quot;http://buttonbass.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;    
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/buttonbass.jpg&quot; alt=&quot;Button Bass&quot; title=&quot;Button Bass&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.&lt;/p&gt;
 
-#### 6. Radio Garden  
-Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.  
-Visit Radio Garden &lt;a href=&quot;http://radio.garden/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+&lt;p&gt;Visit Button Bass &lt;a href=&quot;http://buttonbass.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/radiogarden.jpg&quot; alt=&quot;Radio Garden&quot; title=&quot;Radio Garden&quot;&gt;</content><author><name>nikhil</name></author><category term="internet" /><category term="bored tech" /><summary type="html">Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet. 1. FREESOUND FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to freesound.org. You can find anything for a Bleep sound to a audio of someone flushing a toilet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoughViz.js - for creating sketchy/hand-drawn styled charts</title><link href="http://localhost:4000/roughviz-js/" rel="alternate" type="text/html" title="RoughViz.js - for creating sketchy/hand-drawn styled charts" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/roughviz-js</id><content type="html" xml:base="http://localhost:4000/roughviz-js/">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.
+&lt;h4 id=&quot;6-radio-garden&quot;&gt;6. Radio Garden&lt;/h4&gt;
+&lt;p&gt;Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.&lt;br /&gt;
+Visit Radio Garden &lt;a href=&quot;http://radio.garden/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/radiogarden.jpg&quot; alt=&quot;Radio Garden&quot; title=&quot;Radio Garden&quot; /&gt;&lt;/p&gt;</content><author><name>nikhil</name></author><category term="internet" /><category term="bored tech" /><summary type="html">Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet. 1. FREESOUND FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to freesound.org. You can find anything for a Bleep sound to a audio of someone flushing a toilet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoughViz.js - for creating sketchy/hand-drawn styled charts</title><link href="http://localhost:4000/roughviz-js/" rel="alternate" type="text/html" title="RoughViz.js - for creating sketchy/hand-drawn styled charts" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/roughviz-js</id><content type="html" xml:base="http://localhost:4000/roughviz-js/">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.
 
 ##### What is RoughViz.js?
 **roughViz.js** is a reusable **JavaScript** library for creating sketchy/hand-drawn styled charts in the browser, based on [D3.js v5](https://d3js.org/), [roughjs](https://roughjs.com/), and [handy](http://handyjs.org/).
