@@ -36,3 +36,5 @@ In this moment, companies have the opportunity to affect how we learn, collabora
 #### Read to level-up your learning?
 
 Apply to GitHub MLH Fellowship and join them  from [here](http://fellowship.mlh.io/)
+
+Share your experience with GitHub Fellowship and your feedback about our article on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.
