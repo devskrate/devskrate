@@ -30,9 +30,9 @@ Well, talking about the browser, try out super log. It’s a simple app that aut
 
 <img src="{{ site.baseurl }}/assets/images/internet/superlogout.gif" alt="Super Log Out" title="Super Log Out">
 
-When you are using a public or friends computer Though, don’t click on the link Unless you really want to use this service.  
+When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.  
 
-Visit Super Log Out<a href="http://superlogout.com/" target="_blank">here</a>. <span style="color:red; background-color:#D3D3D3;font-weight:bold;">Caution: Dont Visit, unless you require it!!!</span>  
+Visit Super Log Out <a href="http://superlogout.com/" target="_blank">here</a>. <span style="color:red; background-color:#D3D3D3;font-weight:bold;">Caution: Dont Visit, unless you require it!!!</span>  
 #### 5. Button Bass  
 This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.  
 
