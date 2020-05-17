@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-15T18:38:15+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">RoughViz.js - for creating sketchy/hand-drawn styled charts</title><link href="http://localhost:4000/roughviz-js/" rel="alternate" type="text/html" title="RoughViz.js - for creating sketchy/hand-drawn styled charts" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/roughviz-js</id><content type="html" xml:base="http://localhost:4000/roughviz-js/">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-17T12:53:18+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
+#### 1. FREESOUND  
+FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/freesound.jpg&quot; alt=&quot;FreeSound&quot; title=&quot;FreeSound&quot;&gt;
+
+#### 2. NAPFLIX  
+Unlike Netflix, which keep you awake at nights. &lt;a href=&quot;http://napflix.tv/&quot; target=&quot;_blank&quot;&gt;Napflix&lt;/a&gt; will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.  
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/napflix.jpg&quot; alt=&quot;NapFlix&quot; title=&quot;NapFlix&quot;&gt;
+
+#### 3. webkay - What every Browser knows about you  
+This website tells you what your browser know about you, and all the website can access these data without asking your permission. Like your approx Location, your OS and the browser, what computer are you using, what social media are you logged in and a lot of other private stuff.  
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/webkay.jpg&quot; alt=&quot;webkay&quot; title=&quot;webkay&quot;&gt;
+
+But what I really want to point out here is that The online sites also track your battery percentage not just in desktop, but also on mobile. So, imagine, you want to book an uber with less than 5% battery juice. Well, then then technically, it’s possible for the company to increase price just for you. Not saying this would happen, but technically it’s possible.  
+
+Visit webkay &lt;a href=&quot;http://webkay.robinlinus.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+
+#### 4. Super Log Out  
+Well, talking about the browser, try out super log. It’s a simple app that automatically log you out of all the sign in account on your browser with just one click.  
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/superlogout.gif&quot; alt=&quot;Super Log Out&quot; title=&quot;Super Log Out&quot;&gt;
+
+When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.  
+
+Visit Super Log Out &lt;a href=&quot;http://superlogout.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;span style=&quot;color:red; background-color:#D3D3D3;font-weight:bold;&quot;&gt;Caution: Dont Visit, unless you require it!!!&lt;/span&gt;  
+#### 5. Button Bass  
+This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.  
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/buttonbass.jpg&quot; alt=&quot;Button Bass&quot; title=&quot;Button Bass&quot;&gt;
+
+And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.   
+
+Visit Button Bass &lt;a href=&quot;http://buttonbass.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;    
+
+
+#### 6. Radio Garden  
+Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.  
+Visit Radio Garden &lt;a href=&quot;http://radio.garden/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/radiogarden.jpg&quot; alt=&quot;Radio Garden&quot; title=&quot;Radio Garden&quot;&gt;</content><author><name>nikhil</name></author><category term="internet" /><category term="bored tech" /><summary type="html">Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet. 1. FREESOUND FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to freesound.org. You can find anything for a Bleep sound to a audio of someone flushing a toilet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoughViz.js - for creating sketchy/hand-drawn styled charts</title><link href="http://localhost:4000/roughviz-js/" rel="alternate" type="text/html" title="RoughViz.js - for creating sketchy/hand-drawn styled charts" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/roughviz-js</id><content type="html" xml:base="http://localhost:4000/roughviz-js/">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.
 
 ##### What is RoughViz.js?
 **roughViz.js** is a reusable **JavaScript** library for creating sketchy/hand-drawn styled charts in the browser, based on [D3.js v5](https://d3js.org/), [roughjs](https://roughjs.com/), and [handy](http://handyjs.org/).
@@ -81,45 +123,43 @@ pip install py-roughviz
 This is an open-source project by four engineers. Source is on [GitHub](https://github.com/jwilber/roughViz/)
 
 
-Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="js" /><category term="Graphs" /><category term="JSlibraries" /><category term="Frontend" /><summary type="html">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GTA V for free and more other popular games for a limited time</title><link href="http://localhost:4000/todays-free-game-deals-gta-v/" rel="alternate" type="text/html" title="GTA V for free and more other popular games for a limited time" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/todays-free-game-deals-gta-v</id><content type="html" xml:base="http://localhost:4000/todays-free-game-deals-gta-v/">&lt;p&gt;&lt;a href=&quot;https://www.epicgames.com/store/en-US/&quot;&gt;Epic games&lt;/a&gt; is offering popular free games for a very limited time.&lt;/p&gt;
+Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="js" /><category term="Graphs" /><category term="JSlibraries" /><category term="Frontend" /><summary type="html">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GTA V for free and more other popular games for a limited time</title><link href="http://localhost:4000/todays-free-game-deals-gta-v/" rel="alternate" type="text/html" title="GTA V for free and more other popular games for a limited time" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/todays-free-game-deals-gta-v</id><content type="html" xml:base="http://localhost:4000/todays-free-game-deals-gta-v/">[Epic games](https://www.epicgames.com/store/en-US/) is offering popular free games for a very limited time.
 
-&lt;p&gt;Check out the list.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;#gta-v-game&quot;&gt;GTA V&lt;/a&gt;: May 14th&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;#civilization6-game&quot;&gt;Civilization 6&lt;/a&gt;: May 21st&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;#borderlands-handsome-collection-game&quot;&gt;Borderlands - The Handsome Collection&lt;/a&gt;: May 28th&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;#ark-survival-game&quot;&gt;ARK Survival Evolved&lt;/a&gt;: June 4th&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+Check out the list.
++ [GTA V](#gta-v-game): May 14th
 
-&lt;p id=&quot;gta-v&quot;&gt;&lt;strong&gt;1. The Grand Theft Auto V (GTA-V)&lt;/strong&gt;:
-This is one the most popular game and is free for a very limited time by EpicGames. You can download it &lt;a href=&quot;https://www.epicgames.com/store/en-US/product/grand-theft-auto-v/home&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
++ [Civilization 6](#civilization6-game): May 21st
 
-&lt;p&gt;&lt;img src=&quot;https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg?h=1080&amp;amp;resize=1&amp;amp;w=1920&quot; alt=&quot;GTA-V&quot; /&gt;&lt;/p&gt;
++ [Borderlands - The Handsome Collection](#borderlands-handsome-collection-game): May 28th
 
-&lt;p id=&quot;civilization6-game&quot;&gt;&lt;strong&gt;2. Civilization 6&lt;/strong&gt;:
-This is a Sid Meier’s Civilization VI is a turn-based strategy 4X video game, it is available on May 21st.&lt;/p&gt;
++ [ARK Survival Evolved](#ark-survival-game): June 4th
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg&quot; alt=&quot;Civilization 6&quot; /&gt;&lt;/p&gt;
+{:#gta-v}
+**1. The Grand Theft Auto V (GTA-V)**:
+This is one the most popular game and is free for a very limited time by EpicGames. You can download it [here](https://www.epicgames.com/store/en-US/product/grand-theft-auto-v/home)
 
-&lt;p id=&quot;borderlands-handsome-collection-game&quot;&gt;&lt;strong&gt;3. Borderlands The Handsome Collection&lt;/strong&gt;:
-Borderlands: The Handsome Collection is a compilation of first-person shooter video game, it will be available on May 28th.&lt;/p&gt;
+![GTA-V](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg?h=1080&amp;resize=1&amp;w=1920)
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/d/d8/Borderlands_THC.jpg&quot; alt=&quot;Borderlands: The Handsome Collection&quot; /&gt;&lt;/p&gt;
+{:#civilization6-game}
+**2. Civilization 6**:
+This is a Sid Meier's Civilization VI is a turn-based strategy 4X video game, it is available on May 21st.
 
-&lt;p id=&quot;ark-survival-game&quot;&gt;&lt;strong&gt;4. Ark Survival Game&lt;/strong&gt;:
-Ark: Survival Evolved (stylized as &lt;strong&gt;ΛRK&lt;/strong&gt;) is an action-adventure survival video game, it will be available on June 4th.&lt;/p&gt;
+![Civilization 6](https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg)
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.png/330px-ArkSurvivalEvolved.png&quot; alt=&quot;Ark: Survival Evolved&quot; /&gt;&lt;/p&gt;
+{:#borderlands-handsome-collection-game}
+**3. Borderlands The Handsome Collection**:
+Borderlands: The Handsome Collection is a compilation of first-person shooter video game, it will be available on May 28th.
 
-&lt;p&gt;&lt;strong&gt;Stay tuned for the updated links&lt;/strong&gt;&lt;/p&gt;</content><author><name>nikhil</name></author><category term="Games" /><category term="EpciGames" /><category term="Free" /><summary type="html">Epic games is offering popular free games for a very limited time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/games/epic-games-free-games.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/games/epic-games-free-games.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Github teams is free for everyone</title><link href="http://localhost:4000/github-is-free-for-teams/" rel="alternate" type="text/html" title="Github teams is free for everyone" /><published>2020-05-14T00:00:00+05:30</published><updated>2020-05-14T00:00:00+05:30</updated><id>http://localhost:4000/github-is-free-for-teams</id><content type="html" xml:base="http://localhost:4000/github-is-free-for-teams/">We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts.
+![Borderlands: The Handsome Collection](https://upload.wikimedia.org/wikipedia/en/d/d8/Borderlands_THC.jpg)
+
+{:#ark-survival-game}
+**4. Ark Survival Game**:
+Ark: Survival Evolved (stylized as **ΛRK**) is an action-adventure survival video game, it will be available on June 4th.
+
+![Ark: Survival Evolved](https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.png/330px-ArkSurvivalEvolved.png)
+
+
+**Stay tuned for the updated links**</content><author><name>nikhil</name></author><category term="Games" /><category term="EpciGames" /><category term="Free" /><summary type="html">Epic games is offering popular free games for a very limited time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/games/epic-games-free-games.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/games/epic-games-free-games.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Github teams is free for everyone</title><link href="http://localhost:4000/github-is-free-for-teams/" rel="alternate" type="text/html" title="Github teams is free for everyone" /><published>2020-05-14T00:00:00+05:30</published><updated>2020-05-14T00:00:00+05:30</updated><id>http://localhost:4000/github-is-free-for-teams</id><content type="html" xml:base="http://localhost:4000/github-is-free-for-teams/">We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts.
 **All of the core GitHub features are now free for everyone. 🎉**
 
 Until now, if your organization wanted to use GitHub for private development, you had to subscribe to one of our paid plans.
@@ -232,13 +272,17 @@ Basically, Imgflip’s neural network processed a lot of memes and then tried to
 
 Here are collection of some crazy memes generated there.
 
-&lt;a href=&quot;https://imgflip.com/i/40ulhn&quot;&gt;&lt;img src=&quot;https://i.imgflip.com/40ulhn.jpg&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://imgflip.com/i/40ulhn&quot;&gt;&lt;img width=&quot;90%&quot; src=&quot;https://i.imgflip.com/40ulhn.jpg&quot; /&gt;&lt;/a&gt;
 
-![meme1]({{ site.baseurl }}/assets/images/mlogs/AI/meme1.jpg)      
-&lt;br/&gt;       
-![meme2]({{ site.baseurl }}/assets/images/mlogs/AI/meme2.jpg)     
-&lt;br/&gt;
-![meme3]({{ site.baseurl }}/assets/images/mlogs/AI/meme3.jpg)  
+&lt;p align=&quot;&quot;&gt;
+  &lt;img width=&quot;90%&quot; alt=&quot;Ulanucher&quot; src=&quot;{{ site.baseurl }}/assets/images/mlogs/AI/meme1.jpg&quot;&gt;
+&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;
+  &lt;img width=&quot;90%&quot; alt=&quot;Ulanucher&quot; src=&quot;{{ site.baseurl }}/assets/images/mlogs/AI/meme2.jpg&quot;&gt;
+&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;
+  &lt;img width=&quot;90%&quot; alt=&quot;Ulanucher&quot; src=&quot;{{ site.baseurl }}/assets/images/mlogs/AI/meme3.jpg&quot;&gt;
+&lt;/p&gt;
 
 Try creating different memes and share with us on [Twitter](https://twitter.com/devskrate) or [Instagram](https://instagram.com/devskrate).
 
@@ -367,74 +411,4 @@ Important catch: This feature is only available for scheduled meetings, accordin
 
 In the future, you'll also be able to create your own images, upload them to Teams, and then select them as a background image for your video chats, reports said.
 
-You can have video chats with up to 250 people in Microsoft Teams, and if your workplace or school has access to Office 365, you already have access to it. You can also check out a free version of Microsoft's communication tool.</content><author><name>nikhil</name></author><category term="meetings" /><category term="lockdown" /><category term="video calls" /><summary type="html">You can finally add your own background to Microsoft Teams video chats. Designed for business and education, Teams includes group chat, video calling and collaboration tools, and has seen a spike in usage since countries and states have started directing residents to stay and work from home when possible to help stop the spread of the coronavirus.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/microsoft-teams.png" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/microsoft-teams.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GitTensions - Exclusive Extensions for GitHub and GitLab - part 1</title><link href="http://localhost:4000/best-extensions-for-github-part-1/" rel="alternate" type="text/html" title="GitTensions - Exclusive Extensions for GitHub and GitLab - part 1" /><published>2020-05-03T00:00:00+05:30</published><updated>2020-05-03T00:00:00+05:30</updated><id>http://localhost:4000/best-extensions-for-github-part-1</id><content type="html" xml:base="http://localhost:4000/best-extensions-for-github-part-1/">GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions
-
-
-If your answer is **YES** to any of these questions, this [mlog](https://devskrate.com/introducing-mlogs/) is for you.    
-* Do you love to explore GitHub?
-* Do you use GitHub extensively?
-* Do you ever felt that GitHub should be redesigned to meet your needs?
-* Are you a fan of [Git](https://devskrate.com/git-cheat-sheet/)?
-* Are you a Developer ?
-
-We brought you some cool and amazing browser extensions to enhance your experience with GitHub.
-
-If you're not using any of these you're missing so much fun. What are you waiting for add them to your browser right away. you'll feel like 
-
-&gt; **GitHub on steroids**     
-
-#### 1. OctoTree - [Chrome](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/octotree/?src=search)
-
-[OctoTree](https://www.octotree.io/) is a Browser extension that brings your GitHub experience to the next level. Best thing is this provides side nav-bar to browse through all files in a repo.
-
-Features
-* Easy-to-navigate code tree, just like in IDEs
-* Fast file browsing with pjax
-* Support private repositories
-
-![octotree-demo]({{ site.baseurl}}/assets/images/mlogs/github/octotree-demo.gif)
-
-There's a pro version available for this extension, explore the features of pro version [here](https://www.octotree.io/)
-
-
-#### 2. Enhanced Github - [Chrome](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)
-Display repo size, size of each file, download link for individual files and option to copy file contents with a single click.
-
-![enhance-githuub-demo]({{ site.baseurl}}/assets/images/mlogs/github/enhance-github.jpg)
-
-Features
-
-* Displays repo size and each file size in every active branch (not applicable for folder / symlink)
-* Show download link for each individual file (not applicable for folder / symlink)
-* Download file while viewing it's contents and Copy file's contents directly to Clipboard.
-
-#### 3. Git.Expandinizr- [Chrome](https://chrome.google.com/webstore/detail/githubexpandinizr/cbehdjjcilgnejbpnjhobkiiggkedfib)
-
-Usually we do feel irritating when Github truncates the name of file or folder, to view full name we need to open that file. But with this extension this problem will be solved.
-
-![truncate-demo]({{ site.baseurl}}/assets/images/mlogs/github/truncate.png)
-
-Features
- - Removes the truncating of file, directory names and notifications in the repository browser
- - Really long file and directory names will word-wrap
- - Fully expands the website, with breakpoints at 1400px, 1600px and 1800px
-
-#### 4. File Icon for GitHub - [Chrome](https://chrome.google.com/webstore/detail/file-icon-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/github-file-icon/?src=search)
-
-On GitHub, no matter what kind of file is, their icons are all same. However, in your fancy editor, there are some packages which give every filetype an unique icon.
-
-But this extension to replace original file icon with filetype-specific icons. This improves visual recognition on GitHub, GitLab, etc.
-
-![fileicons-demo]({{ site.baseurl}}/assets/images/mlogs/github/file-icons.jpg)
-
-#### 5. Isometric Contributions -[Chrome](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien/related), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/isometric-github/?src=search)
-
-Based on GitHub contribution chart renders an isometric(3D) pixel view of GitHub contribution graphs.
-
-This extension allows you to toggle between both the normal GitHub contribution chart and an isometric pixel art version.
-
-Here is my github isometric contribution chart - **I'm loving it..**      
-![isometric-demo]({{ site.baseurl}}/assets/images/mlogs/github/isometric.PNG)
-
-##### Happy Quarantine 
-Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="chrome" /><category term="firefox" /><category term="extensions" /><category term="github" /><category term="gitlab" /><summary type="html">GitTesnions - This is just a funny name given to extensions exclusive to Github and GitLab to enhance your workflow and increase productivity. Trust me these gitTensions will remove all your tensions</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/gittensions.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/gittensions.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+You can have video chats with up to 250 people in Microsoft Teams, and if your workplace or school has access to Office 365, you already have access to it. You can also check out a free version of Microsoft's communication tool.</content><author><name>nikhil</name></author><category term="meetings" /><category term="lockdown" /><category term="video calls" /><summary type="html">You can finally add your own background to Microsoft Teams video chats. Designed for business and education, Teams includes group chat, video calling and collaboration tools, and has seen a spike in usage since countries and states have started directing residents to stay and work from home when possible to help stop the spread of the coronavirus.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/microsoft-teams.png" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/microsoft-teams.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
