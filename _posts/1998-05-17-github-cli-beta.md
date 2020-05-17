@@ -42,6 +42,6 @@ It’s available today for GitHub Team and Enterprise Cloud, but not yet availab
 
 ####  How to contribute to GitHub CLI
 
-GitHub CLI is an open source project by GitHub. From [here](http://github.com/cli/cli) you can contribute to this project
+GitHub CLI is an open-source project by GitHub. From [here](http://github.com/cli/cli) you can contribute to this project
 
-Share your experience with GitHUb and your feedback about our article on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.
+Share your experience with GitHub and your feedback about our article on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.
