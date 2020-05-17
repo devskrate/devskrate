@@ -39,7 +39,7 @@ As we already said that Google Foobar is an invitation based hiring challenge. T
 ##### What happens after getting an invitation?
 
 When you get the invitation, and you accepted that, you will be redirected to [Google's Foobar](https://foobar.withgoogle.com/) website which looks like a linux command-line interface. 
-![foobar-interface]({{ site.baseurl}}/assets/images/google/foobar-home.png)
+![foobar-interface]({{ site.baseurl}}/assets/images/google/foobar-home.jpg)
 
 After you request for the challenge using the command `request`, you will get some files in your Foobar command-line folder which contains some competitive programming question waiting for you.You can submit your answers either in **Java** or **Python**.
 You will get two files to write the solution to your problem statement `solution.java` and `solution.py`. You can write your solution in your preferred language out of these two.
