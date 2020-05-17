@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Google's FooBar - The secret Hiring challenge
+title:  Google's FooBar - The Secret Hiring Challenge
 author: satya
 categories: [ Google, Developer, Hiring]
 image: assets/images/google/google-foobar.png
