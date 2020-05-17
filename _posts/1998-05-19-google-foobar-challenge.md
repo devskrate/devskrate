@@ -60,5 +60,8 @@ Once you clear your interview you'll be offered a Software Developer role at Goo
 
 > All the  best for your Google's FooBar challenge
 
+
+Note: All the images that helped you to understand better are taken from different sources like  - Google, Medium, Quora. Our  Thanks to all of the above sites.
+
 Share your experience with Google's Foobar and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.
 
