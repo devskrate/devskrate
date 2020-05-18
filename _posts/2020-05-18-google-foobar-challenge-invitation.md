@@ -4,7 +4,7 @@ title:  Google's FooBar - The Secret Hiring Challenge
 author: satya
 categories: [ Google, Developer, Hiring]
 image: assets/images/google/google-foobar.png
-tags: [developerstuff, jobs, students]
+tags: [developerstuff, jobs, students, internship]
 ---
 
 Did you got Google’s Foobar Invitation. First of all, **congratulations**, you should know that, this is not an ordinary invitation,, As  Google sends this hiring invitation to only some special developers.
