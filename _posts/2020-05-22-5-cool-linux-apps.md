@@ -2,8 +2,8 @@
 layout: post
 title:  5 cool Linux apps
 author: puneeth
-categories: [ linux, os ]
-image: assets/images/linux/5-cool-linux-apps.jpg
+categories: [ linux, os, mlogs ]
+image: assets/images/linux/5-cool-linux-apps.png
 tags: [linux, ubuntu, os, apps]
 ---
 
