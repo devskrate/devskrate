@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "What is Microsoft Student Partner(Microsoft Learn Student Ambassador)?"
+title: "What is Microsoft Student Partner?"
 author: nikhil
 categories: [microsoft, learning]
-image: assets/images/microsoft/msp-featured.jpg
+image: assets/images/microsoft/msp-featured-image.jpg
 tags: [microsoft, student partner, ambassador]
 ---
 

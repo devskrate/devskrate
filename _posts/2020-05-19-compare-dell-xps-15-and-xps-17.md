@@ -2,9 +2,9 @@
 layout: post
 title:  Dell launches new XPS 17 and redesigned XPS 15
 author: mohit
-categories: [ dell, computer ]
+categories: [ dell]
 image: assets/images/dell/dell-xps-15-17-2020-feature-image.jpg
-tags: [dell, computer]
+tags: [dell, computers, versions, comparsions]
 ---
 
 Dell launches new XPS 17 and redesigned XPS 15
