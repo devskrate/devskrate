@@ -46,7 +46,7 @@ You can accesses it with a shorcut key can create a shortcut for web search or y
 Wine is a compatibility layer capable of running Windows applications on linux systems.
 Simply you can run windows applications on your linux system.
 
-You can download the Wine [here]("https://wiki.winehq.org/Download"). You can also download it from the software center in linux systems.
+You can download the Wine [here](https://wiki.winehq.org/Download). You can also download it from the software center in linux systems.
 
 <p align="center">
   <img alt="MS office" title="MS office" width="90%" src="{{site.baseurl}}/assets/images/linux/wine-office.jpg">
@@ -65,7 +65,7 @@ It is the application caption.
 
 With this application we can change the desktop themes to light and dark by setting time.
 
-This is there [Github page]("https://github.com/C2N14/AutomaThemely"). You can download it from [here]("https://github.com/C2N14/AutomaThemely/releases")
+This is there [Github page](https://github.com/C2N14/AutomaThemely). You can download it from [here](https://github.com/C2N14/AutomaThemely/releases)
 
 <p align="center">
   <img width="75%" src="{{site.baseurl}}/assets/images/linux/AutomaThemely.png">
@@ -76,4 +76,4 @@ Gnirehtet provides reverse tethering for your Android phone.
 
 It allows devices to use the internet connection of the computer they are plugged on. It does not require any root access (neither on the device nor on the computer). It works on Linux,Windows and Mac OS.
 
-You can download it from it's [here]("https://github.com/Genymobile/gnirehtet").
+You can download it from it's [here](https://github.com/Genymobile/gnirehtet).
