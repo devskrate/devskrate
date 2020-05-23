@@ -27,6 +27,7 @@ This is one the most popular game and is free for a very limited time by EpicGam
 {:#civilization6-game}
 **2. Civilization 6**:
 This is a Sid Meier's Civilization VI is a turn-based strategy 4X video game, it is available on May 21st.
+You can download it [here](https://www.epicgames.com/store/en-US/product/sid-meiers-civilization-vi/home)
 
 ![Civilization 6](https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg)
 
