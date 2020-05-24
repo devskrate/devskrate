@@ -1,4 +1,296 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-17T12:53:18+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T23:26:46+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">5 cool Linux apps</title><link href="http://localhost:4000/5-cool-linux-apps/" rel="alternate" type="text/html" title="5 cool Linux apps" /><published>2020-05-22T00:00:00+05:30</published><updated>2020-05-22T00:00:00+05:30</updated><id>http://localhost:4000/5-cool-linux-apps</id><content type="html" xml:base="http://localhost:4000/5-cool-linux-apps/">&lt;p&gt;In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. KDE Connect&lt;/strong&gt;:
+KDE Connect allow all your devices to communicate with each other.
+Here are some of the things that it can do&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Receive your phone notifications on your desktop computer and reply to messages.&lt;/li&gt;
+  &lt;li&gt;Control music playing on your desktop from your phone.&lt;/li&gt;
+  &lt;li&gt;Use your phone as a remote control for your desktop.&lt;/li&gt;
+  &lt;li&gt;Run predefined commands on your PC from connected devices.&lt;/li&gt;
+  &lt;li&gt;Check your phones battery level from the desktop.&lt;/li&gt;
+  &lt;li&gt;Ring your phone to help finding it.&lt;/li&gt;
+  &lt;li&gt;Share files and links between devices.&lt;/li&gt;
+  &lt;li&gt;Browse your phone from the desktop.&lt;/li&gt;
+  &lt;li&gt;Control the desktop’s volume from the phone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is similar to controlling your phone in Windows, but with a lot more features.&lt;/p&gt;
+
+&lt;p&gt;You can download it from the official site &lt;a href=&quot;https://kdeconnect.kde.org/download.html&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Ulauncher&lt;/strong&gt;:
+It is an application launcher for linux.&lt;/p&gt;
+
+&lt;p&gt;It is a great tool where in&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You can search your apps, files in your system.&lt;/li&gt;
+  &lt;li&gt;You can set custom color themes.&lt;/li&gt;
+  &lt;li&gt;You can add shortcuts &amp;amp; extensions.&lt;/li&gt;
+  &lt;li&gt;Fast directory browser.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;55%&quot; alt=&quot;Ulanucher&quot; src=&quot;/assets/images/linux/ulauncher-theme.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;65%&quot; alt=&quot;Ulanucher&quot; src=&quot;/assets/images/linux/ulauncher-search.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;You can accesses it with a shorcut key can create a shortcut for web search or your scripts or install a 3rd party extension. It is a very cool tool..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Wine&lt;/strong&gt;:
+Wine is a compatibility layer capable of running Windows applications on linux systems.
+Simply you can run windows applications on your linux system.&lt;/p&gt;
+
+&lt;p&gt;You can download the Wine &lt;a href=&quot;https://wiki.winehq.org/Download&quot;&gt;here&lt;/a&gt;. You can also download it from the software center in linux systems.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img alt=&quot;MS office&quot; title=&quot;MS office&quot; width=&quot;90%&quot; src=&quot;/assets/images/linux/wine-office.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img alt=&quot;Matlab&quot; title=&quot;Matlab&quot; width=&quot;75%&quot; src=&quot;/assets/images/linux/wine-matlab.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img alt=&quot;Adobe Photoshop&quot; title=&quot;Adobe Photoshop&quot; width=&quot;75%&quot; src=&quot;/assets/images/linux/wine-photoshopcc2015.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. AutomaThemely&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Simple, set-and-forget python application for changing between desktop themes according to light and dark hours.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is the application caption.&lt;/p&gt;
+
+&lt;p&gt;With this application we can change the desktop themes to light and dark by setting time.&lt;/p&gt;
+
+&lt;p&gt;This is there &lt;a href=&quot;https://github.com/C2N14/AutomaThemely&quot;&gt;Github page&lt;/a&gt;. You can download it from &lt;a href=&quot;https://github.com/C2N14/AutomaThemely/releases&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;75%&quot; src=&quot;/assets/images/linux/AutomaThemely.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Gnirehtet&lt;/strong&gt;:
+Gnirehtet provides reverse tethering for your Android phone.&lt;/p&gt;
+
+&lt;p&gt;It allows devices to use the internet connection of the computer they are plugged on. It does not require any root access (neither on the device nor on the computer). It works on Linux,Windows and Mac OS.&lt;/p&gt;
+
+&lt;p&gt;You can download it from it’s &lt;a href=&quot;https://github.com/Genymobile/gnirehtet&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>puneeth</name></author><category term="linux" /><category term="ubuntu" /><category term="os" /><category term="apps" /><summary type="html">In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/linux/5-cool-linux-apps.png" /><media:content medium="image" url="http://localhost:4000/assets/images/linux/5-cool-linux-apps.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Github announced the MLH Fellowship for students</title><link href="http://localhost:4000/github-mlh-fellowship-for-students/" rel="alternate" type="text/html" title="Github announced the MLH Fellowship for students" /><published>2020-05-20T00:00:00+05:30</published><updated>2020-05-20T00:00:00+05:30</updated><id>http://localhost:4000/github-mlh-fellowship-for-students</id><content type="html" xml:base="http://localhost:4000/github-mlh-fellowship-for-students/">&lt;p&gt;These days companies everywhere find themselves quickly changing how they work. With the culture shift that comes along with remote work, it’s fair to say that collaboration is already starting to be different.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://education.github.com/&quot;&gt;GitHub Education&lt;/a&gt;, always helps the next generation of developers to make their best in work. Now, more than ever, students need opportunities to sustain their growth. Github together with their partners &lt;strong&gt;Major League Hacking (MLH)&lt;/strong&gt;, solving this problem with a new program—the &lt;strong&gt;MLH Fellowship&lt;/strong&gt;, Powered by &lt;strong&gt;GitHub&lt;/strong&gt;. This remote program matches up &lt;em&gt;pods&lt;/em&gt; of 8-10 students with &lt;strong&gt;open-source projects and mentors&lt;/strong&gt; over a period of 12 weeks. Students will receive a stipend for the program through &lt;strong&gt;GitHub Sponsors&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i0.wp.com/user-images.githubusercontent.com/1874003/80812907-e87bbc80-8b96-11ea-914b-8a35398996a4.jpg?ssl=1&quot; alt=&quot;github-quote&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not just GitHub, many other tech companies will come together and fuel this ecosystem. To kick off the program, GitHub Education plans to support &lt;strong&gt;100 MLH Fellows&lt;/strong&gt; in the inaugural class of summer 2020. These are the other partners who’re joining this coalition Facebook, DEV, and the Royal Bank of Canada.&lt;/p&gt;
+
+&lt;p&gt;This is how GitHub describes about MLH Fellowship&lt;/p&gt;
+
+&lt;h5 id=&quot;githubs-vision-workforce-innovation-to-meet-student-demand&quot;&gt;GitHub’s vision: Workforce innovation to meet student demand&lt;/h5&gt;
+
+&lt;p&gt;Enterprises want to stay competitive with recent graduates, and internship programs often provide that edge. Internships also serve as a credential: For future hiring managers, an internship with a top tech company is a good indication of a quality candidate.&lt;/p&gt;
+
+&lt;p&gt;But for students, many, many more of them apply for those coveted roles than there are positions to fill. For most students, a summer in Silicon Valley is often out of the question for those aspiring developers, maintainers, and engineering managers. In partnering with MLH, we’re looking to welcome a new global workforce that is trained in real-world workflows and collaboration&lt;/p&gt;
+
+&lt;p&gt;CEO of MLH, Mike Swift, points to the program’s design around remote work and public projects:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Enabling students to spend their summer contributing to the software that runs the world is a unique     opportunity for them. They’ll work on meaningful projects with their peers under the guidance of some of the world’s most talented engineers. The remote nature of this program will democratize access to internships for countless students worldwide.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 id=&quot;the-opportunity-shape-the-future-of-work&quot;&gt;The opportunity: Shape the future of work&lt;/h6&gt;
+&lt;p&gt;In this moment, companies have the opportunity to affect how we learn, collaborate, and share for decades to come. We hope to see the results of these particular efforts in as little as 12 months when this year’s group of interns graduate.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Let’s keep education moving forward. Students, we got you. - GitHub&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;read-to-level-up-your-learning&quot;&gt;Read to level-up your learning?&lt;/h4&gt;
+
+&lt;p&gt;Apply to GitHub MLH Fellowship and join them  from &lt;a href=&quot;http://fellowship.mlh.io/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Share your experience with GitHub Fellowship and your feedback about our article on &lt;a href=&quot;https://twitter.com/devskrate&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/devskrate&quot;&gt;Instagram&lt;/a&gt;, or mail us at &lt;a href=&quot;mailto:support@devskrate.com&quot;&gt;support@devskrate.com&lt;/a&gt;. Use &lt;a href=&quot;https://devskrate.com&quot;&gt;#DevsKrate&lt;/a&gt; on any social media platforms we will reach out to you.&lt;/p&gt;</content><author><name>satya</name></author><category term="fellowship" /><category term="internship" /><category term="mlh-fellowship" /><category term="github-education" /><summary type="html">These days companies everywhere find themselves quickly changing how they work. With the culture shift that comes along with remote work, it’s fair to say that collaboration is already starting to be different.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/github-mlh.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/github-mlh.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dell launches new XPS 17 and redesigned XPS 15</title><link href="http://localhost:4000/compare-dell-xps-15-and-xps-17/" rel="alternate" type="text/html" title="Dell launches new XPS 17 and redesigned XPS 15" /><published>2020-05-19T00:00:00+05:30</published><updated>2020-05-19T00:00:00+05:30</updated><id>http://localhost:4000/compare-dell-xps-15-and-xps-17</id><content type="html" xml:base="http://localhost:4000/compare-dell-xps-15-and-xps-17/">&lt;p&gt;Dell launches new XPS 17 and redesigned XPS 15&lt;/p&gt;
+
+&lt;p&gt;The company has made big changes to its XPS lineup, with the much-rumored redesign of the XPS 15 and a new XPS 17.
+What do these laptops bring to the market let’s find in this article?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dell/dell-xps-15-17.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lets first talk about the XPS 15, The new XPS 15 design has seen a significant redesign after nearly 5 years and it now comes with a bigger 16:10 aspect ratio and trimmed down bezels, similar to that of Dell XPS 13.
+You can either pick a 4k or a regular FHD (1920 x 1200) display with a small webcam on top for Windows 10 Hello Facial Recognition. It also offers a fingerprint for authentication.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dell/dell-xps-15-17-display.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Powering this is the new 10th gen mobile processors from Intel which can be equipped up to a Core i9 and it also comes with an option for dedicated graphics namely the  Nvidia’s GeForce GTX 1650 Ti Max-Q for graphically intense task.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This laptop ditches ports like USB-A and HDMI in favor of USB-C and this laptop comes with two USB-C with Thunderbolt 3 support and a regular USB-C 3.1 port, and full-size SD card reader. This laptop is quite thinner at 18mm high.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dell/dell-xps-15-17-ports.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Talking about battery, Dell is promising “The longest battery life of any 15-inch laptop”, with up to 25 hours on the FHD display model and It also comes with Quad speaker setup(2 front facing and 2 at rear) for immersive sound experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This laptop starts at &lt;strong&gt;$1,299.99&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alongside the XPS 15, Dell reintroduced it’s slightly bigger XPS 17. It’s been nearly 10 years since we have seen an XPS 17 and as the name implies it’s a larger 17-inch laptop and dell claims that “The XPS 17 is the smallest 17-inch laptop on the planet”. 
+Similar to the XPS 15 this laptop also comes with a 16:10 aspect ratio and a much smaller bezel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dell/dell-xps-15-17-17.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This 17-inch laptop also comes new 10th gen intel processors, which can be equipped up to the new core i9 and at the GPU side of things, this can be equipped with either Nvidia’s GTX 1650 Ti Max-Q or the more powerful RTX 2060. With this CPU and GPU combination Dell claims this laptop to be the “Most powerful XPS laptop ever”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Talking about the ports, this comes with four USB-C Thunderbolt 3 ports and a full-size SD card reader and the fact that it does not have any USB-A port is a bummer.&lt;/li&gt;
+  &lt;li&gt;Dell has added a new thermal design to the XPS 17 with a custom vapor chamber, to improve airflow and sustain high performance for longer periods of time.&lt;/li&gt;
+  &lt;li&gt;It also comes with Quad speaker setup(2 front facing and 2 at rear) for immersive sound experience.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dell/dell-xps-15-17-speakers.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The new Dell XPS 17 will be available soon starting at &lt;strong&gt;$1,499.99&lt;/strong&gt;.&lt;/p&gt;</content><author><name>mohit</name></author><category term="dell" /><category term="computers" /><category term="versions" /><category term="comparsions" /><summary type="html">Dell launches new XPS 17 and redesigned XPS 15</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Google’s FooBar - The Secret Hiring Challenge</title><link href="http://localhost:4000/google-foobar-challenge-invitation/" rel="alternate" type="text/html" title="Google's FooBar - The Secret Hiring Challenge" /><published>2020-05-18T00:00:00+05:30</published><updated>2020-05-18T00:00:00+05:30</updated><id>http://localhost:4000/google-foobar-challenge-invitation</id><content type="html" xml:base="http://localhost:4000/google-foobar-challenge-invitation/">&lt;p&gt;Did you got Google’s Foobar Invitation. First of all, &lt;strong&gt;congratulations&lt;/strong&gt;, you should know that, this is not an ordinary invitation,, As  Google sends this hiring invitation to only some special developers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If you haven’t got this invitation this blog will help you to understand who are eligible and to be prepared for the next hiring challenge.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;FooBar&lt;/strong&gt; is weird term used by Google for it’s secret hiring challenge.&lt;/p&gt;
+
+&lt;h5 id=&quot;what-is-foobar&quot;&gt;What is FooBar?&lt;/h5&gt;
+&lt;p&gt;&lt;a href=&quot;https://foobar.withgoogle.com/&quot;&gt;Google Foobar&lt;/a&gt; is Google’s secret hiring challenge. Google uses this to hire some of the best developers around the globe which they think can be a good match for their organization. Many developers in Google have been hired through this hiring challenge.&lt;/p&gt;
+
+&lt;h5 id=&quot;how-can-i-get-the-invitation&quot;&gt;How can I get the invitation:&lt;/h5&gt;
+&lt;p&gt;Getting the invitation for &lt;a href=&quot;https://foobar.withgoogle.com/&quot;&gt;Google Foobar&lt;/a&gt; is also a mysterious thing, no one exactly knows the criteria for the Google Foobar invitation eligibility. 
+As per the known information&lt;/p&gt;
+
+&lt;p&gt;Google send the invitation on the basis of your &lt;strong&gt;search history&lt;/strong&gt; and &lt;strong&gt;your problem solving related keyword searches&lt;/strong&gt;, like if you are a developer, it is obvious that you search a lot of problems related to programming on Google or Stack Overflow. And based on Google search algorithms, they show you an invitation for &lt;a href=&quot;https://foobar.withgoogle.com/&quot;&gt;Google Foobar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is how the invitation looks like -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You’re speaking our language. Up for a challenge?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/google/foobar-invitation.jpg&quot; alt=&quot;foobar-invitation&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;how-can-i-take-this-challenge-without-an-invitation&quot;&gt;How can I take this challenge without an invitation?&lt;/h5&gt;
+
+&lt;p&gt;We appreciate your interest towards this but, the sad thing is without an invitation from Google, you can’t enter into this hiring challenge&lt;/p&gt;
+
+&lt;p&gt;As we already said that Google Foobar is an invitation based hiring challenge. That means, you can only take the challenge if you have got the invitation from Google for Foobar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/google/foobar-without-invitation.jpg&quot; alt=&quot;foobar-without-invitation&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;what-happens-after-getting-an-invitation&quot;&gt;What happens after getting an invitation?&lt;/h5&gt;
+
+&lt;p&gt;When you get the invitation, and you accepted that, you will be redirected to &lt;a href=&quot;https://foobar.withgoogle.com/&quot;&gt;Google’s Foobar&lt;/a&gt; website which looks like a linux command-line interface. 
+&lt;img src=&quot;/assets/images/google/foobar-home.jpg&quot; alt=&quot;foobar-interface&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you request for the challenge using the command &lt;code class=&quot;highlighter-rouge&quot;&gt;request&lt;/code&gt;, you will get some files in your Foobar command-line folder which contains some competitive programming question waiting for you.You can submit your answers either in &lt;strong&gt;Java&lt;/strong&gt; or &lt;strong&gt;Python&lt;/strong&gt;.
+You will get two files to write the solution to your problem statement &lt;code class=&quot;highlighter-rouge&quot;&gt;solution.java&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;solution.py&lt;/code&gt;. You can write your solution in your preferred language out of these two.&lt;/p&gt;
+
+&lt;p&gt;You can &lt;code class=&quot;highlighter-rouge&quot;&gt;save&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;run&lt;/code&gt; the files and once you’re confident you can &lt;code class=&quot;highlighter-rouge&quot;&gt;submit&lt;/code&gt; and  &lt;code class=&quot;highlighter-rouge&quot;&gt;verify&lt;/code&gt; the results.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/google/foobar-coding.jpg&quot; alt=&quot;foobar-coding&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a similar way you’ll have &lt;strong&gt;five&lt;/strong&gt; levels to complete.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/google/foobar-levels.jpg&quot; alt=&quot;foobar-levels&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you complete all the 5 levels, you get a form to fill your name and your contact details to contact you.&lt;/p&gt;
+
+&lt;p&gt;Once you clear your interview you’ll be offered a Software Developer role at Google depending on your interests, Skills and performance in interviews.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;All the  best for your Google’s FooBar challenge&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Note: All the images that helped you to understand better are taken from different sources like  - Google, Medium, Quora. Our  Thanks to all of the above sites.&lt;/p&gt;
+
+&lt;p&gt;Share your experience with Google’s Foobar and your feedback on &lt;a href=&quot;https://twitter.com/devskrate&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/devskrate&quot;&gt;Instagram&lt;/a&gt;, or mail us at &lt;a href=&quot;mailto:support@devskrate.com&quot;&gt;support@devskrate.com&lt;/a&gt;. Use &lt;a href=&quot;https://devskrate.com&quot;&gt;#DevsKrate&lt;/a&gt; on any social media platforms we will reach out to you.&lt;/p&gt;</content><author><name>satya</name></author><category term="developerstuff" /><category term="jobs" /><category term="students" /><category term="internship" /><summary type="html">Did you got Google’s Foobar Invitation. First of all, congratulations, you should know that, this is not an ordinary invitation,, As Google sends this hiring invitation to only some special developers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/google-foobar.png" /><media:content medium="image" url="http://localhost:4000/assets/images/google/google-foobar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What is Microsoft Student Partner?</title><link href="http://localhost:4000/what-is-microsoft-student-partner/" rel="alternate" type="text/html" title="What is Microsoft Student Partner?" /><published>2020-05-17T00:00:00+05:30</published><updated>2020-05-17T00:00:00+05:30</updated><id>http://localhost:4000/what-is-microsoft-student-partner</id><content type="html" xml:base="http://localhost:4000/what-is-microsoft-student-partner/">&lt;p&gt;There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as &lt;a href=&quot;https://studentambassadors.microsoft.com/en-us&quot; target=&quot;_blank&quot;&gt;Microsoft Learn Student Ambassador program&lt;/a&gt;, formaly Microsoft Student Partner Program.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/student-partner-intro.jpg&quot; alt=&quot;Student Learn Ambassador&quot; title=&quot;Student Learn Ambassador&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-microsoft-learn-student-ambassador&quot;&gt;What is Microsoft Learn Student Ambassador&lt;/h3&gt;
+
+&lt;p&gt;The Microsoft Learn Student Ambassadors program is a global group of on-campus ambassadors who are eager to help students and their communities, lead in their local tech circles, and develop technical and career skills for the future. As a Student Ambassador, you might find yourself organizing a campus or community hackathon, mentoring other students.&lt;/p&gt;
+
+&lt;p&gt;Microsoft quoted the program as…..&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Looking for student leaders with a passion for making a difference, building vibrant communities, and sharing the latest tech with their peers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;when-did-it-all-started&quot;&gt;When did it all started?&lt;/h3&gt;
+
+&lt;p&gt;The MSP Program was initiated back in &lt;strong&gt;2001&lt;/strong&gt;, and operated in &lt;strong&gt;15 countries&lt;/strong&gt; for five years. In late &lt;strong&gt;2006&lt;/strong&gt;, the program was expanded to &lt;strong&gt;50 countries&lt;/strong&gt; worldwide, and as of July 2010, there are more than &lt;strong&gt;2800 members&lt;/strong&gt; worldwide across 101 countries and regions.&lt;/p&gt;
+
+&lt;h3 id=&quot;transformation-from-student-partner-to-learn-student-ambassador&quot;&gt;Transformation from Student Partner to Learn Student Ambassador&lt;/h3&gt;
+
+&lt;p&gt;On July 1, the current Microsoft Student Partner program will evolve to become the Microsoft Learn Student Ambassadors program. All active members of the program will be invited to become Student Ambassadors and the first cohort will be announced in early July.&lt;/p&gt;
+
+&lt;h3 id=&quot;eligibility&quot;&gt;Eligibility&lt;/h3&gt;
+
+&lt;p&gt;To apply, you must be at least 16 years old, have valid identification and be actively enrolled in an accredited, higher education academic institution.&lt;/p&gt;
+
+&lt;p&gt;Students from all academic backgrounds who want to grow their career and tech skills while making a difference in their communities to apply. Some experience in coding or technology is helpful, but we have tools and resources to help you learn in the program.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/student-partner-works.jpg&quot; alt=&quot;Student Learn Ambassador&quot; title=&quot;Student Learn Ambassador&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;benefits&quot;&gt;Benefits&lt;/h3&gt;
+
+&lt;p&gt;As it turns out, earning these benefits involves doing some pretty fun things. We have four milestones for our Student Ambassadors:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alpha 1 - Jump on board and get active in the Teams community.&lt;/li&gt;
+  &lt;li&gt;Alpha 2 - Complete a Microsoft Learn path and unlock Azure credits with Visual Studio Enterprise subscription benefits.&lt;/li&gt;
+  &lt;li&gt;Beta - Host an event in your community to unlock event support and resource benefits. This effort could include an invitation to join our annual Microsoft Learn Student Ambassadors Summit.&lt;/li&gt;
+  &lt;li&gt;Gold - Get invited to the Gold milestone when you’ve gone above and beyond in earning your badges and serving your local community. You’ll become a Student Ambassadors Regional Leader, gain access to special events, and may be invited to become a Microsoft Most Valuable Professional (MVP).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;resources-that-can-be-accessed-by-student-ambassadors&quot;&gt;Resources that can be accessed by Student Ambassadors&lt;/h3&gt;
+
+&lt;p&gt;These benefits include but aren’t limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Access to Office 365, plus Snagit and Camtasia screen capture and recording software.&lt;/li&gt;
+  &lt;li&gt;Visual Studio Enterprise subscription and $150 monthly Azure credits.&lt;/li&gt;
+  &lt;li&gt;Event support.&lt;/li&gt;
+  &lt;li&gt;Engagement with Cloud Advocates and Microsoft MVPs.&lt;/li&gt;
+  &lt;li&gt;Student Ambassador Milestone badges to highlight program accomplishments on your LinkedIn profile.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;application-process&quot;&gt;Application Process:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt;To apply to the Microsoft Learn Student Ambassador program go to &lt;a href=&quot;https://studentambassadors.microsoft.com/en-us/Form&quot; target=&quot;_blank&quot;&gt;https://studentambassadors.microsoft.com/en-us/Form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step-2:&lt;/strong&gt;Read tha Application Notification to know when does your application gets reviewed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-1.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step-3:&lt;/strong&gt;Then fill out all your Personal Info like first name, last name, contact email, gender, and phone number, and then verify the phone number through an OTP.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-2.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step-:4&lt;/strong&gt;In this step fill all our College Details.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-3.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step-5:&lt;/strong&gt;In this step, there are a few questions that test your view on technology and leadership.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-4.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step-7:&lt;/strong&gt;Here you have to fill all your URLs of profiles and other info.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-5.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step-8:&lt;/strong&gt;In the last step, check all your Technical Skills.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-6.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And, then submit your application for the Microsoft Learn Student Ambassador program. Hope this post will help you find your path to successful Microsoft Student Ambassader Program and wish you a very good luck.&lt;/p&gt;</content><author><name>nikhil</name></author><category term="microsoft" /><category term="student partner" /><category term="ambassador" /><summary type="html">There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as Microsoft Learn Student Ambassador program, formaly Microsoft Student Partner Program.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
 #### 1. FREESOUND  
 FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
 
@@ -203,212 +495,4 @@ To be eligible to enter the Challenge, an Entrant must:
   * Linux: 64-bit Ubuntu 14.04+, Debian 8+, openSUSE 13.3+, or Fedora Linux 24+  
   * Chrome OS: Any Chrome OS device updated to v57+  
   * Android: Any Android 5.0+ device with at least 1GB RAM  
-  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poco F2 Pro Launched, Here are Specs and pricing</title><link href="http://localhost:4000/poco-f2-pro-specs-price/" rel="alternate" type="text/html" title="Poco F2 Pro Launched, Here are Specs and pricing" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/poco-f2-pro-specs-price</id><content type="html" xml:base="http://localhost:4000/poco-f2-pro-specs-price/">Redmi K30 Pro has been rebranded to poco and launched it as POCO F2 Pro; Price Starting at €499
-
-Poco, In February launched its new mid-ranger the Poco x2 which is a rebranded K30. As people say &quot;History tends to repeat itself&quot;, a somewhat similar thing has happened the Poco F2 pro is a rebranded Redmi K30 pro.
-What does the phone bring with it lets find out in this article?
-
-**Key Specs**:
-
-{:class=&quot;table table-bordered dark&quot;}
-|Name            | Specifications                                                            |
-| -----------    | ------------------------------------------------------------------------  |
-|Processor       | Qualcomm Snapdragon 865                                                   |
-|Rear Camera     | Quad Cameras 64MP(Primary)+13MP(Ultra Wide)+5MP(Zoom Lens)+2MP(depth Sensor)|
-|Front Camera    | 20MP(popup)                                                               |
-|Display         | 6.67 inches 60HZ AMOLED,180Hz touch sampling rate                         |
-|Connectivity    | 5G, WIFI 6,Super Bluetooth                                                |
-|Battery         | 4700mAH(30W Fast charging)                                                |
-|Fingerprint     | In-Display Fingerprint Sensor(Optical)                                    |
-|Charging        | Type-C cable, with Fast charging                                          |
-
-**Design and Build Quality**:
-The massive notch of the F1 is replaced by a fullscreen bezel-less experience on the front and
-has an in-display fingerprint sensor on the front as well. The rear panel has a circular camera array and Poco branding, which is beautiful to look at. Both the front and back are protected by Corning Gorilla Glass 5.
-
-**Display**:
-This phone now comes with a glass sandwitch design put together by an aluminum frame, which is way superior compared to the polycarbonate build its predecessor(Poco F1) comes with. This phone comes with a 6.67-inch Full-HD+ AMOLED display with a 20:9 aspect ratio. We are disappointed to see a 60Hz display in 2020 but at least it comes with 180Hz touch sampling rate and a peak brightness close to 1200nits. This display also brings with it support for HDR 10+. We can also set different color types like Enhanced, Original, P3, sRGB.
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;75%&quot; src=&quot;{{site.baseurl}}/assets/images/mi/poco/pocof2-pro-display.jpg&quot;&gt;
-&lt;/p&gt;
-
-**Camera**:
-The F2 Pro comes with a quad-camera array in the circular cutout on the rear. The primary sensor is the 64MP Sony IMX686 sensor, along with a 13MP (f/2.4) ultra-wide-angle lens with 123-degree FOV, a 5MP telephoto macro camera and a 2MP depth sensor. The phone also supports 8k video capture. On the selfie side of things it comes with a 20MP pop-up camera with support for slow-motion video and other cool features. We think the pop-up cameras are not the one everyone liked.
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;75%&quot; src=&quot;{{site.baseurl}}/assets/images/mi/poco/pocof2-pro-camera.jpg&quot;&gt;
-&lt;/p&gt;
-
-**Connectivity**:
-This phone comes with the top of the line snapdragon 865 with support for WIFI 6,5G. This phone also supports super Bluetooth,NFC, GPS. It also comes with a 3.5mm headphone jack at the top which is rear to see in flagships nowadays.Poco also includes an IR blaster to let you control home appliances.
-
-**Hardware and Software**:
-This phone is powered by top of the line Qualcomm's snapdragon 865. This also has Liquid cooling 2.0 to help the phone sustain high performance for longer periods and coming to software set if things, It runs MIUI 11 for Poco which is based on Android 10 out of the box. The feature offered by the Poco launcher is exactly similar to MIUI 11. The only difference is that this  launcher offers a clutter-free app drawer. It will also get MIUI 14.
-
-**Battery &amp; Charging:**
-This phone comes with a huge 4,700 mAh battery and support for 30W fast charging, which promises to top up the entire phone in 63 minutes. We are not sure about the wireless charging as of now.
-
-**Pricing**:
-This phone comes in two configurations – 6GB+128GB and 8GB+256GB and has been priced starting at 499 euros (around Rs. 40,750). You will need to shell out 599 euros (around Rs. 48,900) for
-the 8GB+256GB variant.
-
-**Opinion**:
-We think that the phone is overpriced for what it brings on board with it. We are really hoping for real poco series not the rebranded versions of redmi series. We really enjoyed poco F1 and we want the fire of POCO in it's successors also.upto MIUI 14</content><author><name>mohit</name></author><category term="poco" /><category term="redmi" /><category term="mi" /><category term="smartphones" /><summary type="html">Redmi K30 Pro has been rebranded to poco and launched it as POCO F2 Pro; Price Starting at €499</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mi/poco/pocof2_pro_feature.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AI-generated memes can compete with Human-generated memes</title><link href="http://localhost:4000/AI-generated-memes/" rel="alternate" type="text/html" title="AI-generated memes can compete with Human-generated memes" /><published>2020-05-12T00:00:00+05:30</published><updated>2020-05-12T00:00:00+05:30</updated><id>http://localhost:4000/AI-generated-memes</id><content type="html" xml:base="http://localhost:4000/AI-generated-memes/">I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I'm free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to [ImgFlip's](https://imgflip.com/ai-meme) Ai based meme generator. 
-
-
-##### Why this is interesting?
-At a glance, it looks like your random collection of meme templates. But those memes aren’t **real**, I mean not at all generated by humans. They are being created at that instance of time by an artificial intelligence (AI) ALgorithm that can understand meme creation technique and can generate some cool memes. You can directly ask for generating a meme with random template or else you can select a template out of 40 viral meme templates to generate a meme.
-
-![ImgFlip]({{ site.baseurl }}/assets/images/mlogs/AI/imgFlip.jpg)
-
-##### How it works?
-
-These captions are generated by a deep artificial neural network. Nothing about the text generation is hardcoded, except that the maximum text length is limited for sanity. The model uses character-level prediction, so you can specify prefix text of one or more characters to influence the text generated. Using someone's name or other short text as a prefix works best.
-
-The network was trained using public images generated by users of the [Imgflip Meme Generator](https://imgflip.com/memegenerator) for the top 48 most popular Meme Templates. Beware, no profanity filtering was done on the training data so you may encounter vulgarity.
-
-Basically, Imgflip’s neural network processed a lot of memes and then tried to predict what memes should look like. The results are often hilarious, and they certainly feel like real memes.
-
-Here are collection of some crazy memes generated there.
-
-&lt;a href=&quot;https://imgflip.com/i/40ulhn&quot;&gt;&lt;img width=&quot;90%&quot; src=&quot;https://i.imgflip.com/40ulhn.jpg&quot; /&gt;&lt;/a&gt;
-
-&lt;p align=&quot;&quot;&gt;
-  &lt;img width=&quot;90%&quot; alt=&quot;Ulanucher&quot; src=&quot;{{ site.baseurl }}/assets/images/mlogs/AI/meme1.jpg&quot;&gt;
-&lt;/p&gt;
-&lt;p align=&quot;&quot;&gt;
-  &lt;img width=&quot;90%&quot; alt=&quot;Ulanucher&quot; src=&quot;{{ site.baseurl }}/assets/images/mlogs/AI/meme2.jpg&quot;&gt;
-&lt;/p&gt;
-&lt;p align=&quot;&quot;&gt;
-  &lt;img width=&quot;90%&quot; alt=&quot;Ulanucher&quot; src=&quot;{{ site.baseurl }}/assets/images/mlogs/AI/meme3.jpg&quot;&gt;
-&lt;/p&gt;
-
-Try creating different memes and share with us on [Twitter](https://twitter.com/devskrate) or [Instagram](https://instagram.com/devskrate).
-
-Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="memes" /><category term="AI" /><category term="ML" /><category term="Machine Learning" /><summary type="html">I’ve spent a good chunk of my workday so far creating AI-generated memes in seconds with just simple clicks. Usually I do make memes when I’m free but after knowing that I can generate memes using AI, I started testing the algorithm and results as pretty cool. Kudos to ImgFlip’s Ai based meme generator.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/AI/AI-memes.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/AI/AI-memes.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GitHub CodeSpaces - Your instant Dev Environment</title><link href="http://localhost:4000/github-codespaces/" rel="alternate" type="text/html" title="GitHub CodeSpaces - Your instant Dev Environment" /><published>2020-05-09T00:00:00+05:30</published><updated>2020-05-09T00:00:00+05:30</updated><id>http://localhost:4000/github-codespaces</id><content type="html" xml:base="http://localhost:4000/github-codespaces/">Quite often we feel much irritating to shift from Dev Environment to Github and to back to Dev Environment.
-**How would it be if there's a robust develop environment embedded in GitHub itself?**. Very soon Github will bring you the [Visual Studio Code](https://devskrate.com/configure-vscode-like-a-pro/) Development experience right in your GitHub within browser itself.
-
-In order to configure your Github to make your work more productive add these extensions to your [browser](https://devskrate.com/best-extensions-for-github-part-1/).
-
-Let's discuss why CodeSpaces will be much loved by developers..
-
-#### What is CodeSpaces?
-
-In a major announcement for developers, GitHub has launched CodeSpaces — a feature that lets you code directly on the web. It's like a virtual Integrated Development Environment (IDE) on the cloud.
-
-&gt; Codespaces can be configured to load your code and dependencies, developer tools, extensions, and dotfiles. Switching between environments is simple—you can navigate away at any time, and when you switch back, your codespace is automatically reopened.
-
-#### Why Codespaces?
-
-As the title says Codespaces is Your instant Dev Environment. you'll get the full Visual Studio Code experience without leaving GitHub. 
-
-Till now, to contribute to a project you would need to clone the repository, and set up the environment on your local machine according to the requirements of a project. This is the toughest part we've ever felt.
-But with Codespaces, you don’t need to do this anymore. Just with a single click Github will setup the whole environment within seconds.
-
-![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/codespaces1.gif)
-
-#### Key Features of CodeSpaces
-
-###### 1. Code without compromise
-
-You can code, build, test, debug, and deploy with a complete development environment in your browser. That too literally with a single click within seconds.
-
-![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/codespaces2.gif)
-
-###### 2. Simplify your workflow
-
-You can automatically set up dependencies and SSH keys. Go from code to commit faster on any project. This is one of the main advantage CodeSpaces will have.
-
-###### 3. Extend and customize
-
-As we said earlier Codespaces is your Visual Studio Code experience. you can install all the best [vscode extensions](https://devskrate.com/configure-vscode-like-a-pro/)
-
-![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/github-vscode.jpg)
-
-###### 4. Develop from anywhere, anytime
-
-Github also provides dark mode for development environment. we are sure that you'll love working there.
-With your development in the cloud, you can contribute code from any device, using VS Code or your browser.
-
-![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/device-2.png)
-
-###### 5. Dependencies, decluttered
-Contribute to projects without complicating your local setup. Spin up dev environments with a click—even for projects you haven't worked on before—and switch between them with ease. Github supports all popular development programming languages support to make sure that you will have a great experience.
-
-![github-codespaces]({{ site.baseurl}}/assets/images/mlogs/github/dependencies-1.png)
-
-#### Signup for beta now.
-Codespaces is available in beta. Add yourself to our early-access list to be one of the first to use it.
-Codespaces will be available to a small group of GitHub users while in limited beta. Over time, more users will have access to the beta based on availability and sign up date.
-
-[Request Early Access](https://github.com/features/codespaces/signup) for Github CodeSpaces.
-
-Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="Microsoft" /><category term="vscode" /><category term="extensions" /><category term="github" /><summary type="html">Quite often we feel much irritating to shift from Dev Environment to Github and to back to Dev Environment. How would it be if there’s a robust develop environment embedded in GitHub itself?. Very soon Github will bring you the Visual Studio Code Development experience right in your GitHub within browser itself.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/codespaces.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/codespaces.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Espanso - Cross-platform Text Expander written in Rust</title><link href="http://localhost:4000/espanso-text-expander/" rel="alternate" type="text/html" title="Espanso - Cross-platform Text Expander written in Rust" /><published>2020-05-08T00:00:00+05:30</published><updated>2020-05-08T00:00:00+05:30</updated><id>http://localhost:4000/espanso-text-expander</id><content type="html" xml:base="http://localhost:4000/espanso-text-expander/">Snippet tools are incredibly useful. The idea is to save time that would have otherwise been wasted typing phrases, sentences or entire paragraphs.
-
-Espanso is an open source text template program for Windows, Mac and Linux that helps users save time.
-
-During the installation, you have the choice to add Espanso to &quot;PATH&quot; (Windows System Variable) and to enable it to auto-start with Windows. You will also need to restart the computer to get the program working. properly; I think it requires the restart to enable the &quot;PATH&quot; correctly. Start the program and you should see an icon on the system tray. Right-clicking on it allows you to disable it or exit the program.
-
-Espanso works in all applications including Notepad, Word, Firefox, Thunderbird, and more.
-
-## Matches
-Espanso uses the concept of Matches (keyword recognition) i.e., when you type a word that's present in the program's settings, it triggers the application to substitute the keyword with its configured replacement. The official wiki explains the technical details rather well, but I'll demonstrate how it works below for your convenience.
-
-Fire up a text editor or browser, or any other program that accepts text input. Type the word :espanso and it will magically be replaced with the phrase &quot;Hi there!&quot;. In this case &quot;:espanso&quot; is the keyword and &quot;Hi There&quot; is the replaced text.
-
-![Espanso Demo]({{ site.baseurl}}/assets/images/mlogs/espanso/espanso_feature.gif)
-
-If you haven't guessed it already, Espanso is the Italian word for Expanded.
-
-
-IndicateTLS highlights TLS security protocol version in Firefox's address bar 
-Capture images and annotate them quickly with Draft Notes
-Capture images and annotate them quickly with Draft Notes 
-
-![Espanso Demo]({{ site.baseurl}}/assets/images/mlogs/espanso/espanso-highlighted.jpeg)
-
-So, how do we customize Espanso?
-Go to the application's &quot;Roaming&quot; folder in your User directory.
-
-This folder contains a &quot;default.yml&quot; file. Open it using a text editor, e.g. Notepad works just fine. Espanso uses YAML syntax, which is very user-friendly. Look at the highlighted section in the screenshot below. That's the match trigger and replacement which I mentioned in my example.
-
-## Rules
-The indentation is necessary for the syntax to work. So if your match isn't being triggered correctly, check the spacing in the syntax. The other rule is to remember to use the : symbol. For e.g. :espanso vs espanso. The first one is correct, the latter won't trigger the program.
-
-## How to add new words to Espanso?
-Let's try adding a new one. Write a new trigger word and choose a replacement phrase. To make it easy, you can just copy the &quot;espanso&quot; trigger, paste it in a new line and edit it.
-Save the document, exit Espanso and start it again. Now type :ghx and it should be replaced with gHacks.net. That's incredibly easy, isn't it? You can use it to add email signatures, URLs, HTML Tags, commonly used phrases, responses, etc, and save some time.
-
-![Espanso Demo]({{ site.baseurl}}/assets/images/mlogs/espanso/espanso_yml.jpeg)
-
-You can even replace a text with an image, the syntax is slightly different.
-
-``` yml
-- trigger: &quot;:word&quot;
-image_path: &quot;/path/image.ext&quot;
-```
-
-Replace word with the keyword you want and the /path/image.ext with the full path of the image's location, followed by the name of the picture and its extension. This may not be practical in day-to-day usage, but the option is there, in case you want to use it.
-
-
-**Closing Words**:
-Espanso is fast, easy to use if you want to quickly insert words and phrases.</content><author><name>nikhil</name></author><category term="Espanso" /><category term="cross-platform" /><category term="linux" /><category term="mlogs" /><summary type="html">Snippet tools are incredibly useful. The idea is to save time that would have otherwise been wasted typing phrases, sentences or entire paragraphs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/espanso/espanso_feature.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/espanso/espanso_feature.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Here’s how to customize your Microsoft Teams Background</title><link href="http://localhost:4000/customize-microsoft-teams-background/" rel="alternate" type="text/html" title="Here's how to customize your Microsoft Teams Background" /><published>2020-05-07T00:00:00+05:30</published><updated>2020-05-07T00:00:00+05:30</updated><id>http://localhost:4000/customize-microsoft-teams-background</id><content type="html" xml:base="http://localhost:4000/customize-microsoft-teams-background/">You can finally add your own background to Microsoft Teams video chats. Designed for business and education, Teams includes group chat, video calling and collaboration tools, and has seen a spike in usage since countries and states have started directing residents to stay and work from home when possible to help stop the spread of the coronavirus.
-
-With the update to Microsoft's collaboration tool, you can now pick a custom image as your video chat background. The Zoom video chat service also lets you pick your own custom background images for calls. But with recent concerns about Zoom security, some users are starting to look to other services such as Teams for their chats.
-
-## How to change your video chat background in Microsoft Teams
-
-Important catch: This feature is only available for scheduled meetings, according to Microsoft. 
-
-1. Start or or join a Teams meeting, from the Windows or Mac application (you can't change your background on the web app at this point). 
-
-2. At the bottom of the screen, click or tap the three dots to go to your Meeting controls.
-
-3. Select More actions &gt; Show background effects. Either select Blur to blur your background, or choose from the available images to replace it. 
-
-4. You'll be able to preview your background to see how it looks. If you like it, hit Apply. That's it!
-
-In the future, you'll also be able to create your own images, upload them to Teams, and then select them as a background image for your video chats, reports said.
-
-You can have video chats with up to 250 people in Microsoft Teams, and if your workplace or school has access to Office 365, you already have access to it. You can also check out a free version of Microsoft's communication tool.</content><author><name>nikhil</name></author><category term="meetings" /><category term="lockdown" /><category term="video calls" /><summary type="html">You can finally add your own background to Microsoft Teams video chats. Designed for business and education, Teams includes group chat, video calling and collaboration tools, and has seen a spike in usage since countries and states have started directing residents to stay and work from home when possible to help stop the spread of the coronavirus.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/microsoft-teams.png" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/microsoft-teams.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

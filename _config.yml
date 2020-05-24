@@ -53,7 +53,16 @@ authors:
       bio:            "Software Engineer at Dhan AI. Python Developer, Tech Enthusiastic, Photographer"
       email:          satya@devskrate.com
       twitter:        https://twitter.com/CodeWithSatya
+    contributor:
+      short_name:     contributor
+      name:           Contributor
+      site:           https://DevsKrate.com
+      avatar:         /assets/images/satya.jpg
+      bio:            ""
+      email:          contributor@devskrate.com
+      twitter:        https://twitter.com/DevsKrate
     output: true
+
 # Defaults
 defaults:
 
