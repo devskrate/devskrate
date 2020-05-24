@@ -74,6 +74,5 @@ $ scoop install deno
 https://www.freecodecamp.org/news/the-deno-handbook/
 
 #### About author:
-Akash rao Mallareddy
-`Web Developer, StartUp Enthusiastic, Leader`
+Akash rao Mallareddy - `Web Developer, StartUp Enthusiastic, Leader`              
 [Linkedin](https://www.linkedin.com/in/akash-rao-mallareddy-055520168/), [Github](https://github.com/Akashmallareddy)
