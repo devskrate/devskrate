@@ -58,7 +58,7 @@ authors:
       name:           Contributor
       site:           https://DevsKrate.com
       avatar:         /assets/images/contributor.png
-      bio:            ""
+      bio:            "An open source contributor"
       email:          contributor@devskrate.com
       twitter:        https://twitter.com/DevsKrate
     output: true
