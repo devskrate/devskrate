@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T18:51:08+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">GitHub CLI - Enhance your command line experience</title><link href="http://localhost:4000/github-cli-beta/" rel="alternate" type="text/html" title="GitHub CLI - Enhance your command line experience" /><published>2020-05-26T00:00:00+05:30</published><updated>2020-05-26T00:00:00+05:30</updated><id>http://localhost:4000/github-cli-beta</id><content type="html" xml:base="http://localhost:4000/github-cli-beta/">&lt;p&gt;Here is an easier and more seamless way to work with GitHub from the command line — &lt;a href=&quot;https://cli.github.com/&quot;&gt;GitHub CLI&lt;/a&gt;, currently it is in &lt;strong&gt;beta&lt;/strong&gt;. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T18:56:24+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">GitHub CLI - Enhance your command line experience</title><link href="http://localhost:4000/github-cli-beta/" rel="alternate" type="text/html" title="GitHub CLI - Enhance your command line experience" /><published>2020-05-26T00:00:00+05:30</published><updated>2020-05-26T00:00:00+05:30</updated><id>http://localhost:4000/github-cli-beta</id><content type="html" xml:base="http://localhost:4000/github-cli-beta/">&lt;p&gt;Here is an easier and more seamless way to work with GitHub from the command line — &lt;a href=&quot;https://cli.github.com/&quot;&gt;GitHub CLI&lt;/a&gt;, currently it is in &lt;strong&gt;beta&lt;/strong&gt;. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
 The tool &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; brings the &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; experience right to your terminal.&lt;/p&gt;
 
 &lt;h4 id=&quot;installation&quot;&gt;Installation&lt;/h4&gt;
@@ -19,28 +19,33 @@ The tool &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; brings 
 &lt;ul&gt;
   &lt;li&gt;
     &lt;h5 id=&quot;filter-lists-to-your-needs&quot;&gt;Filter lists to your needs&lt;/h5&gt;
-    &lt;p&gt;Find an open source project you want to contribute to and clone the repository. And then, to see where maintainers want community contributions, use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to &lt;strong&gt;filter the issues&lt;/strong&gt; to only show those with &lt;code class=&quot;highlighter-rouge&quot;&gt;help-wanted&lt;/code&gt; labels.    &lt;br /&gt;
-      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli1.png&quot; alt=&quot;gh-example1&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;Find an open source project you want to contribute to and clone the repository. And then, to see where maintainers want community contributions, use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to &lt;strong&gt;filter the issues&lt;/strong&gt; to only show those with &lt;code class=&quot;highlighter-rouge&quot;&gt;help-wanted&lt;/code&gt; labels.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/gh-cli1.png&quot; alt=&quot;gh-example1&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h5 id=&quot;quickly-view-the-details&quot;&gt;Quickly view the details&lt;/h5&gt;
-    &lt;p&gt;Find an &lt;strong&gt;issue&lt;/strong&gt; describing a bug that seems like something you can fix, and use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to quickly open it in the browser to get all the details you need to get started.    &lt;br /&gt;
-      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli2.png&quot; alt=&quot;gh-example2&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;Find an &lt;strong&gt;issue&lt;/strong&gt; describing a bug that seems like something you can fix, and use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to quickly open it in the browser to get all the details you need to get started.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/gh-cli2.png&quot; alt=&quot;gh-example2&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h5 id=&quot;create-a-pull-request&quot;&gt;Create a pull request&lt;/h5&gt;
-    &lt;p&gt;Create a &lt;strong&gt;branch&lt;/strong&gt;, make several commits to fix the bug described in the issue, and use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to create a &lt;em&gt;pull request&lt;/em&gt; to share your contribution. By using GitHub CLI to create &lt;em&gt;pull requests&lt;/em&gt;, it also automatically creates a fork when you don’t already have one, and it pushes your branch and creates your &lt;em&gt;pull request&lt;/em&gt; to get your change merged    &lt;br /&gt;
-      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli3.png&quot; alt=&quot;gh-example3&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;Create a &lt;strong&gt;branch&lt;/strong&gt;, make several commits to fix the bug described in the issue, and use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to create a &lt;em&gt;pull request&lt;/em&gt; to share your contribution. By using GitHub CLI to create &lt;em&gt;pull requests&lt;/em&gt;, it also automatically creates a fork when you don’t already have one, and it pushes your branch and creates your &lt;em&gt;pull request&lt;/em&gt; to get your change merged&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/gh-cli3.png&quot; alt=&quot;gh-example3&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h5 id=&quot;view-the-status-of-your-work&quot;&gt;View the status of your work&lt;/h5&gt;
-    &lt;p&gt;Get a quick snapshot the next morning of what happened since you created your &lt;em&gt;pull request&lt;/em&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; shows the review and check &lt;strong&gt;status&lt;/strong&gt; of your &lt;em&gt;pull requests&lt;/em&gt;    &lt;br /&gt;
-      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli4.png&quot; alt=&quot;gh-example4&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;Get a quick snapshot the next morning of what happened since you created your &lt;em&gt;pull request&lt;/em&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; shows the review and check &lt;strong&gt;status&lt;/strong&gt; of your &lt;em&gt;pull requests&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/gh-cli4.png&quot; alt=&quot;gh-example4&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h5 id=&quot;easily-check-out-pull-requests&quot;&gt;Easily check out pull requests&lt;/h5&gt;
-    &lt;p&gt;One of the maintainers reviewed your &lt;em&gt;pull request&lt;/em&gt; and requested changes. You probably switched branches since then, so use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to checkout the &lt;em&gt;pull request&lt;/em&gt; branch. We never remember the right commands either! Make the changes, push them, and soon enough the pull request is merged—congratulations!   &lt;br /&gt;
-      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli5.png&quot; alt=&quot;gh-example5&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;One of the maintainers reviewed your &lt;em&gt;pull request&lt;/em&gt; and requested changes. You probably switched branches since then, so use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to checkout the &lt;em&gt;pull request&lt;/em&gt; branch. We never remember the right commands either! Make the changes, push them, and soon enough the pull request is merged—congratulations!&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/images/mlogs/github/gh-cli5.png&quot; alt=&quot;gh-example5&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
