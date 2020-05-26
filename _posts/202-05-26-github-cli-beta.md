@@ -2,7 +2,7 @@
 layout: post
 title:  GitHub CLI - Enhance your command line experience
 author: satya
-categories: [ GitHub, mlogs]
+categories: [ Tech, Developers]
 image: assets/images/mlogs/github/github-cli.png
 tags: [commandline, linux, git, developers, beta]
 ---
