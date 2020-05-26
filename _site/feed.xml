@@ -1,4 +1,216 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-22T23:26:46+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">5 cool Linux apps</title><link href="http://localhost:4000/5-cool-linux-apps/" rel="alternate" type="text/html" title="5 cool Linux apps" /><published>2020-05-22T00:00:00+05:30</published><updated>2020-05-22T00:00:00+05:30</updated><id>http://localhost:4000/5-cool-linux-apps</id><content type="html" xml:base="http://localhost:4000/5-cool-linux-apps/">&lt;p&gt;In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-26T18:51:08+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">GitHub CLI - Enhance your command line experience</title><link href="http://localhost:4000/github-cli-beta/" rel="alternate" type="text/html" title="GitHub CLI - Enhance your command line experience" /><published>2020-05-26T00:00:00+05:30</published><updated>2020-05-26T00:00:00+05:30</updated><id>http://localhost:4000/github-cli-beta</id><content type="html" xml:base="http://localhost:4000/github-cli-beta/">&lt;p&gt;Here is an easier and more seamless way to work with GitHub from the command line — &lt;a href=&quot;https://cli.github.com/&quot;&gt;GitHub CLI&lt;/a&gt;, currently it is in &lt;strong&gt;beta&lt;/strong&gt;. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
+The tool &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; brings the &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt; experience right to your terminal.&lt;/p&gt;
+
+&lt;h4 id=&quot;installation&quot;&gt;Installation&lt;/h4&gt;
+&lt;p&gt;You can install GitHub CLI today on most of the Operating Systems available -&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;macOS&lt;/li&gt;
+  &lt;li&gt;Windows&lt;/li&gt;
+  &lt;li&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Install this from &lt;a href=&quot;https://github.com/cli/cli#installation-and-upgrading&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s available today for GitHub Team and Enterprise Cloud, but not yet available for GitHub Enterprise Server. This will have support support for Enterprise Server when it’s out of beta.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; currently suppports with &lt;code class=&quot;highlighter-rouge&quot;&gt;issues&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;pull requests&lt;/code&gt; because many developers use them every day. Here are few examples provided by GitHub on how &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; can improve your experience when contributing to an open source project.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h5 id=&quot;filter-lists-to-your-needs&quot;&gt;Filter lists to your needs&lt;/h5&gt;
+    &lt;p&gt;Find an open source project you want to contribute to and clone the repository. And then, to see where maintainers want community contributions, use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to &lt;strong&gt;filter the issues&lt;/strong&gt; to only show those with &lt;code class=&quot;highlighter-rouge&quot;&gt;help-wanted&lt;/code&gt; labels.    &lt;br /&gt;
+      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli1.png&quot; alt=&quot;gh-example1&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h5 id=&quot;quickly-view-the-details&quot;&gt;Quickly view the details&lt;/h5&gt;
+    &lt;p&gt;Find an &lt;strong&gt;issue&lt;/strong&gt; describing a bug that seems like something you can fix, and use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to quickly open it in the browser to get all the details you need to get started.    &lt;br /&gt;
+      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli2.png&quot; alt=&quot;gh-example2&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h5 id=&quot;create-a-pull-request&quot;&gt;Create a pull request&lt;/h5&gt;
+    &lt;p&gt;Create a &lt;strong&gt;branch&lt;/strong&gt;, make several commits to fix the bug described in the issue, and use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to create a &lt;em&gt;pull request&lt;/em&gt; to share your contribution. By using GitHub CLI to create &lt;em&gt;pull requests&lt;/em&gt;, it also automatically creates a fork when you don’t already have one, and it pushes your branch and creates your &lt;em&gt;pull request&lt;/em&gt; to get your change merged    &lt;br /&gt;
+      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli3.png&quot; alt=&quot;gh-example3&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h5 id=&quot;view-the-status-of-your-work&quot;&gt;View the status of your work&lt;/h5&gt;
+    &lt;p&gt;Get a quick snapshot the next morning of what happened since you created your &lt;em&gt;pull request&lt;/em&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; shows the review and check &lt;strong&gt;status&lt;/strong&gt; of your &lt;em&gt;pull requests&lt;/em&gt;    &lt;br /&gt;
+      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli4.png&quot; alt=&quot;gh-example4&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h5 id=&quot;easily-check-out-pull-requests&quot;&gt;Easily check out pull requests&lt;/h5&gt;
+    &lt;p&gt;One of the maintainers reviewed your &lt;em&gt;pull request&lt;/em&gt; and requested changes. You probably switched branches since then, so use &lt;code class=&quot;highlighter-rouge&quot;&gt;gh&lt;/code&gt; to checkout the &lt;em&gt;pull request&lt;/em&gt; branch. We never remember the right commands either! Make the changes, push them, and soon enough the pull request is merged—congratulations!   &lt;br /&gt;
+      &lt;img src=&quot;/assets/images/mlogs/github/gh-cli5.png&quot; alt=&quot;gh-example5&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;how-to-contribute-to-github-cli&quot;&gt;How to contribute to GitHub CLI&lt;/h4&gt;
+
+&lt;p&gt;GitHub CLI is an open-source project by GitHub. From &lt;a href=&quot;http://github.com/cli/cli&quot;&gt;here&lt;/a&gt; you can contribute to this project&lt;/p&gt;
+
+&lt;p&gt;Share your experience with GitHub and your feedback about our article on &lt;a href=&quot;https://twitter.com/devskrate&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/devskrate&quot;&gt;Instagram&lt;/a&gt;, or mail us at &lt;a href=&quot;mailto:support@devskrate.com&quot;&gt;support@devskrate.com&lt;/a&gt;. Use &lt;a href=&quot;https://devskrate.com&quot;&gt;#DevsKrate&lt;/a&gt; on any social media platforms we will reach out to you.&lt;/p&gt;</content><author><name>satya</name></author><category term="commandline" /><category term="linux" /><category term="git" /><category term="developers" /><category term="beta" /><summary type="html">Here is an easier and more seamless way to work with GitHub from the command line — GitHub CLI, currently it is in beta. Millions of developers rely on GitHub for software development to make it more fun and collaborative. The tool gh brings the GitHub experience right to your terminal.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/github-cli.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/github-cli.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What is Deno.js? How this competes with node.js?</title><link href="http://localhost:4000/deno-js-altenative-to-node-js/" rel="alternate" type="text/html" title="What is Deno.js? How this competes with node.js?" /><published>2020-05-24T00:00:00+05:30</published><updated>2020-05-24T00:00:00+05:30</updated><id>http://localhost:4000/deno-js-altenative-to-node-js</id><content type="html" xml:base="http://localhost:4000/deno-js-altenative-to-node-js/">&lt;p&gt;Deno is the creation of Ryan Dahl, which is a new JavaScript runtime for the backend, but instead of being written in C++, it’s written in Rust, based on the Tokio platform (which provides the asynchronous runtime needed by JavaScript), running on Google’s V8 engine. It is also a new runtime for executing JavaScript and TypeScript outside of the web browser.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-should-we-use-this&quot;&gt;Why should we use this?&lt;/h4&gt;
+
+&lt;p&gt;Generally we may get a doubt, why should I use it, here are some of it’s features. They are:&lt;/p&gt;
+
+&lt;h5 id=&quot;1-security-is-integrated&quot;&gt;1. Security is integrated&lt;/h5&gt;
+
+&lt;p&gt;Node.js allows you to access read and write into the filesystem, access environment variables, make outgoing requests, etc. As well as it also opens up a security risk if you are not careful when writing code.&lt;/p&gt;
+
+&lt;p&gt;So instead, Deno uses command-line arguments to enable or disable access to different security features. So if you need your script to be able to access the /etc folder, you can do:&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;deno &lt;span class=&quot;nt&quot;&gt;--allow-read&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/etc myscript.ts
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;It will allow your code to read from the folder, anything else and you’ll get a security exception. This is similar to how other platforms handle security.&lt;/p&gt;
+
+&lt;h5 id=&quot;2-complete-standard-library&quot;&gt;2. Complete standard library&lt;/h5&gt;
+
+&lt;p&gt;Deno claims to have a complete standard library allowing developers to use official tools to perform basic tasks and only requiring the use of external libraries for complex tasks and it comes with the tools to add color to terminal text, generate UUIDs, work with external data structures,  and for writing WebSockets.&lt;/p&gt;
+
+&lt;h5 id=&quot;3-integrated-typescript&quot;&gt;3. Integrated Typescript&lt;/h5&gt;
+
+&lt;p&gt;In Deno, by default the integration into JavaScript is done internally, so no need for external tooling. By default Deno takes care of a lot, you can overwrite the configuration by using your own tsconfig.json file:&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;deno run &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; tsconfig.json &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;your-script.ts]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The default configuration of Deno is to use strict mode, so any ill-advised coding practice will be alerted immediately.&lt;/p&gt;
+
+&lt;h4 id=&quot;deno-installation&quot;&gt;Deno Installation&lt;/h4&gt;
+
+&lt;p&gt;Deno ships as a single executable with no dependencies. You can install it using the installers below:&lt;/p&gt;
+
+&lt;h5 id=&quot;using-shell-macos-linux&quot;&gt;Using Shell (macOS, Linux):&lt;/h5&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://deno.land/x/install/install.sh | sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5 id=&quot;using-powershell-windows&quot;&gt;Using PowerShell (Windows):&lt;/h5&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;iwr https://deno.land/x/install/install.ps1 &lt;span class=&quot;nt&quot;&gt;-useb&lt;/span&gt; | iex
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5 id=&quot;using-cargo-windows-macos-linux&quot;&gt;Using Cargo (Windows, macOS, Linux):&lt;/h5&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;cargo &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;deno
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5 id=&quot;using-homebrew-macos&quot;&gt;Using Homebrew (macOS):&lt;/h5&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;brew &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;deno
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5 id=&quot;using-chocolatey-windows&quot;&gt;Using Chocolatey (Windows):&lt;/h5&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;choco &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;deno
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5 id=&quot;using-scoop-windows&quot;&gt;Using Scoop (Windows):&lt;/h5&gt;
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;scoop &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;deno
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;where-to-learn-deno&quot;&gt;Where to learn Deno?&lt;/h4&gt;
+
+&lt;p&gt;https://www.freecodecamp.org/news/the-deno-handbook/&lt;/p&gt;
+
+&lt;h4 id=&quot;about-author&quot;&gt;About author:&lt;/h4&gt;
+&lt;p&gt;Akash rao Mallareddy - &lt;code class=&quot;highlighter-rouge&quot;&gt;Web Developer, StartUp Enthusiastic, Leader&lt;/code&gt;            &lt;br /&gt;
+Follow him on &lt;a href=&quot;https://www.linkedin.com/in/akash-rao-mallareddy-055520168/&quot;&gt;Linkedin&lt;/a&gt;, &lt;a href=&quot;https://github.com/Akashmallareddy&quot;&gt;Github&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/AkashMallareddy&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</content><author><name>contributor</name></author><category term="js" /><category term="javascript" /><category term="alternatives" /><summary type="html">Deno is the creation of Ryan Dahl, which is a new JavaScript runtime for the backend, but instead of being written in C++, it’s written in Rust, based on the Tokio platform (which provides the asynchronous runtime needed by JavaScript), running on Google’s V8 engine. It is also a new runtime for executing JavaScript and TypeScript outside of the web browser.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/js/Deno.js.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/js/Deno.js.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Microsoft Teams vs Slack:The Battle of collaborative work</title><link href="http://localhost:4000/microsoft-teams-vs-slack/" rel="alternate" type="text/html" title="Microsoft Teams vs Slack:The Battle of collaborative work" /><published>2020-05-23T00:00:00+05:30</published><updated>2020-05-23T00:00:00+05:30</updated><id>http://localhost:4000/microsoft-teams-vs-slack</id><content type="html" xml:base="http://localhost:4000/microsoft-teams-vs-slack/">&lt;p&gt;Both Microsoft Teams and Slack are collaboration platform tools that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration.&lt;/p&gt;
+
+&lt;p&gt;Back then, Slack began as an internal tool for Stewart Butterfield’s company Tiny Speck during the development of Glitch, an online game. Then Slack was launched in August 2013.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/slack-intro.jpg&quot; alt=&quot;Slack&quot; title=&quot;Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2016, Satya Nadella and Bill Gates met up to discuss an important matter. They wanted to bid 8 billion USD to acquire Slack, the SaaS giant that dominated the team chat app space. The meeting had a surprising conclusion: instead of buying Slack, they decided to build their own team chat app tool. In November 2016, Microsoft Teams was officially launched.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/teams-intro.jpg&quot; alt=&quot;Microsoft Teams&quot; title=&quot;Microsoft Teams&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And now, both Teams and Slack had gained a good amount of daily active users.&lt;/p&gt;
+
+&lt;h4 id=&quot;choosing-between-slack-and-microsoft-teams-for-your-next-collaboration-tool-heres-what-you-need-to-know-about-the-differences-between-the-two-so-you-can-choose-the-platform-that-best-suits-the-needs-of-your-team&quot;&gt;Choosing between Slack and Microsoft Teams for your next collaboration tool? Here’s what you need to know about the differences between the two, so you can choose the platform that best suits the needs of your team.&lt;/h4&gt;
+
+&lt;p&gt;Talking about features, there is a large difference in both of then. They’re&lt;/p&gt;
+
+&lt;table class=&quot;table table-bordered dark&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;Slack&lt;/th&gt;
+      &lt;th&gt;Microsoft Teams&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pricing model&lt;/td&gt;
+      &lt;td&gt;Freemium Standard $6.67 user/month (billed annually)  Plus $12.50 user/month (billed annually)&lt;/td&gt;
+      &lt;td&gt;Freemium Office 365 Business Essentials  $5 per user/month(billed annually) $12.50 per user/month(billed annually)  You can try both paid plans for free for 30 days&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Message history limit&lt;/td&gt;
+      &lt;td&gt;10K messages in Free plan, unlimited in Standard and Plus plans&lt;/td&gt;
+      &lt;td&gt;Unlimited in all plans&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Audio/video calls&lt;/td&gt;
+      &lt;td&gt;Unlimited 1:1 voice and video calls in Free plan Conference calls for up to 15 participants in Paid plans&lt;/td&gt;
+      &lt;td&gt;Voice/video calls with up to 250 people in a meeting.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Integrations&lt;/td&gt;
+      &lt;td&gt;10 integrations limit in Free plan, 800+ integrations in paid plans&lt;/td&gt;
+      &lt;td&gt;180+ apps and services (as of July 2018)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;File storage limit&lt;/td&gt;
+      &lt;td&gt;Free plan: 5GB file storage for a team Standard plan: 10GB per user  Plus plan: 20GB per user&lt;/td&gt;
+      &lt;td&gt;Free plan: 2 GB/user and 10GB of shared storage Paid plans: 1 TB per organization&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Screen sharing&lt;/td&gt;
+      &lt;td&gt;Unavailable in Free version, available in Standard and Plus versions&lt;/td&gt;
+      &lt;td&gt;Available in all plans&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Interface color options&lt;/td&gt;
+      &lt;td&gt;Custom sidebar themes.&lt;/td&gt;
+      &lt;td&gt;3 themes (light, dark, high contrast)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Conversation threads&lt;/td&gt;
+      &lt;td&gt;Yes&lt;/td&gt;
+      &lt;td&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;microsoft-teams-integrations-vs-slack-integrations&quot;&gt;Microsoft Teams integrations vs Slack integrations&lt;/h3&gt;
+
+&lt;p&gt;Microsoft Teams and Slack take slightly different approaches to integration with other apps.&lt;/p&gt;
+
+&lt;h4 id=&quot;slack-integrations&quot;&gt;Slack integrations&lt;/h4&gt;
+&lt;p&gt;Slack boasts a ton of integrations with a variety of different apps—more than 800 for paid plans, to be exact.&lt;br /&gt;
+&lt;img src=&quot;/assets/images/internet/slack-integrations.png&quot; alt=&quot;Slack Integrations&quot; title=&quot;Slack Integrations&quot; /&gt; &lt;br /&gt;
+The sheer number and variety of apps available means that you can customize your Slack workspace to make your workflow seamless.&lt;/p&gt;
+
+&lt;h4 id=&quot;microsoft-teams-integrations&quot;&gt;Microsoft Teams integrations&lt;/h4&gt;
+
+&lt;p&gt;While Slack offers more options for customization, Microsoft Teams takes a different approach—offering a full-fledged collaboration platform with many different functionalities built in from day one.&lt;/p&gt;
+
+&lt;p&gt;Essentially, Teams isn’t meant to be a standalone tool. It’s a fully integrated Office 365 collaboration hub, allowing users to move seamlessly between tasks and apps within the Teams window.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/teams-integrations.jpg&quot; alt=&quot;Teams Integrations&quot; title=&quot;Teams Integrations&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h3&gt;
+
+&lt;p&gt;Here are some of our conclusions regarding Slack vs. Microsoft Teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pricing:&lt;/strong&gt; Both Teams and Slack have freemium plans. When it comes to the paid plans, the cheapest Microsoft Teams plan is less expensive than Slack’s cheapest plan. MT wins this roound.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Layout and design:&lt;/strong&gt; The layout in Microsoft Teams has far too many tabs. On the other hand, there is less to see immediately in Slack because they want to improve their user interface. Moreover, Slack has more options to customize the app’s look.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Messaging:&lt;/strong&gt; Both Teams and Slack have different ways to send and receive messages, including threads. Microsoft Teams has more built-in options to format your text, and in return, Slack lets you set reminders for individual messages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;File sharing and collaboration:&lt;/strong&gt; Microsoft Teams lets you share Office files and work on them immediately from the workspace. Slack doesn’t come with the option of editing documents from the workspace, so you have to download files and open them in specific apps to edit them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Video calls:&lt;/strong&gt; Both apps allow video calls and the feature works very well. However, Teams has a built-in video recording feature, which is really neat. Moreover, MT allows up to 250 people in a single call when you’re on a paid plan, compared to Slack which allows 15 people at a time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Integrations:&lt;/strong&gt; While Microsoft Teams has excellent native integrations with Office and some third-party app integrations, Slack definitely wins in this department – it has more than 800 integrations that you can use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary:&lt;/strong&gt; Both apps are a good choice but they are catered for different needs. If you want lots of third-party integrations and the ability to customize your app to a great extent go with &lt;strong&gt;Slack&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, &lt;strong&gt;Microsoft Teams&lt;/strong&gt; works really well for companies that do a lot of work Office 365 and who already pay for that service.&lt;/p&gt;
+
+&lt;p&gt;If you are planning to use free version, then Microsoft Teams would suit you the best because, there are are a lot more features in Microsoft Teams than Slack. May be this is the reason why, Microsoft Teams had a larger user base.&lt;/p&gt;</content><author><name>nikhil</name></author><category term="microsoft teams" /><category term="communication" /><category term="trends" /><category term="comparsion" /><summary type="html">Both Microsoft Teams and Slack are collaboration platform tools that combines persistent workplace chat, video meetings, file storage (including collaboration on files), and application integration.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/slack-vs-teams.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/slack-vs-teams.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5 cool Linux apps</title><link href="http://localhost:4000/5-cool-linux-apps/" rel="alternate" type="text/html" title="5 cool Linux apps" /><published>2020-05-22T00:00:00+05:30</published><updated>2020-05-22T00:00:00+05:30</updated><id>http://localhost:4000/5-cool-linux-apps</id><content type="html" xml:base="http://localhost:4000/5-cool-linux-apps/">&lt;p&gt;In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;1. KDE Connect&lt;/strong&gt;:
 KDE Connect allow all your devices to communicate with each other.
@@ -290,63 +502,61 @@ You will get two files to write the solution to your problem statement &lt;code 
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/microsoft/msp-apply-6.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;And, then submit your application for the Microsoft Learn Student Ambassador program. Hope this post will help you find your path to successful Microsoft Student Ambassader Program and wish you a very good luck.&lt;/p&gt;</content><author><name>nikhil</name></author><category term="microsoft" /><category term="student partner" /><category term="ambassador" /><summary type="html">There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as Microsoft Learn Student Ambassador program, formaly Microsoft Student Partner Program.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
-#### 1. FREESOUND  
-FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
+&lt;p&gt;And, then submit your application for the Microsoft Learn Student Ambassador program. Hope this post will help you find your path to successful Microsoft Student Ambassader Program and wish you a very good luck.&lt;/p&gt;</content><author><name>nikhil</name></author><category term="microsoft" /><category term="student partner" /><category term="ambassador" /><summary type="html">There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as Microsoft Learn Student Ambassador program, formaly Microsoft Student Partner Program.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">&lt;p&gt;Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet.&lt;/p&gt;
+&lt;h4 id=&quot;1-freesound&quot;&gt;1. FREESOUND&lt;/h4&gt;
+&lt;p&gt;FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/freesound.jpg&quot; alt=&quot;FreeSound&quot; title=&quot;FreeSound&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/freesound.jpg&quot; alt=&quot;FreeSound&quot; title=&quot;FreeSound&quot; /&gt;&lt;/p&gt;
 
-#### 2. NAPFLIX  
-Unlike Netflix, which keep you awake at nights. &lt;a href=&quot;http://napflix.tv/&quot; target=&quot;_blank&quot;&gt;Napflix&lt;/a&gt; will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.  
+&lt;h4 id=&quot;2-napflix&quot;&gt;2. NAPFLIX&lt;/h4&gt;
+&lt;p&gt;Unlike Netflix, which keep you awake at nights. &lt;a href=&quot;http://napflix.tv/&quot; target=&quot;_blank&quot;&gt;Napflix&lt;/a&gt; will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/napflix.jpg&quot; alt=&quot;NapFlix&quot; title=&quot;NapFlix&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/napflix.jpg&quot; alt=&quot;NapFlix&quot; title=&quot;NapFlix&quot; /&gt;&lt;/p&gt;
 
-#### 3. webkay - What every Browser knows about you  
-This website tells you what your browser know about you, and all the website can access these data without asking your permission. Like your approx Location, your OS and the browser, what computer are you using, what social media are you logged in and a lot of other private stuff.  
+&lt;h4 id=&quot;3-webkay---what-every-browser-knows-about-you&quot;&gt;3. webkay - What every Browser knows about you&lt;/h4&gt;
+&lt;p&gt;This website tells you what your browser know about you, and all the website can access these data without asking your permission. Like your approx Location, your OS and the browser, what computer are you using, what social media are you logged in and a lot of other private stuff.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/webkay.jpg&quot; alt=&quot;webkay&quot; title=&quot;webkay&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/webkay.jpg&quot; alt=&quot;webkay&quot; title=&quot;webkay&quot; /&gt;&lt;/p&gt;
 
-But what I really want to point out here is that The online sites also track your battery percentage not just in desktop, but also on mobile. So, imagine, you want to book an uber with less than 5% battery juice. Well, then then technically, it’s possible for the company to increase price just for you. Not saying this would happen, but technically it’s possible.  
+&lt;p&gt;But what I really want to point out here is that The online sites also track your battery percentage not just in desktop, but also on mobile. So, imagine, you want to book an uber with less than 5% battery juice. Well, then then technically, it’s possible for the company to increase price just for you. Not saying this would happen, but technically it’s possible.&lt;/p&gt;
 
-Visit webkay &lt;a href=&quot;http://webkay.robinlinus.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+&lt;p&gt;Visit webkay &lt;a href=&quot;http://webkay.robinlinus.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
-#### 4. Super Log Out  
-Well, talking about the browser, try out super log. It’s a simple app that automatically log you out of all the sign in account on your browser with just one click.  
+&lt;h4 id=&quot;4-super-log-out&quot;&gt;4. Super Log Out&lt;/h4&gt;
+&lt;p&gt;Well, talking about the browser, try out super log. It’s a simple app that automatically log you out of all the sign in account on your browser with just one click.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/superlogout.gif&quot; alt=&quot;Super Log Out&quot; title=&quot;Super Log Out&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/superlogout.gif&quot; alt=&quot;Super Log Out&quot; title=&quot;Super Log Out&quot; /&gt;&lt;/p&gt;
 
-When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.  
+&lt;p&gt;When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.&lt;/p&gt;
 
-Visit Super Log Out &lt;a href=&quot;http://superlogout.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;span style=&quot;color:red; background-color:#D3D3D3;font-weight:bold;&quot;&gt;Caution: Dont Visit, unless you require it!!!&lt;/span&gt;  
-#### 5. Button Bass  
-This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.  
+&lt;p&gt;Visit Super Log Out &lt;a href=&quot;http://superlogout.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;span style=&quot;color:red; background-color:#D3D3D3;font-weight:bold;&quot;&gt;Caution: Dont Visit, unless you require it!!!&lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&quot;5-button-bass&quot;&gt;5. Button Bass&lt;/h4&gt;
+&lt;p&gt;This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/buttonbass.jpg&quot; alt=&quot;Button Bass&quot; title=&quot;Button Bass&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/buttonbass.jpg&quot; alt=&quot;Button Bass&quot; title=&quot;Button Bass&quot; /&gt;&lt;/p&gt;
 
-And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.   
+&lt;p&gt;And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.&lt;/p&gt;
 
-Visit Button Bass &lt;a href=&quot;http://buttonbass.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;    
+&lt;p&gt;Visit Button Bass &lt;a href=&quot;http://buttonbass.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;6-radio-garden&quot;&gt;6. Radio Garden&lt;/h4&gt;
+&lt;p&gt;Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.&lt;br /&gt;
+Visit Radio Garden &lt;a href=&quot;http://radio.garden/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
-#### 6. Radio Garden  
-Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.  
-Visit Radio Garden &lt;a href=&quot;http://radio.garden/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/internet/radiogarden.jpg&quot; alt=&quot;Radio Garden&quot; title=&quot;Radio Garden&quot; /&gt;&lt;/p&gt;</content><author><name>nikhil</name></author><category term="internet" /><category term="bored tech" /><summary type="html">Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet. 1. FREESOUND FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to freesound.org. You can find anything for a Bleep sound to a audio of someone flushing a toilet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoughViz.js - for creating sketchy/hand-drawn styled charts</title><link href="http://localhost:4000/roughviz-js/" rel="alternate" type="text/html" title="RoughViz.js - for creating sketchy/hand-drawn styled charts" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/roughviz-js</id><content type="html" xml:base="http://localhost:4000/roughviz-js/">&lt;p&gt;Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.&lt;/p&gt;
 
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/radiogarden.jpg&quot; alt=&quot;Radio Garden&quot; title=&quot;Radio Garden&quot;&gt;</content><author><name>nikhil</name></author><category term="internet" /><category term="bored tech" /><summary type="html">Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet. 1. FREESOUND FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to freesound.org. You can find anything for a Bleep sound to a audio of someone flushing a toilet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">RoughViz.js - for creating sketchy/hand-drawn styled charts</title><link href="http://localhost:4000/roughviz-js/" rel="alternate" type="text/html" title="RoughViz.js - for creating sketchy/hand-drawn styled charts" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/roughviz-js</id><content type="html" xml:base="http://localhost:4000/roughviz-js/">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.
+&lt;h5 id=&quot;what-is-roughvizjs&quot;&gt;What is RoughViz.js?&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;roughViz.js&lt;/strong&gt; is a reusable &lt;strong&gt;JavaScript&lt;/strong&gt; library for creating sketchy/hand-drawn styled charts in the browser, based on &lt;a href=&quot;https://d3js.org/&quot;&gt;D3.js v5&lt;/a&gt;, &lt;a href=&quot;https://roughjs.com/&quot;&gt;roughjs&lt;/a&gt;, and &lt;a href=&quot;http://handyjs.org/&quot;&gt;handy&lt;/a&gt;.&lt;/p&gt;
 
-##### What is RoughViz.js?
-**roughViz.js** is a reusable **JavaScript** library for creating sketchy/hand-drawn styled charts in the browser, based on [D3.js v5](https://d3js.org/), [roughjs](https://roughjs.com/), and [handy](http://handyjs.org/).
+&lt;p&gt;See some basic examples here - 
+&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/roughViz.gif&quot; alt=&quot;roughviz&quot; /&gt;&lt;/p&gt;
 
-See some basic examples here - 
-![roughviz](https://raw.githubusercontent.com/jwilber/random_data/master/roughViz.gif)
+&lt;h5 id=&quot;why-roughvizjs&quot;&gt;Why RoughViz.js?&lt;/h5&gt;
+&lt;p&gt;Use these charts where the communication goal is to show intent or generality, and not absolute precision. Or just because they’re fun and look weird. In our view those which will look weird will get more attention first than the best one. If you can create content which looks like hand-drawn images, sure you’ll get appreciation.&lt;/p&gt;
 
-##### Why RoughViz.js?
-Use these charts where the communication goal is to show intent or generality, and not absolute precision. Or just because they're fun and look weird. In our view those which will look weird will get more attention first than the best one. If you can create content which looks like hand-drawn images, sure you'll get appreciation.
+&lt;h5 id=&quot;features&quot;&gt;Features&lt;/h5&gt;
 
-
-##### Features
-
-**Chart Types** (many more to come!)
+&lt;p&gt;&lt;strong&gt;Chart Types&lt;/strong&gt; (many more to come!)&lt;/p&gt;
 &lt;ul&gt;
  &lt;li&gt;Bar (&lt;code&gt;roughViz.Bar&lt;/code&gt;) &lt;a href=&quot;#Bar&quot;&gt;API&lt;/a&gt;. &lt;a href=&quot;https://blockbuilder.org/jwilber/4dc5235f7ea5e51ac1219b3605f5af6a&quot;&gt;Example&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt; Horizontal Bar (&lt;code&gt;roughViz.BarH&lt;/code&gt;) &lt;a href=&quot;#BarH&quot;&gt;API&lt;/a&gt;. &lt;a href=&quot;https://blockbuilder.org/jwilber/419fa6d878fe6c0f79a28f9fc72d7ec6&quot;&gt;Example&lt;/a&gt;.&lt;/li&gt;
@@ -357,142 +567,59 @@ Use these charts where the communication goal is to show intent or generality, a
  &lt;li&gt; Stacked Bar (&lt;code&gt;roughViz.StackedBar&lt;/code&gt;) &lt;a href=&quot;#StackedBar&quot;&gt;API&lt;/a&gt;. &lt;a href=&quot;https://blockbuilder.org/jwilber/ee35865631cb805057142568fa5fd090&quot;&gt;Example&lt;/a&gt;.&lt;/li&gt;
  &lt;/ul&gt;
 
-Apply the features of `roughjs` to each chart:
+&lt;p&gt;Apply the features of &lt;code class=&quot;highlighter-rouge&quot;&gt;roughjs&lt;/code&gt; to each chart:&lt;/p&gt;
 
-- **roughness**
-&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_roughnessbars.png&quot;  alt=&quot;roughness examples&quot;&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;roughness&lt;/strong&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_roughnessbars.png&quot; alt=&quot;roughness examples&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;fillStyle&lt;/strong&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/rough_fillStyles.png&quot; alt=&quot;fillStyle examples&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;fillWeight&lt;/strong&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_fillweight.png&quot; alt=&quot;fillStyle examples&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-- **fillStyle**
-&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/rough_fillStyles.png&quot;  alt=&quot;fillStyle examples&quot;&gt;
+&lt;p&gt;You’ll get to know some more cool options in &lt;a href=&quot;https://github.com/jwilber/roughViz/blob/master/README.md#API&quot;&gt;API&lt;/a&gt; Documentation.&lt;/p&gt;
 
+&lt;h5 id=&quot;installation&quot;&gt;Installation&lt;/h5&gt;
 
-- **fillWeight**
-&lt;img src=&quot;https://raw.githubusercontent.com/jwilber/random_data/master/roughViz_fillweight.png&quot;  alt=&quot;fillStyle examples&quot;&gt;
+&lt;p&gt;Via CDN (expose the &lt;code class=&quot;highlighter-rouge&quot;&gt;roughViz&lt;/code&gt; global in &lt;code class=&quot;highlighter-rouge&quot;&gt;html&lt;/code&gt;):&lt;/p&gt;
 
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://unpkg.com/rough-viz@1.0.6&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-You'll get to know some more cool options in [API](https://github.com/jwilber/roughViz/blob/master/README.md#API) Documentation.
+&lt;p&gt;Via &lt;code class=&quot;highlighter-rouge&quot;&gt;npm&lt;/code&gt;:&lt;/p&gt;
 
-##### Installation
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install rough-viz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Via CDN (expose the `roughViz` global in `html`):
+&lt;p&gt;Want to use with &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt;? &lt;a href=&quot;https://github.com/Chris927/react-roughviz&quot;&gt;There’s a wrapper!&lt;/a&gt;:&lt;/p&gt;
 
-```html
-&lt;script src=&quot;https://unpkg.com/rough-viz@1.0.6&quot;&gt;&lt;/script&gt;
-```
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install react-roughviz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Via `npm`:
+&lt;p&gt;Want to use with &lt;code class=&quot;highlighter-rouge&quot;&gt;Vue&lt;/code&gt;? &lt;a href=&quot;https://github.com/jolo-dev/vue-roughviz&quot;&gt;There’s a wrapper!&lt;/a&gt;:&lt;/p&gt;
 
-```
-npm install rough-viz
-```
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install vue-roughviz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Want to use with `React`? [There's a wrapper!](https://github.com/Chris927/react-roughviz):
+&lt;p&gt;Want to use it with &lt;code class=&quot;highlighter-rouge&quot;&gt;Python&lt;/code&gt;? 
+There are two options for this.&lt;/p&gt;
 
-```
-npm install react-roughviz
-```
+&lt;p&gt;&lt;a href=&quot;https://github.com/hannansatopay/roughviz&quot;&gt;Option 1&lt;/a&gt; :&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip install roughviz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/charlesdong1991/py-roughviz&quot;&gt;Option 2&lt;/a&gt; :&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pip install py-roughviz
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-Want to use with `Vue`? [There's a wrapper!](https://github.com/jolo-dev/vue-roughviz):
+&lt;h5 id=&quot;how-to-contribute&quot;&gt;How to Contribute?&lt;/h5&gt;
 
-```
-npm install vue-roughviz
-```
+&lt;p&gt;This is an open-source project by four engineers. Source is on &lt;a href=&quot;https://github.com/jwilber/roughViz/&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 
-Want to use it with `Python`? 
-There are two options for this.
-
-[Option 1](https://github.com/hannansatopay/roughviz) :
-```
-pip install roughviz
-```
-[Option 2](https://github.com/charlesdong1991/py-roughviz) :
-```
-pip install py-roughviz
-```
-
-##### How to Contribute?
-
-This is an open-source project by four engineers. Source is on [GitHub](https://github.com/jwilber/roughViz/)
-
-
-Share your most loved extensions and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="js" /><category term="Graphs" /><category term="JSlibraries" /><category term="Frontend" /><summary type="html">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GTA V for free and more other popular games for a limited time</title><link href="http://localhost:4000/todays-free-game-deals-gta-v/" rel="alternate" type="text/html" title="GTA V for free and more other popular games for a limited time" /><published>2020-05-15T00:00:00+05:30</published><updated>2020-05-15T00:00:00+05:30</updated><id>http://localhost:4000/todays-free-game-deals-gta-v</id><content type="html" xml:base="http://localhost:4000/todays-free-game-deals-gta-v/">[Epic games](https://www.epicgames.com/store/en-US/) is offering popular free games for a very limited time.
-
-Check out the list.
-+ [GTA V](#gta-v-game): May 14th
-
-+ [Civilization 6](#civilization6-game): May 21st
-
-+ [Borderlands - The Handsome Collection](#borderlands-handsome-collection-game): May 28th
-
-+ [ARK Survival Evolved](#ark-survival-game): June 4th
-
-{:#gta-v}
-**1. The Grand Theft Auto V (GTA-V)**:
-This is one the most popular game and is free for a very limited time by EpicGames. You can download it [here](https://www.epicgames.com/store/en-US/product/grand-theft-auto-v/home)
-
-![GTA-V](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg?h=1080&amp;resize=1&amp;w=1920)
-
-{:#civilization6-game}
-**2. Civilization 6**:
-This is a Sid Meier's Civilization VI is a turn-based strategy 4X video game, it is available on May 21st.
-
-![Civilization 6](https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg)
-
-{:#borderlands-handsome-collection-game}
-**3. Borderlands The Handsome Collection**:
-Borderlands: The Handsome Collection is a compilation of first-person shooter video game, it will be available on May 28th.
-
-![Borderlands: The Handsome Collection](https://upload.wikimedia.org/wikipedia/en/d/d8/Borderlands_THC.jpg)
-
-{:#ark-survival-game}
-**4. Ark Survival Game**:
-Ark: Survival Evolved (stylized as **ΛRK**) is an action-adventure survival video game, it will be available on June 4th.
-
-![Ark: Survival Evolved](https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/ArkSurvivalEvolved.png/330px-ArkSurvivalEvolved.png)
-
-
-**Stay tuned for the updated links**</content><author><name>nikhil</name></author><category term="Games" /><category term="EpciGames" /><category term="Free" /><summary type="html">Epic games is offering popular free games for a very limited time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/games/epic-games-free-games.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/games/epic-games-free-games.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Github teams is free for everyone</title><link href="http://localhost:4000/github-is-free-for-teams/" rel="alternate" type="text/html" title="Github teams is free for everyone" /><published>2020-05-14T00:00:00+05:30</published><updated>2020-05-14T00:00:00+05:30</updated><id>http://localhost:4000/github-is-free-for-teams</id><content type="html" xml:base="http://localhost:4000/github-is-free-for-teams/">We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts.
-**All of the core GitHub features are now free for everyone. 🎉**
-
-Until now, if your organization wanted to use GitHub for private development, you had to subscribe to one of our paid plans.
-But every developer on earth should have access to GitHub. They told that **Price shouldn’t be a barrier.**
-
-This means teams can now manage their work together in one place: CI/CD, project management, code review, packages, and more.
-Github allows everyone to be able to ship great software on the platform developers love.
-
-Teams who need advanced features (like code owners), enterprise features (like SAML), or personalized support can upgrade to one of our paid plans.
-
-Github is also reducing the price of paid Team plan from **$9 per user/month to $4 per user/month**, effective immediately.
-Existing customers will have their bills automatically reduced going forward.
-
-
-For more information about pricing visit [here](http://github.com/pricing)
-
-We will come up with a new mlog how to use these features for effective devlopment of your project.</content><author><name>satya</name></author><category term="repositories" /><category term="private" /><category term="teams" /><category term="organizations" /><summary type="html">We’re happy to bring you this exciting news that Github is making private repositories with unlimited collaborators available to all GitHub accounts. All of the core GitHub features are now free for everyone. 🎉</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/github-teams.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/github-teams.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Google’s Change the game design challenge</title><link href="http://localhost:4000/google-game-changers/" rel="alternate" type="text/html" title="Google's Change the game design challenge" /><published>2020-05-13T00:00:00+05:30</published><updated>2020-05-13T00:00:00+05:30</updated><id>http://localhost:4000/google-game-changers</id><content type="html" xml:base="http://localhost:4000/google-game-changers/">Google has recently launched &quot;Change the Game Design&quot; contest to encourage students who are passionate about game designing during this lockdown.  
-
-Google is seeking for new and innovative ideas in designing new games and came with this challenge stating that &quot;If you’ve ever wondered what it takes to build a game of your own, tell us your idea—if you want to play it, we want to hear it&quot;. In an &lt;a href=&quot;https://www.blog.google/products/google-play/change-the-game-design-challenge/&quot; target=&quot;_blank&quot;&gt;official blog post&lt;/a&gt; by Aude Gandon, Global Brand Director of Google Play had officially made the contest live on the official &lt;a href=&quot;https://www.blog.google/&quot; target=&quot;_blank&quot;&gt;Google Blog&lt;/a&gt;.  
-
-Starting from this Tuesday, Google is accepting applications for the &lt;a href=&quot;https://play.google.com/about/changethegame/designchallenge2020/&quot; target=&quot;_blank&quot;&gt;2020 Change the Game Design Challenge&lt;/a&gt; till July 31, 2020. And with schools closed for the year and many of you spending extra time at home, they're expeceting a little huge number of applicants.  
-
-If your game idea is selected, you’ll receive an invitation to meet other game changers. Together, you’ll participate in an online game development workshop hosted by our partner &lt;a href=&quot;https://www.girlsmakegames.com/&quot; target=&quot;_blank&quot;&gt;Girls Make Games&lt;/a&gt;. Throughout four sessions, you’ll get a crash course and hands on experience turning your idea into a playable game.  
-
-You can enter into the challenge by completing the form from &lt;a href=&quot;https://play.google.com/about/changethegame/designchallenge2020/enter/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.
-
-### Eligibility:  
-
-To be eligible to enter the Challenge, an Entrant must: 
-1. be a U.S. citizen or a permanent legal U.S. resident (i.e. must be able to show proof of permanent legal residence)   
-2. be aged between 13 years and 18 years on the date of complete Entry Form submission   
-3. have obtained a parent's or legal guardian's prior permission to enter the Challenge. Minors must have the permission of a parent or legal guardian to enter the Challenge and be eligible to receive any benefits.
-
-### Minimum Technical Requirements:  
-
-1. Internet Connection  
-2. One of the Supported Browsers (Google Chrome 57+, Firefox 55+, Safari 11+, Microsoft Edge 16+)  
-3. One of the Supported OS  
-  * Windows: Windows 7, Windows 8, Windows 8.1, Windows 10 or newer  
-  * Mac: OS X / macOS 10.9 or newer  
-  * Linux: 64-bit Ubuntu 14.04+, Debian 8+, openSUSE 13.3+, or Fedora Linux 24+  
-  * Chrome OS: Any Chrome OS device updated to v57+  
-  * Android: Any Android 5.0+ device with at least 1GB RAM  
-  * iOS: Any iOS 11+ device</content><author><name>nikhil</name></author><category term="google" /><category term="game design" /><category term="contest" /><summary type="html">Google has recently launched “Change the Game Design” contest to encourage students who are passionate about game designing during this lockdown.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/game-changers.gif" /><media:content medium="image" url="http://localhost:4000/assets/images/google/game-changers.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Share your most loved extensions and your feedback on &lt;a href=&quot;https://twitter.com/devskrate&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;https://instagram.com/devskrate&quot;&gt;Instagram&lt;/a&gt;, or mail us at &lt;a href=&quot;mailto:support@devskrate.com&quot;&gt;support@devskrate.com&lt;/a&gt;. Use &lt;a href=&quot;https://devskrate.com&quot;&gt;#DevsKrate&lt;/a&gt; on any social media platforms we will reach out to you.&lt;/p&gt;</content><author><name>satya</name></author><category term="js" /><category term="Graphs" /><category term="JSlibraries" /><category term="Frontend" /><summary type="html">Visualization through visual imagery has been an effective way to communicate both abstract and concrete ideas since the dawn of humanity. Usually we do see some cool visualizations with great look and feel. But this is an out of box JavaScript Library which helps you to plot graphs as hand-drawn charts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/js/RoughViz.js.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
