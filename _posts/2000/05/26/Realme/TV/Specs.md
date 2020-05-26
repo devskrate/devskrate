@@ -1,10 +1,20 @@
-REALME Launched it's 32 inches and 43 inch smart TV in India starting at Rs 12,999
+---
+layout: post
+title:  "REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999"
+author: mohit
+categories: [ ios, tablet pc, apple ]
+image: assets/images/apple/2020-ipad.jpg
+tags: [SmartTV, AndriodTV, Realme]
+---
+
 
     Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv. This smart tv comes in two sizes the 32 and the 43-inch. The main differentiator apart from size is that the 32 inch comes with an HD screen whereas the 43-inch comes with a full HD, while the rest of the specifications remain the same.
 https://static.realme.net/v2/realme-tv/images/banner/P_01_tv_left-b8de84380e.png
 
 Display:
     Realme's tv as mentioned above comes in at two sizes namely the 32 and the 43 inch. These LED Back-Light displays comes with chroma boost picture engine to enhance the overall picture quality and improve the brightness, color, contrast, and clarity to deliver stunning visuals. The TV supports up to 400 nits of brightness and up to 178-degree viewing angles. It also has support HDR 10 and HLG and it offers seven display modes starting from standard, sport, movie, user, energy-saving, game to vivid mode for more customized picture quality.
+    
+![Realme TV Display]({{ site.baseurl}}/assets/images/realme/2020-realmetv-display.png)
 
 Design:
     The stand-out feature of this Tv has to be its design. It comes an almost bezel-less design, which Realme is calling Premium Bezel-less Design. The size of the bezel is as thin as 8.7mm on the top and around the sides, but the bottom bezel is a bit thicker and it houses the realme logo. You can either prop up the TV or wall-mount it, that's entirely up to ur choice.
