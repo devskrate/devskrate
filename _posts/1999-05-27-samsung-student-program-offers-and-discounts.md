@@ -3,7 +3,7 @@ layout: post
 title:  "Get Exclusive Benefits on Student Program | Samsung India"
 author: puneeth
 categories: [Student]
-image: assets/images/realme/realmetv-main.jpg
+image: assets/images/samsung/samsung-student-program-feature.jpg
 tags: [Student, Offers]
 ---
 
@@ -18,6 +18,7 @@ But you should login with your educational mail for browsing these offers.
 <p align="center">
   <img width="45%" style="border:0.5px solid black" alt="Samsung Student Program" src="{{site.baseurl}}/assets/images/samsung/samsung-student-program.jpg">
 </p>
+*This is the mail we got from samsung
 
 + After comparing the prices with the e-commerce websites like Amazon and Flipkart, the prices are Rs 1000/- lower for smartphones.
 
