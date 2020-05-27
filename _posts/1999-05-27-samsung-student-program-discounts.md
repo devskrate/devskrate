@@ -7,7 +7,7 @@ image: assets/images/realme/realmetv-main.jpg
 tags: [Student, Offers]
 ---
 
-Now, Samsung India is offering a **Samsung Student Program** where in a student get exclusive benefits to their samsung products, using their student mailID(education mailID given by an institution) like 
+Now, Samsung India is offering a **Samsung Student Program** where in a student get exclusive benefits to their samsung products, using their student mailID(education mailID given by an institution) like  
 Special price, Easy exchange, Free damage insurance etc..
 
 We have browsed some of the offers with our student mailID, we have noticed some great deals with the Samsung Galaxy **A** Series and even this program also gives discounts on TV's, Refrigerators, Galaxy S, Note series and other appliances. But, we don't know why the budget **M series** smartphones are not included in this program.
