@@ -16,7 +16,7 @@ Realme's tv as mentioned above comes in at two sizes namely the 32 and the 43 in
 ![RealmeTV Display]({{ site.baseurl}}/assets/images/realme/2020-realmetv-display.png)
 
 #### Design:
-The stand-out feature of this Tv has to be its design. It comes an almost bezel-less design, which Realme is calling **Premium Bezel-less Design**. The size of the bezel is as thin as 8.7mm on the top and around the sides, but the bottom bezel is a bit thicker and it houses the realme logo. You can either prop up the TV or wall-mount it, that's entirely up to ur choice.
+The stand-out feature of this Tv has to be its design. It comes an almost bezel-less design, which Realme is calling **Premium Bezel-less Design**. The size of the bezel is as thin as 8.7mm on the top and around the sides, but the bottom bezel is a bit thicker and it houses the realme logo. You can either prop up the TV or wall-mount it, that's entirely up to your choice.
 
 ![RealmeTV Design]({{ site.baseurl}}/assets/images/realme/realmetv-design.jpg)
 
