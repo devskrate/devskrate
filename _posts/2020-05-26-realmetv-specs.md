@@ -23,7 +23,7 @@ The stand-out feature of this Tv has to be its design. It comes an almost bezel-
 **Software**:
 This smart TV comes with **Andriod TV 9.0**, which is Google’s latest OS for television sets. There are no additional skins on top and that's a good thing. It comes with Youtube, Prime Video, Netflix, and Live TV pre-installed. You can also download more apps and games from the play store. It also comes with chrome-cast built-in,to syn content of your phone with the TV. Since it is an android TV, It also comes with google assistant of hands-free voice commands.
 
-![RealmeTV Android TV OS]({{ site.baseurl}}/assets/images/realme/realmeTV-software.jpg)
+![RealmeTV Android TV 9.0]({{ site.baseurl}}/assets/images/realme/realmeTV-software.jpg)
 
 **Internals**:
 Powering this TV is the quad-core 64-bit MediaTek chipset (featuring ARM Cortex A53 CPU, clocked at up to 1.1GHz) and Mali-470 MP3 GPU. It comes with 1GB of RAM and 8GB of ROM. The TV comes with a 24W quad-speaker(2 speakers and 2 tweeters) with Dolby Audio support for rich sound stage.
