@@ -2,7 +2,7 @@
 layout: post
 title:  "Xiaomi’s MI Laptop's Finally Coming To India"
 author: mohit
-categories: [ Extensions, Browser]
+categories: [ Laptop]
 image: assets/images/mi/mi-laptops-finally-launching-in-india.jpg
 tags: [Xiaomi, Redmi, Laptop]
 ---
