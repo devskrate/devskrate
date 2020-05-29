@@ -59,19 +59,14 @@ First thing we need to do is flash our drive with Linux man we're gonna start up
 
 We're gonna navigate to where we have the Linux Mint image and finally we'll click start this is gonna flash Linux Mint to that USB drive so we can boot it up live on our PC you get a couple warnings Yes and we want to write this in an ISO image mode click OK all the data on the USB Drive will be destroyed. We're now done with flashing the Linux Mint to our USB Drive.
 
-{% capture carousel_images %}
-"{{ site.baseurl }}/assets/images/chromeos/rufus-1.jpg"
-"{{ site.baseurl }}/assets/images/chromeos/rufus-2.jpg"
-"{{ site.baseurl }}/assets/images/chromeos/rufus-3.jpg"
-"{{ site.baseurl }}/assets/images/chromeos/rufus-4.jpg"
-{% endcapture %}
-{% include elements/carousel.html %}
-
-<img src="{{ site.baseurl }}/assets/images/" alt="" title="">
+<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-1.jpg" width="500">
+<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-2.jpg" width="500">
+<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-3.jpg" width="500">
+<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-4.jpg" width="500">
 
 Now it's time to get the other files we downloaded. Create a folder called Chrome OS and move the install.sh file that we've downloaded inside of this folder. Now extract both the files Brunch and Chrome OS image and move all the files from both of them into the Chrome OS folder you've created. Then move the Chrome OS folder into the USB Drive.
 
-<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-os-folder" alt="Chrome OS Folder" title="Chrome OS Folder">
+<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-os-folder.jpg" alt="Chrome OS Folder" title="Chrome OS Folder">
 
 Now, finally your bootable drive is ready.
 
@@ -109,10 +104,7 @@ Now, finally your bootable drive is ready.
 
 Then your pc will be booted with Chrome OS and follow the instructions on the screen to setup the device.
 
-{% capture carousel_images %}
-"{{ site.baseurl }}/assets/images/chromeos/chrome-boot-1.jpg"
-"{{ site.baseurl }}/assets/images/chromeos/chrome-boot-2.jpg"
-"{{ site.baseurl }}/assets/images/chromeos/chrome-boot-3.jpg"
-"{{ site.baseurl }}/assets/images/chromeos/chrome-boot-4.jpg"
-{% endcapture %}
-{% include elements/carousel.html %}
+<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-1.jpg" width="500">
+<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-2.jpg" width="500">
+<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-3.jpg" width="500">
+<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-4.jpg" width="500">
