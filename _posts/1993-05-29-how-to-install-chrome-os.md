@@ -59,10 +59,10 @@ First thing we need to do is flash our drive with Linux man we're gonna start up
 
 We're gonna navigate to where we have the Linux Mint image and finally we'll click start this is gonna flash Linux Mint to that USB drive so we can boot it up live on our PC you get a couple warnings Yes and we want to write this in an ISO image mode click OK all the data on the USB Drive will be destroyed. We're now done with flashing the Linux Mint to our USB Drive.
 
-<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-1.jpg" width="500">
-<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-2.jpg" width="500">
-<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-3.jpg" width="500">
-<img src="{{ site.baseurl }}/assets/images/chromeos/rufus-4.jpg" width="500">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/rufus-1.jpg" width="500">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/rufus-2.jpg" width="500">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/rufus-3.jpg" width="500">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/rufus-4.jpg" width="500">
 
 Now it's time to get the other files we downloaded. Create a folder called Chrome OS and move the install.sh file that we've downloaded inside of this folder. Now extract both the files Brunch and Chrome OS image and move all the files from both of them into the Chrome OS folder you've created. Then move the Chrome OS folder into the USB Drive.
 
@@ -93,8 +93,8 @@ Now, finally your bootable drive is ready.
 
 9. Now we're going to install the Chrome OS and make this a strictly Chromebook. To do so, type **Yes**.
 
-<img src="{{ site.baseurl }}/assets/images/chromeos/type-yes.jpg" alt="Type Yes" title="Type Yes">
-<img src="{{ site.baseurl }}/assets/images/chromeos/yes-typed.jpg" alt="Yes Typed" title="Yes Typed">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/type-yes.jpg" alt="Type Yes" title="Type Yes">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/yes-typed.jpg" alt="Yes Typed" title="Yes Typed">
 
 10. It will take around 5-10 minutes depending on your internet connection.
     <img src="{{ site.baseurl }}/assets/images/chromeos/os-installed.jpg">
@@ -104,14 +104,14 @@ Now, finally your bootable drive is ready.
 
 Then your pc will be booted with Chrome OS and follow the instructions on the screen to setup the device.
 
-<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-1.jpg" width="500">
-<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-2.jpg" width="500">
-<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-3.jpg" width="500">
-<img src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-4.jpg" width="500">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-1.jpg" width="300">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-2.jpg" width="300">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-3.jpg" width="300">
+<img style="display: inline; margin: 0 5px;" src="{{ site.baseurl }}/assets/images/chromeos/chrome-boot-4.jpg" width="300">
 
 For more detailed procedure of installation, go through the video by [Kedar Nimbalkar](https://www.youtube.com/channel/UCjQ-YHwNTbUQLVzZQFjsDsQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4gZYV0RWJQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-By the by subscribe to Kedar Nimbalkar for coolvideos on operting systems like triple booting a system.
+By the by subscribe to Kedar Nimbalkar for coolvideos on operting systems like triple booting a system.  
 Content and Image credits: [Kedar Nimbalkar](https://www.youtube.com/channel/UCjQ-YHwNTbUQLVzZQFjsDsQ)
