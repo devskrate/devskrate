@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Install Chrome in a PC"
+title: "Install Chrome OS in a PC"
 author: nikhil
 categories: []
-image: assets/images/microsoft/msp-featured-image.jpg
+image: assets/images/chromeos/
 tags: []
 ---
 
