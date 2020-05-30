@@ -29,23 +29,23 @@ The first thing you'll need is that USB Drive we do recommend at least the 16 gi
 
 #### Downloading Required Files:
 
-1. We need to do is download Linux Mint from [here](https://www.linuxmint.com/download.php). and we're just gonna use this as a live USB so we can install Chrome OS using this operating system we're gonna run this all from the USB. Download the appropriate version ie., either 32 bit or 64 bit.
+**1.** We need to do is download Linux Mint from [here](https://www.linuxmint.com/download.php). and we're just gonna use this as a live USB so we can install Chrome OS using this operating system we're gonna run this all from the USB. Download the appropriate version ie., either 32 bit or 64 bit.
 
 <img src="{{ site.baseurl }}/assets/images/chromeos/linux-mint.jpg" alt="Linux Mint" title="Linux Mint">
 
-2. Then download [Rufus](https://rufus.ie/) that allows us to flash that image to a USB Drive.
+**2.** Then download [Rufus](https://rufus.ie/) that allows us to flash that image to a USB Drive.
 
 <img src="{{ site.baseurl }}/assets/images/chromeos/rufus.jpg" alt="Rufus" title="Rufus">
 
-3. Now, download the latest version of [Brunch](https://github.com/sebanc/brunch/releases) from GitHub. As of now the latest version is 4.19.
+**3.** Now, download the latest version of [Brunch](https://github.com/sebanc/brunch/releases) from GitHub. As of now the latest version is 4.19.
 
 <img src="{{ site.baseurl }}/assets/images/chromeos/brunch.jpg" alt="Brunch" title="Brunch">
 
-4. Now we actually need to get the Chrome OS image and from this [link](https://cros-updates-serving.appspot.com/) you're gonna find **Rammus** in the page using Find in page(**Ctrl+F**) and **download the latest recovery build and extract it**. As of this post, it is 80, but it could be higher. This this the largest file you're going to download and it's going to be around 1.2 GB.
+**4.** Now we actually need to get the Chrome OS image and from this [link](https://cros-updates-serving.appspot.com/) you're gonna find **Rammus** in the page using Find in page(**Ctrl+F**) and **download the latest recovery build and extract it**. As of this post, it is 80, but it could be higher. This this the largest file you're going to download and it's going to be around 1.2 GB.
 
 <img src="{{ site.baseurl }}/assets/images/chromeos/chrome-os-image.jpg" alt="Chrome OS Image" title="Chrome OS Image">
 
-5. The final thing we'll need is the install.sh file. For this you need to go to this [page](https://raw.githubusercontent.com/shrikant2002/ChromeOS/master/install.sh) and right click and save it as install.sh.
+**5.** The final thing we'll need is the install.sh file. For this you need to go to this [page](https://raw.githubusercontent.com/shrikant2002/ChromeOS/master/install.sh) and right click and save it as install.sh.
 
 <img src="{{ site.baseurl }}/assets/images/chromeos/install-sh.jpg" alt="Install Sh" title="Install Sh">
 
