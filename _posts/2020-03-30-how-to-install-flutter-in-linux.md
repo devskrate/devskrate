@@ -11,7 +11,7 @@ tags: [os, linux, windows, student, google]
 
 **1.** First clone the SDK from
 <div class="highlight highlighter-rouge">
-<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="git clone https://github.com/flutter/flutter.git -b stable" data-original-title="Copy code">  <i class="material-icons">content_copy</i></button>
+<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="git clone https://github.com/flutter/flutter.git -b stable" data-original-title="Copy code">  <i class="material-icons"></i></button>
 <pre class="highlight">
 
 <code><span class="gp">$</span> git clone https://github.com/flutter/flutter.git -b stable 
@@ -21,7 +21,7 @@ tags: [os, linux, windows, student, google]
 
 **2.** Now, extract it in the desired location(preferred 'home' directory) by either right clicking and extract or by 
 <div class="highlight highlighter-rouge">
-<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="tar xf flutter_linux_v1.12.13+hotfix.8-stable.tar.xz" data-original-title="Copy code">  <i class="material-icons">content_copy</i></button>
+<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="tar xf flutter_linux_v1.12.13+hotfix.8-stable.tar.xz" data-original-title="Copy code">  <i class="material-icons"></i></button>
 <pre class="highlight">
 
 <code><span class="gp">$</span> tar xf flutter_linux_v1.12.13+hotfix.8-stable.tar.xz
@@ -31,7 +31,7 @@ tags: [os, linux, windows, student, google]
 
 **3.** Now add flutter to your PATH
 <div class="highlight highlighter-rouge">
-<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text='export PATH="$PATH:`pwd`/flutter/bin"' data-original-title="Copy code">  <i class="material-icons">content_copy</i></button>
+<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text='export PATH="$PATH:`pwd`/flutter/bin"' data-original-title="Copy code">  <i class="material-icons"></i></button>
 <pre class="highlight">
 
 <code><span class="gp">$</span> export PATH="$PATH:`pwd`/flutter/bin"
@@ -41,7 +41,7 @@ tags: [os, linux, windows, student, google]
 
 **4.** The last step is running
 <div class="highlight highlighter-rouge">
-<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="flutter doctor" data-original-title="Copy code">  <i class="material-icons">content_copy</i></button>
+<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="flutter doctor" data-original-title="Copy code">  <i class="material-icons"></i></button>
 <pre class="highlight">
 
 <code><span class="gp">$</span> flutter doctor
@@ -80,7 +80,7 @@ Install(Tick all the above and click apply, wait until download and installation
 
 Then, goto Terminal and run
 <div class="highlight highlighter-rouge">
-<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="flutter doctor" data-original-title="Copy code">  <i class="material-icons">content_copy</i></button>
+<div class="code-excerpt__code "><button class="code-excerpt__copy-btn btn" type="button" data-toggle="tooltip" title="" data-clipboard-text="flutter doctor" data-original-title="Copy code">  <i class="material-icons"></i></button>
 <pre class="highlight">
 
 <code><span class="gp">$</span> flutter doctor
