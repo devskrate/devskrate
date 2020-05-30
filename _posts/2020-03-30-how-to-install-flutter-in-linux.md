@@ -67,6 +67,7 @@ This command checks your environment and displays a report to the terminal windo
 **1.** Open android studio and then goto settings and then Android SDK.
 
 ![Android-studio-settings-sdk]({{ site.baseurl }}/assets/images/android/flutter-install-1.png)
+
 **2.** Now UNCHECK the "Hide Obsolete packages" and then verify all the below mentioned are installed.
 + Android SDK Build-Tools
 + Android SDK Command-line Tools
@@ -74,6 +75,7 @@ This command checks your environment and displays a report to the terminal windo
 + Android SDK Tools(Obsolete) [This is generally hidden until you uncheck the Hide Obsolete Packages]
 
 ![Android-SDK-Tools(Obsolete)-Install]({{ site.baseurl}}/assets/images/android/flutter-install-2.png)
+
 Install(Tick all the above and click apply, wait until download and installation of the above packages) the above packages.
 
 Then, goto Terminal and run
