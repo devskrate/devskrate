@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-27T23:01:48+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999</title><link href="http://localhost:4000/realmetv-specs-and-price/" rel="alternate" type="text/html" title="REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999" /><published>2020-05-27T00:00:00+05:30</published><updated>2020-05-27T00:00:00+05:30</updated><id>http://localhost:4000/realmetv-specs-and-price</id><content type="html" xml:base="http://localhost:4000/realmetv-specs-and-price/">Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv. This smart tv comes in two sizes the 32 and the 43-inch. The main differentiator apart from size is that the 32 inch comes with an HD screen whereas the 43-inch comes with a full HD, while the rest of the specifications remain the same.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-31T23:03:07+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">How to install Flutter in linux and Fix general problems</title><link href="http://localhost:4000/how-to-install-flutter-in-linux/" rel="alternate" type="text/html" title="How to install Flutter in linux and Fix general problems" /><published>2020-05-31T00:00:00+05:30</published><updated>2020-05-31T00:00:00+05:30</updated><id>http://localhost:4000/how-to-install-flutter-in-linux</id><content type="html" xml:base="http://localhost:4000/how-to-install-flutter-in-linux/">## Get the Flutter SDK
+
+**1.** First clone the SDK from
+&lt;div class=&quot;highlight highlighter-rouge&quot;&gt;
+&lt;div class=&quot;code-excerpt__code &quot;&gt;&lt;button class=&quot;code-excerpt__copy-btn btn&quot; type=&quot;button&quot; data-toggle=&quot;tooltip&quot; title=&quot;&quot; data-clipboard-text=&quot;git clone https://github.com/flutter/flutter.git -b stable&quot; data-original-title=&quot;Copy code&quot;&gt;  &lt;i class=&quot;material-icons&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+
+&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; git clone https://github.com/flutter/flutter.git -b stable 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+**2.** Now, extract it in the desired location(preferred 'home' directory) by either right clicking and extract or by 
+&lt;div class=&quot;highlight highlighter-rouge&quot;&gt;
+&lt;div class=&quot;code-excerpt__code &quot;&gt;&lt;button class=&quot;code-excerpt__copy-btn btn&quot; type=&quot;button&quot; data-toggle=&quot;tooltip&quot; title=&quot;&quot; data-clipboard-text=&quot;tar xf flutter_linux_v1.12.13+hotfix.8-stable.tar.xz&quot; data-original-title=&quot;Copy code&quot;&gt;  &lt;i class=&quot;material-icons&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+
+&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; tar xf flutter_linux_v1.12.13+hotfix.8-stable.tar.xz
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+**3.** Now add flutter to your PATH
+&lt;div class=&quot;highlight highlighter-rouge&quot;&gt;
+&lt;div class=&quot;code-excerpt__code &quot;&gt;&lt;button class=&quot;code-excerpt__copy-btn btn&quot; type=&quot;button&quot; data-toggle=&quot;tooltip&quot; title=&quot;&quot; data-clipboard-text='export PATH=&quot;$PATH:`pwd`/flutter/bin&quot;' data-original-title=&quot;Copy code&quot;&gt;  &lt;i class=&quot;material-icons&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+
+&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; export PATH=&quot;$PATH:`pwd`/flutter/bin&quot;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+**4.** The last step is running
+&lt;div class=&quot;highlight highlighter-rouge&quot;&gt;
+&lt;div class=&quot;code-excerpt__code &quot;&gt;&lt;button class=&quot;code-excerpt__copy-btn btn&quot; type=&quot;button&quot; data-toggle=&quot;tooltip&quot; title=&quot;&quot; data-clipboard-text=&quot;flutter doctor&quot; data-original-title=&quot;Copy code&quot;&gt;  &lt;i class=&quot;material-icons&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+
+&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; flutter doctor
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+This command checks your environment and displays a report to the terminal window. The Dart SDK is bundled with Flutter; it is not necessary to install Dart separately. Check the output carefully for other software you might need to install or further tasks to perform (shown in bold text).
+
+**Note: Android studio is mandatory for running Flutter**
+
+##### After this many people may face issues with android studio. For example like this
+```
+[-] Android toolchain - develop for Android devices
+    • Android SDK at /Users/obiwan/Library/Android/sdk
+    ✗ Android SDK is missing command line tools; download from https://goo.gl/XxQghQ
+    • Try re-installing or updating your Android SDK,
+      visit https://flutter.dev/setup/#android-setup for detailed instructions.
+```
+
+#### To, resolve these issues even after installing Android studio, follow the below steps
+
+**1.** Open android studio and then goto settings and then Android SDK.
+
+![Android-studio-settings-sdk]({{ site.baseurl }}/assets/images/android/flutter-install-1.png)
+
+**2.** Now UNCHECK the &quot;Hide Obsolete packages&quot; and then verify all the below mentioned are installed.
++ Android SDK Build-Tools
++ Android SDK Command-line Tools
++ Android SDK Platform-Tools
++ Android SDK Tools(Obsolete) [This is generally hidden until you uncheck the Hide Obsolete Packages]
+
+![Android-SDK-Tools(Obsolete)-Install]({{ site.baseurl}}/assets/images/android/flutter-install-2.png)
+
+Install(Tick all the above and click apply, wait until download and installation of the above packages) the above packages.
+
+Then, goto Terminal and run
+&lt;div class=&quot;highlight highlighter-rouge&quot;&gt;
+&lt;div class=&quot;code-excerpt__code &quot;&gt;&lt;button class=&quot;code-excerpt__copy-btn btn&quot; type=&quot;button&quot; data-toggle=&quot;tooltip&quot; title=&quot;&quot; data-clipboard-text=&quot;flutter doctor&quot; data-original-title=&quot;Copy code&quot;&gt;  &lt;i class=&quot;material-icons&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+&lt;pre class=&quot;highlight&quot;&gt;
+
+&lt;code&gt;&lt;span class=&quot;gp&quot;&gt;$&lt;/span&gt; flutter doctor
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+By this time it should work. If it is not working close and open the terminal and set the PATH and try again.</content><author><name>puneeth</name></author><category term="os" /><category term="linux" /><category term="windows" /><category term="student" /><category term="google" /><summary type="html">Get the Flutter SDK</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/flutter.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/flutter.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Xiaomi’s MI Laptop’s Finally Coming To India</title><link href="http://localhost:4000/xiaomi-laptops-mi-notebooks-india/" rel="alternate" type="text/html" title="Xiaomi’s MI Laptop's Finally Coming To India" /><published>2020-05-28T00:00:00+05:30</published><updated>2020-05-28T00:00:00+05:30</updated><id>http://localhost:4000/xiaomi-laptops-mi-notebooks-india</id><content type="html" xml:base="http://localhost:4000/xiaomi-laptops-mi-notebooks-india/">In China, Xiaomi has disrupted the laptop market in 2016 with the introduction of the Mi Notebook, It was such a good value for money product, **most reviewers ended calling it a steal**. Ever since then Xioami has expanded their laptop lineup and recently even unveiled its Redmi lineup of laptops in China and Indian Mi Fans and even tech enthusiasts like us have been asking Xiaomi to bring them to India. Finally, Xiaomi heard our voice and started teasing the arrival of the Mi Laptop range to India.
+
+![Mi Laptop]({{ site.baseurl}}/assets/images/mi/mi-notebook.jpg)
+
+Xiaomi India’s Managing Director Manu Kumar Jain posted a teaser video on twitter with the slogan **“Its Time”** 
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;𝐈𝐓&amp;#39;𝐒 𝐓𝐈𝐌𝐄 !!&lt;br&gt;&lt;br&gt;Mi fans, you have waited and waited and waited. And now, IT&amp;#39;s TIME!&lt;br&gt;&lt;br&gt;RT with &lt;a href=&quot;https://twitter.com/hashtag/WhatsNextFromMi?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#WhatsNextFromMi&lt;/a&gt; if you know what&amp;#39;s coming? 😎 🔁 &lt;a href=&quot;https://twitter.com/hashtag/Xiaomi?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Xiaomi&lt;/a&gt; ❤️ &lt;a href=&quot;https://t.co/FUUNU9WoCk&quot;&gt;pic.twitter.com/FUUNU9WoCk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Manu Kumar Jain (@manukumarjain) &lt;a href=&quot;https://twitter.com/manukumarjain/status/1265576370664624130?ref_src=twsrc%5Etfw&quot;&gt;May 27, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+In this video, Manu shuts the lid of his laptop and says its time. We can also find several other Xiaomi India employees and even Xiaomi India teased the arrival of the laptop.
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Hey there 👋, &lt;a href=&quot;https://twitter.com/Dell_IN?ref_src=twsrc%5Etfw&quot;&gt;@Dell_IN&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Acer_India?ref_src=twsrc%5Etfw&quot;&gt;@Acer_India&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/HPIndia?ref_src=twsrc%5Etfw&quot;&gt;@HPIndia&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Lenovo_in?ref_src=twsrc%5Etfw&quot;&gt;@Lenovo_in&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ASUSIndia?ref_src=twsrc%5Etfw&quot;&gt;@ASUSIndia&lt;/a&gt;.&lt;br&gt;&lt;br&gt;We guess it&amp;#39;s time to say, Hello! &lt;a href=&quot;https://t.co/5jYcriEeFQ&quot;&gt;pic.twitter.com/5jYcriEeFQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mi India (@XiaomiIndia) &lt;a href=&quot;https://twitter.com/XiaomiIndia/status/1265894492386680833?ref_src=twsrc%5Etfw&quot;&gt;May 28, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Loading...&lt;br&gt;Loading...&lt;br&gt;Loading...&lt;br&gt;Loading...&lt;br&gt;Loading...&lt;br&gt;&lt;br&gt;Not anymore! Because 𝐈𝐓&amp;#39;𝐒 𝐓𝐈𝐌𝐄 !! &lt;br&gt;&lt;br&gt;RT with &lt;a href=&quot;https://twitter.com/hashtag/WhatsNextFromMi?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#WhatsNextFromMi&lt;/a&gt; if you know what&amp;#39;s coming? 😎 🔁 &lt;a href=&quot;https://twitter.com/hashtag/Xiaomi?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Xiaomi&lt;/a&gt; ❤️️ &lt;a href=&quot;https://t.co/RR1dEIuLGu&quot;&gt;pic.twitter.com/RR1dEIuLGu&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sumit Sonal (@sumitsonal) &lt;a href=&quot;https://twitter.com/sumitsonal/status/1265581081446604806?ref_src=twsrc%5Etfw&quot;&gt;May 27, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+Those tweets say that the Mi laptops are coming in India but none of them hint on what model is coming to India will it be the Mi notebook air or the Mi Notebook Pro only time has the answer.</content><author><name>mohit</name></author><category term="Xiaomi" /><category term="Redmi" /><category term="Laptop" /><summary type="html">In China, Xiaomi has disrupted the laptop market in 2016 with the introduction of the Mi Notebook, It was such a good value for money product, most reviewers ended calling it a steal. Ever since then Xioami has expanded their laptop lineup and recently even unveiled its Redmi lineup of laptops in China and Indian Mi Fans and even tech enthusiasts like us have been asking Xiaomi to bring them to India. Finally, Xiaomi heard our voice and started teasing the arrival of the Mi Laptop range to India.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mi/mi-laptops-finally-launching-in-india.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/mi/mi-laptops-finally-launching-in-india.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999</title><link href="http://localhost:4000/realmetv-specs-and-price/" rel="alternate" type="text/html" title="REALME Launched 32, 43 inch smart TV in India starting at Rs 12,999" /><published>2020-05-27T00:00:00+05:30</published><updated>2020-05-27T00:00:00+05:30</updated><id>http://localhost:4000/realmetv-specs-and-price</id><content type="html" xml:base="http://localhost:4000/realmetv-specs-and-price/">Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv. This smart tv comes in two sizes the 32 and the 43-inch. The main differentiator apart from size is that the 32 inch comes with an HD screen whereas the 43-inch comes with a full HD, while the rest of the specifications remain the same.
 
 
 #### Display:
@@ -32,7 +127,22 @@ The remote looks similar to another smart remote from XIAOMI and ONE PLUS. It co
 ![RealmeTV Smart Remote]({{ site.baseurl}}/assets/images/realme/realmetv-remote.jpg)
 
 #### Price and Availability:
-The 32-inch Realme Smart TV is priced at Rs. 12,999 whereas the 43-inch variant is priced at Rs. 21,999 for the larger screen and higher resolution. These smart TVs will go on sale starting from 2nd June on Flipkart and Realme’s website.</content><author><name>mohit</name></author><category term="Realme" /><category term="SmartTV" /><category term="AndroidTv" /><summary type="html">Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv. This smart tv comes in two sizes the 32 and the 43-inch. The main differentiator apart from size is that the 32 inch comes with an HD screen whereas the 43-inch comes with a full HD, while the rest of the specifications remain the same.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/realme/realmetv-main.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/realme/realmetv-main.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GitHub CLI - Enhance your command line experience</title><link href="http://localhost:4000/github-cli-beta/" rel="alternate" type="text/html" title="GitHub CLI - Enhance your command line experience" /><published>2020-05-26T00:00:00+05:30</published><updated>2020-05-26T00:00:00+05:30</updated><id>http://localhost:4000/github-cli-beta</id><content type="html" xml:base="http://localhost:4000/github-cli-beta/">Here is an easier and more seamless way to work with GitHub from the command line — [GitHub CLI](https://cli.github.com/), currently it is in **beta**. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
+The 32-inch Realme Smart TV is priced at Rs. 12,999 whereas the 43-inch variant is priced at Rs. 21,999 for the larger screen and higher resolution. These smart TVs will go on sale starting from 2nd June on Flipkart and Realme’s website.</content><author><name>mohit</name></author><category term="Realme" /><category term="SmartTV" /><category term="AndroidTv" /><summary type="html">Realme, famously known for its smartphones, has started expanding its portfolio, and this time its the new Realme Smart Tv. This smart tv comes in two sizes the 32 and the 43-inch. The main differentiator apart from size is that the 32 inch comes with an HD screen whereas the 43-inch comes with a full HD, while the rest of the specifications remain the same.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/realme/realmetv-main.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/realme/realmetv-main.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Get Exclusive Benefits on Student Program | Samsung India</title><link href="http://localhost:4000/samsung-student-program-offers-and-discounts/" rel="alternate" type="text/html" title="Get Exclusive Benefits on Student Program | Samsung India" /><published>2020-05-27T00:00:00+05:30</published><updated>2020-05-27T00:00:00+05:30</updated><id>http://localhost:4000/samsung-student-program-offers-and-discounts</id><content type="html" xml:base="http://localhost:4000/samsung-student-program-offers-and-discounts/">Now, Samsung India is offering a **Samsung Student Program** where in a student get exclusive benefits to their samsung products, using their student mailID(education mailID given by an institution) like  
+Special price, Easy exchange, Free damage insurance etc..
+
+We have browsed some of the offers with our student mailID, we have noticed some great deals with the Samsung Galaxy **A** Series and even this program also gives discounts on TV's, Refrigerators, Galaxy S, Note series and other appliances. But, we don't know why the budget **M series** smartphones are not included in this program.
+
+You can browse through this link: [https://www.samsung.com/in/store/campus/](https://www.samsung.com/in/store/campus/)
+But you should login with your educational mail for browsing these offers.
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;45%&quot; style=&quot;border:0.5px solid black&quot; alt=&quot;Samsung Student Program&quot; src=&quot;{{site.baseurl}}/assets/images/samsung/samsung-student-program.jpg&quot;&gt;
+&lt;/p&gt;
+*This is the mail we got from samsung
+
++ After comparing the prices with the e-commerce websites like Amazon and Flipkart, the prices are Rs 1000/- lower for smartphones.
+
+We can go with these are offers, but at the time of lightning deals are these offers worth it, we need to know.</content><author><name>puneeth</name></author><category term="Student" /><category term="Offers" /><summary type="html">Now, Samsung India is offering a Samsung Student Program where in a student get exclusive benefits to their samsung products, using their student mailID(education mailID given by an institution) like Special price, Easy exchange, Free damage insurance etc..</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/samsung/samsung-student-program-feature.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/samsung/samsung-student-program-feature.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">GitHub CLI - Enhance your command line experience</title><link href="http://localhost:4000/github-cli-beta/" rel="alternate" type="text/html" title="GitHub CLI - Enhance your command line experience" /><published>2020-05-26T00:00:00+05:30</published><updated>2020-05-26T00:00:00+05:30</updated><id>http://localhost:4000/github-cli-beta</id><content type="html" xml:base="http://localhost:4000/github-cli-beta/">Here is an easier and more seamless way to work with GitHub from the command line — [GitHub CLI](https://cli.github.com/), currently it is in **beta**. Millions of developers rely on GitHub for software development to make it more fun and collaborative.
 The tool `gh` brings the [GitHub](https://github.com/) experience right to your terminal.
 
 
@@ -346,177 +456,4 @@ This 17-inch laptop also comes new 10th gen intel processors, which can be equip
 
 ![]({{site.baseurl}}/assets/images/dell/dell-xps-15-17-speakers.jpeg)
 
-The new Dell XPS 17 will be available soon starting at **$1,499.99**.</content><author><name>mohit</name></author><category term="dell" /><category term="computers" /><category term="versions" /><category term="comparsions" /><summary type="html">Dell launches new XPS 17 and redesigned XPS 15</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Google’s FooBar - The Secret Hiring Challenge</title><link href="http://localhost:4000/google-foobar-challenge-invitation/" rel="alternate" type="text/html" title="Google's FooBar - The Secret Hiring Challenge" /><published>2020-05-18T00:00:00+05:30</published><updated>2020-05-18T00:00:00+05:30</updated><id>http://localhost:4000/google-foobar-challenge-invitation</id><content type="html" xml:base="http://localhost:4000/google-foobar-challenge-invitation/">Did you got Google’s Foobar Invitation. First of all, **congratulations**, you should know that, this is not an ordinary invitation,, As  Google sends this hiring invitation to only some special developers.
-
-&gt; If you haven't got this invitation this blog will help you to understand who are eligible and to be prepared for the next hiring challenge.
-
-**FooBar** is weird term used by Google for it's secret hiring challenge.
-
-##### What is FooBar?
-[Google Foobar](https://foobar.withgoogle.com/) is Google’s secret hiring challenge. Google uses this to hire some of the best developers around the globe which they think can be a good match for their organization. Many developers in Google have been hired through this hiring challenge.
-
-##### How can I get the invitation:
-Getting the invitation for [Google Foobar](https://foobar.withgoogle.com/) is also a mysterious thing, no one exactly knows the criteria for the Google Foobar invitation eligibility. 
-As per the known information
-
-Google send the invitation on the basis of your **search history** and **your problem solving related keyword searches**, like if you are a developer, it is obvious that you search a lot of problems related to programming on Google or Stack Overflow. And based on Google search algorithms, they show you an invitation for [Google Foobar](https://foobar.withgoogle.com/).
-
-This is how the invitation looks like - 
-
-&gt; “You’re speaking our language. Up for a challenge?”
-
-![foobar-invitation]({{ site.baseurl}}/assets/images/google/foobar-invitation.jpg)
-
-##### How can I take this challenge without an invitation?
-
-We appreciate your interest towards this but, the sad thing is without an invitation from Google, you can't enter into this hiring challenge
-
-As we already said that Google Foobar is an invitation based hiring challenge. That means, you can only take the challenge if you have got the invitation from Google for Foobar.
-
-![foobar-without-invitation]({{ site.baseurl}}/assets/images/google/foobar-without-invitation.jpg)
-
-##### What happens after getting an invitation?
-
-When you get the invitation, and you accepted that, you will be redirected to [Google's Foobar](https://foobar.withgoogle.com/) website which looks like a linux command-line interface. 
-![foobar-interface]({{ site.baseurl}}/assets/images/google/foobar-home.jpg)
-
-After you request for the challenge using the command `request`, you will get some files in your Foobar command-line folder which contains some competitive programming question waiting for you.You can submit your answers either in **Java** or **Python**.
-You will get two files to write the solution to your problem statement `solution.java` and `solution.py`. You can write your solution in your preferred language out of these two.
-
-
-You can `save` and `run` the files and once you're confident you can `submit` and  `verify` the results.
-
-![foobar-coding]({{ site.baseurl}}/assets/images/google/foobar-coding.jpg) 
-
-In a similar way you'll have **five** levels to complete.
-
-
-![foobar-levels]({{ site.baseurl}}/assets/images/google/foobar-levels.jpg)
-
-After you complete all the 5 levels, you get a form to fill your name and your contact details to contact you.
-
-Once you clear your interview you'll be offered a Software Developer role at Google depending on your interests, Skills and performance in interviews.
-
-&gt; All the  best for your Google's FooBar challenge
-
-
-Note: All the images that helped you to understand better are taken from different sources like  - Google, Medium, Quora. Our  Thanks to all of the above sites.
-
-Share your experience with Google's Foobar and your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="developerstuff" /><category term="jobs" /><category term="students" /><category term="internship" /><summary type="html">Did you got Google’s Foobar Invitation. First of all, congratulations, you should know that, this is not an ordinary invitation,, As Google sends this hiring invitation to only some special developers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/google/google-foobar.png" /><media:content medium="image" url="http://localhost:4000/assets/images/google/google-foobar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What is Microsoft Student Partner?</title><link href="http://localhost:4000/what-is-microsoft-student-partner/" rel="alternate" type="text/html" title="What is Microsoft Student Partner?" /><published>2020-05-17T00:00:00+05:30</published><updated>2020-05-17T00:00:00+05:30</updated><id>http://localhost:4000/what-is-microsoft-student-partner</id><content type="html" xml:base="http://localhost:4000/what-is-microsoft-student-partner/">There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as &lt;a href=&quot;https://studentambassadors.microsoft.com/en-us&quot; target=&quot;_blank&quot;&gt;Microsoft Learn Student Ambassador program&lt;/a&gt;, formaly Microsoft Student Partner Program.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/student-partner-intro.jpg&quot; alt=&quot;Student Learn Ambassador&quot; title=&quot;Student Learn Ambassador&quot;&gt;
-
-### What is Microsoft Learn Student Ambassador
-
-The Microsoft Learn Student Ambassadors program is a global group of on-campus ambassadors who are eager to help students and their communities, lead in their local tech circles, and develop technical and career skills for the future. As a Student Ambassador, you might find yourself organizing a campus or community hackathon, mentoring other students.
-
-Microsoft quoted the program as.....
-
-&gt; Looking for student leaders with a passion for making a difference, building vibrant communities, and sharing the latest tech with their peers.
-
-### When did it all started?
-
-The MSP Program was initiated back in **2001**, and operated in **15 countries** for five years. In late **2006**, the program was expanded to **50 countries** worldwide, and as of July 2010, there are more than **2800 members** worldwide across 101 countries and regions.
-
-### Transformation from Student Partner to Learn Student Ambassador
-
-On July 1, the current Microsoft Student Partner program will evolve to become the Microsoft Learn Student Ambassadors program. All active members of the program will be invited to become Student Ambassadors and the first cohort will be announced in early July.
-
-### Eligibility
-
-To apply, you must be at least 16 years old, have valid identification and be actively enrolled in an accredited, higher education academic institution.
-
-Students from all academic backgrounds who want to grow their career and tech skills while making a difference in their communities to apply. Some experience in coding or technology is helpful, but we have tools and resources to help you learn in the program.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/student-partner-works.jpg&quot; alt=&quot;Student Learn Ambassador&quot; title=&quot;Student Learn Ambassador&quot;&gt;
-
-### Benefits
-
-As it turns out, earning these benefits involves doing some pretty fun things. We have four milestones for our Student Ambassadors:
-
-- Alpha 1 - Jump on board and get active in the Teams community.
-- Alpha 2 - Complete a Microsoft Learn path and unlock Azure credits with Visual Studio Enterprise subscription benefits.
-- Beta - Host an event in your community to unlock event support and resource benefits. This effort could include an invitation to join our annual Microsoft Learn Student Ambassadors Summit.
-- Gold - Get invited to the Gold milestone when you’ve gone above and beyond in earning your badges and serving your local community. You’ll become a Student Ambassadors Regional Leader, gain access to special events, and may be invited to become a Microsoft Most Valuable Professional (MVP).
-
-### Resources that can be accessed by Student Ambassadors
-
-These benefits include but aren’t limited to:
-
-- Access to Office 365, plus Snagit and Camtasia screen capture and recording software.
-- Visual Studio Enterprise subscription and \$150 monthly Azure credits.
-- Event support.
-- Engagement with Cloud Advocates and Microsoft MVPs.
-- Student Ambassador Milestone badges to highlight program accomplishments on your LinkedIn profile.
-
-### Application Process:
-
-**Step 1:**To apply to the Microsoft Learn Student Ambassador program go to &lt;a href=&quot;https://studentambassadors.microsoft.com/en-us/Form&quot; target=&quot;_blank&quot;&gt;https://studentambassadors.microsoft.com/en-us/Form&lt;/a&gt;.
-
-**Step-2:**Read tha Application Notification to know when does your application gets reviewed.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/msp-apply-1.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot;&gt;
-
-**Step-3:**Then fill out all your Personal Info like first name, last name, contact email, gender, and phone number, and then verify the phone number through an OTP.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/msp-apply-2.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot;&gt;
-
-**Step-:4**In this step fill all our College Details.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/msp-apply-3.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot;&gt;
-
-**Step-5:**In this step, there are a few questions that test your view on technology and leadership.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/msp-apply-4.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot;&gt;
-
-**Step-7:**Here you have to fill all your URLs of profiles and other info.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/msp-apply-5.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot;&gt;
-
-**Step-8:**In the last step, check all your Technical Skills.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/microsoft/msp-apply-6.jpg&quot; alt=&quot;Student Learn Ambassador Application&quot; title=&quot;Student Learn Ambassador Application&quot;&gt;
-
-And, then submit your application for the Microsoft Learn Student Ambassador program. Hope this post will help you find your path to successful Microsoft Student Ambassader Program and wish you a very good luck.</content><author><name>nikhil</name></author><category term="microsoft" /><category term="student partner" /><category term="ambassador" /><summary type="html">There are many organizations that run student ambassador programs for students going through colleges and universities. One among those, but the most reputed program is offered by Microsoft named as Microsoft Learn Student Ambassador program, formaly Microsoft Student Partner Program.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/microsoft/msp-featured-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cool websites to visit, when you get bored!</title><link href="http://localhost:4000/websites-to-visit-when-bored/" rel="alternate" type="text/html" title="Cool websites to visit, when you get bored!" /><published>2020-05-16T00:00:00+05:30</published><updated>2020-05-16T00:00:00+05:30</updated><id>http://localhost:4000/websites-to-visit-when-bored</id><content type="html" xml:base="http://localhost:4000/websites-to-visit-when-bored/">Have you ever felt bored? Ofcourse YES... I know. Here are the cool websites to visit when you feel bored on internet.  
-#### 1. FREESOUND  
-FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to &lt;a href=&quot;https://freesound.org/&quot; target=&quot;_blank&quot;&gt;freesound.org&lt;/a&gt;. You can find anything for a Bleep sound to a audio of someone flushing a toilet.
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/freesound.jpg&quot; alt=&quot;FreeSound&quot; title=&quot;FreeSound&quot;&gt;
-
-#### 2. NAPFLIX  
-Unlike Netflix, which keep you awake at nights. &lt;a href=&quot;http://napflix.tv/&quot; target=&quot;_blank&quot;&gt;Napflix&lt;/a&gt; will help you fall asleep. It shows you hours of boring videos, which will calm you down And probably help you to sleep faster.  
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/napflix.jpg&quot; alt=&quot;NapFlix&quot; title=&quot;NapFlix&quot;&gt;
-
-#### 3. webkay - What every Browser knows about you  
-This website tells you what your browser know about you, and all the website can access these data without asking your permission. Like your approx Location, your OS and the browser, what computer are you using, what social media are you logged in and a lot of other private stuff.  
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/webkay.jpg&quot; alt=&quot;webkay&quot; title=&quot;webkay&quot;&gt;
-
-But what I really want to point out here is that The online sites also track your battery percentage not just in desktop, but also on mobile. So, imagine, you want to book an uber with less than 5% battery juice. Well, then then technically, it’s possible for the company to increase price just for you. Not saying this would happen, but technically it’s possible.  
-
-Visit webkay &lt;a href=&quot;http://webkay.robinlinus.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
-
-#### 4. Super Log Out  
-Well, talking about the browser, try out super log. It’s a simple app that automatically log you out of all the sign in account on your browser with just one click.  
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/superlogout.gif&quot; alt=&quot;Super Log Out&quot; title=&quot;Super Log Out&quot;&gt;
-
-When you are using a public or friends computer though, don’t click on the link Unless you really want to use this service.  
-
-Visit Super Log Out &lt;a href=&quot;http://superlogout.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. &lt;span style=&quot;color:red; background-color:#D3D3D3;font-weight:bold;&quot;&gt;Caution: Dont Visit, unless you require it!!!&lt;/span&gt;  
-#### 5. Button Bass  
-This website plays a EDM loop when you tap a cube and if you are good with this, you can make your own music.  
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/buttonbass.jpg&quot; alt=&quot;Button Bass&quot; title=&quot;Button Bass&quot;&gt;
-
-And that’s not all, There are several other genre like dubstep, electronic and yes, there are android apps for that as well. Though, there is no option to record the audio. So, you’ll have to use sound sought of workaround.   
-
-Visit Button Bass &lt;a href=&quot;http://buttonbass.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;    
-
-
-#### 6. Radio Garden  
-Now, let me tell you a secret, back then in 1980, we used to have a big radio in our house. It’s quite wonderful, how quickly technology change. So, anyways, Radio garden is music website that let you listen to 8000 live radio station from all around the world. It’s a great way to discover new songs from different language.  
-Visit Radio Garden &lt;a href=&quot;http://radio.garden/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
-
-&lt;img src=&quot;{{ site.baseurl }}/assets/images/internet/radiogarden.jpg&quot; alt=&quot;Radio Garden&quot; title=&quot;Radio Garden&quot;&gt;</content><author><name>nikhil</name></author><category term="internet" /><category term="bored tech" /><summary type="html">Have you ever felt bored? Ofcourse YES… I know. Here are the cool websites to visit when you feel bored on internet. 1. FREESOUND FreeSound is the largest database of sound tracks that are available for free and when I say largest, I mean it.. So, There are tons of paid sites, that sell sound tracks. But if you ever need one, then go to freesound.org. You can find anything for a Bleep sound to a audio of someone flushing a toilet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/internet/bored-internet.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+The new Dell XPS 17 will be available soon starting at **$1,499.99**.</content><author><name>mohit</name></author><category term="dell" /><category term="computers" /><category term="versions" /><category term="comparsions" /><summary type="html">Dell launches new XPS 17 and redesigned XPS 15</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

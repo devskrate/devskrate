@@ -462,7 +462,7 @@ color:rgba(0,0,0,0.9);
       color: #222222;
   }
   article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
-    margin-bottom:2rem;
+    margin-bottom:1rem;
   }
   article blockquote {
     padding-left:40px;
@@ -487,8 +487,13 @@ color:rgba(0,0,0,0.9);
     margin:0 .2em 0 0;
     vertical-align:top;
   }
-  article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
+  article h1,article h2 {
     margin-bottom:2rem;
+    margin-top:2rem;
+    font-weight:600;
+  }
+  article h3,article h4,article h5,article h6,article .h3,article .h4,article .h5,article .h6 {
+    margin-bottom:1rem;
     margin-top:2rem;
     font-weight:600;
   }
@@ -855,7 +860,23 @@ color:rgba(0,0,0,0.9);
     font-weight: 300;
     line-height: 1.2;
   }
-  
+  @media only screen and (max-width: 600px) {
+    .article-headline {
+      font-size: 1.8rem;
+      font-weight: 550;
+      line-height: 1.2;
+    }
+    .author-hide {
+      display: none !important;
+    }
+  }
+  @media only screen and (min-width: 700px) and (max-width: 1000px) {
+    .article-headline {
+      font-size: 2.5rem;
+      font-weight: 550;
+      line-height: 1.2;
+    }
+  }
   hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -2161,7 +2182,7 @@ pre, code, kbd, samp {
     vertical-align: top;
     border-top: 1px solid #dee2e6;
   }
-  
+
   .table thead th {
     vertical-align: bottom;
     border-bottom: 2px solid #dee2e6;
@@ -2177,12 +2198,15 @@ pre, code, kbd, samp {
   }
   
   .table-bordered {
-    border: 1px solid #dee2e6;
+    /*border: 1px solid #dee2e6;*/
+    border: 1px solid black !important;
+
   }
   
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #dee2e6;
+    /*border: 1px solid #dee2e6;*/
+    border: 1px solid black !important;
   }
   
   .table-bordered thead th,
@@ -10794,6 +10818,8 @@ pre, code, kbd, samp {
   z-index: 1050;
  }
 
-.darkmode--activated .table {
+.darkmode--activated .table, .darkmode--activated .table-bordered th,
+.darkmode--activated .table-bordered td {
   color: whitesmoke;
+  border: 1px solid whitesmoke !important;
 }
