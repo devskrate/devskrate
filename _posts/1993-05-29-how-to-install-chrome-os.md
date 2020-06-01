@@ -111,7 +111,7 @@ Then your pc will be booted with Chrome OS and follow the instructions on the sc
 
 For more detailed procedure of installation, go through the video by [Kedar Nimbalkar](https://www.youtube.com/channel/UCjQ-YHwNTbUQLVzZQFjsDsQ)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4gZYV0RWJQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="235" src="https://www.youtube.com/embed/4gZYV0RWJQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 By the by subscribe to Kedar Nimbalkar for cool videos on operting systems like triple booting a system.  
 Content and Image credits: [Kedar Nimbalkar](https://www.youtube.com/channel/UCjQ-YHwNTbUQLVzZQFjsDsQ)
