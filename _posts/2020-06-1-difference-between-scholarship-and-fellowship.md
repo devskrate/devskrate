@@ -9,7 +9,7 @@ tags: [internship, student partners, universities]
 
 Both `scholarship` and `fellowship` in general assume a **financial aid** for students and researchers, or any individual with an interest to search, find and research something new. `Scholarships` and `fellowships` are instituted by a University, a research center, academic institution, laboratory, government or a foundation.
 
-##### Main difference between Scholarship and Fellowship
+### Main difference between Scholarship and Fellowship
 
 The most important difference between `scholarship` and `fellowship` is that the term `scholarship` always means that there is a **financial aid** available. So there is no `scholarship` without **financial aid**. If there is `scholarship`, then a **financial aid** is included as a **tuition fee**, as a **per diem**, as a **living allowance** or in any other shape, but there is always money included. In case of **fellowship**, though in most cases a **financial aid** will be provided, but the term does not necessarily suppose a **financial aid**.
 
@@ -19,7 +19,7 @@ But the `fellowship` first of all is the status, only then a **financial aid**. 
 
 `Fellowship` may be granted as a status within an academic institution and that’s it, nothing more, no salary (sometimes with salary), no financial aid, just status. With that status the person may be accepted as a fellow of certain college or department and have access to some of library and research facilities.
 
-##### Other differences between scholarships and fellowships
+### Other differences between scholarships and fellowships
 
 `Scholarships` are available from the very early stage of academic career. Even before University career and undergraduate studies one may apply for a `scholarship` in the school, but no fellowships are available for that stage.
 
