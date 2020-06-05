@@ -15,22 +15,22 @@ So, how to transfer your photos and videos? Here's the way:
 
 **1.** Firstly, log into your Facebook account and click on the **down arrow** at the top end of the menu bar.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-down.jpg" alt="Linux Mint" title="Linux Mint">
+<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-down.jpg" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Toolt">
 
 **2.** Then select **Settings & privacy > Settings**.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-settings.jpg" alt="Linux Mint" title="Linux Mint">
+<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-settings.jpg" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool">
 
 **3.** Now, go to **Your Facebook information** section and select **Transfer a copy of your photos or videos**.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-info.jpg" alt="Linux Mint" title="Linux Mint">
+<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-info.jpg" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool">
 
 **4.** Here, enter your Facebook password, if prompted and choose the transfer destination as **Google Photos**.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-password.jpg" alt="Linux Mint" title="Linux Mint">
+<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-password.jpg" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool">
 
 **5.** You can select either Photos or Videos and click **Next**, which takes you to authenticate Facebook to transfer your media to Google Photos.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-select.jpg" alt="Linux Mint" title="Linux Mint">
+<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-select.jpg" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool">
 
 As of now, this tool can only transfer media to Google, but later expected to have multiple platforms as a part of the [Open Source Data Transfer Project](https://datatransferproject.dev/) formed by the alliance of Google, Facebook, Apple, Microsoft and Twitter back in 2018.
