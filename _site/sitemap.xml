@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/email-details-breached/</loc>
-<lastmod>1993-05-14T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/how-to-install-chrome-os/</loc>
 <lastmod>1993-05-29T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/difference-between-scholarship-and-fellowship/</loc>
-<lastmod>1998-05-24T00:00:00+05:30</lastmod>
+<loc>http://localhost:4000/how-to-transfer-media-from-facebook-google-photos/</loc>
+<lastmod>1993-06-05T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/creating-browser-extensions/</loc>
@@ -231,6 +227,14 @@
 <url>
 <loc>http://localhost:4000/how-to-install-flutter-in-linux/</loc>
 <lastmod>2020-05-31T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/difference-between-scholarship-and-fellowship/</loc>
+<lastmod>2020-06-01T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-to-check-breached-email-details/</loc>
+<lastmod>2020-06-07T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>

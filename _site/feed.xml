@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-31T23:03:07+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">How to install Flutter in linux and Fix general problems</title><link href="http://localhost:4000/how-to-install-flutter-in-linux/" rel="alternate" type="text/html" title="How to install Flutter in linux and Fix general problems" /><published>2020-05-31T00:00:00+05:30</published><updated>2020-05-31T00:00:00+05:30</updated><id>http://localhost:4000/how-to-install-flutter-in-linux</id><content type="html" xml:base="http://localhost:4000/how-to-install-flutter-in-linux/">## Get the Flutter SDK
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-08T15:25:04+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevsKrate</title><subtitle>Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.</subtitle><entry><title type="html">How to check if your email associated accounts are breached</title><link href="http://localhost:4000/how-to-check-breached-email-details/" rel="alternate" type="text/html" title="How to check if your email associated accounts are breached" /><published>2020-06-07T00:00:00+05:30</published><updated>2020-06-07T00:00:00+05:30</updated><id>http://localhost:4000/how-to-check-breached-email-details</id><content type="html" xml:base="http://localhost:4000/how-to-check-breached-email-details/">Have you ever imagined how many details get leaked online everyday and gets sold on the dark web. Did you know that, your details also might have been grabbed into the wrong hands.
+
+All we know are a very few breaches that are from the tech gaints like Google, Facebook, Adobe and a few more.  
+
+### Some of the security breached we know are:  
++ Facebook–Cambridge Analytica data scandal.  
++ Google Plus data breach exposing 52.5 million users.  
++ Adobe Breach Impacted 38 Million Users.  
+
+But there are so many breaches occuring here and there everyday.
+
+## How to find if your email is exposed or not:
+
+To find this, we have three three sources that can be trusted.
+
+**1. Google Password Manager**    
+**2. Firefox Monitor**  
+**3. Have I Been Pwned?**  
+
+### Google Password Manager  
+
+Google only checks the passwords saved in your Google account. For instance, if you have used Google Chrome to save the password for the Netflix website. Google can only check for a password breach only on the Netflix website.
+
+To use this feature, **Open Google Chrome or any other browser**. Then **open &lt;a href=&quot;https://passwords.google.com/&quot; target=&quot;_blank&quot;&gt;Password Manager&lt;/a&gt;**.  This page also lists all the saved passwords which you can review, change, and edit. **Click on Check Passwords option** at the top.  
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/security/google-password-check-click.jpg&quot; alt=&quot;Google Password Manager&quot; title=&quot;Google Password Manager&quot; /&gt;
+
+Click on Check Passwords again. This will show you password analysis, along with three options.
+
+* Whether any of your passwords have been compromised.  
+* List of reused passwords that are the same across multiple accounts and hence have the risk of being exposed. Here’s how to create a unique password.  
+* List of weak passwords, which are easy to guess and hence, greater chances of being hacked. So, create a strong password.   
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/security/google-password-check.jpg&quot; alt=&quot;Google Password Manager&quot; title=&quot;Google Password Manager&quot; /&gt;
+
+### Firefox Monitor  
+
+Firefox Monitor is an online service by Mozilla that tells you about data breaches related to your email address. This is accessible from any browser and there’s no need to sign-up. To check if your email address has been exposed, first you need to visit Firefox Monitor’s &lt;a href=&quot;https://monitor.firefox.com/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;. Then **type in the email address** and click on **“Check for Breaches”**.   
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/security/firefox-password-check-click.jpg&quot; alt=&quot;Firefox Monitor&quot; title=&quot;Firefox Monitor&quot; /&gt;
+
+If your Email ID is comparatively new, chances are you’re safe and not been exposed to any data breaches. However, if your email ID is old, you might find a similar result as I have. This means that my ID was exposed to seven data breaches since 2007.  
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/security/firefox-password-check.jpg&quot; alt=&quot;Firefox Monitor&quot; title=&quot;Firefox Monitor&quot; /&gt;
+
+
+### Have I Been Pwned?
+
+Have I Been Pwned is a website developed by Troy Hunt, a Microsoft Regional Director after the largest ever single breach of customer accounts — Adobe. 
+
+The primary purpose of this site is to serve the public. Data breaches are rampant and many people don't appreciate the scale or frequency with which they occur. By aggregating the data here I hope that it not only helps victims learn of compromises of their accounts, but also highlights the severity of the risks of online attacks on today's internet.
+
+To check whether your data is breached, firstly **open Have I Been Pwned &lt;a href=&quot;https://haveibeenpwned.com/&quot; target=&quot;_blank&quot;&gt;site&lt;/a&gt;**. Then **enter your email address**.  
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/security/hibp-password-check-click.jpg&quot; alt=&quot;Have I Been Pwned?&quot; title=&quot;Have I Been Pwned?&quot;&gt;
+
+Then the site will display how many and what are all the breaches your email address have been part of 
+
+&lt;img src=&quot;{{ site.baseurl }}/assets/images/security/hibp-password-check.jpg&quot; alt=&quot;Have I Been Pwned?&quot; title=&quot;Have I Been Pwned?&quot;&gt;
+
+## Closing Words  
+Like I said at the start, no data is safe. As all the three services tell you about the breach after the breach is over, your credentials are out in the open. However, you can always take care of a few things, like changing your password frequently, avoid using the same or similar passwords, creating strong passwords, and also, enabling **two-step verification** or using Official **Account Authenticator Apps** wherever supported.</content><author><name>nikhil</name></author><category term="security" /><category term="breaches" /><category term="pwned" /><category term="hacked" /><summary type="html">Have you ever imagined how many details get leaked online everyday and gets sold on the dark web. Did you know that, your details also might have been grabbed into the wrong hands.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/security/email-breached.png" /><media:content medium="image" url="http://localhost:4000/assets/images/security/email-breached.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What is the difference between Scholarship and Fellowship?</title><link href="http://localhost:4000/difference-between-scholarship-and-fellowship/" rel="alternate" type="text/html" title="What is the difference between Scholarship and Fellowship?" /><published>2020-06-01T00:00:00+05:30</published><updated>2020-06-01T00:00:00+05:30</updated><id>http://localhost:4000/difference-between-scholarship-and-fellowship</id><content type="html" xml:base="http://localhost:4000/difference-between-scholarship-and-fellowship/">Both `scholarship` and `fellowship` in general assume a **financial aid** for students and researchers, or any individual with an interest to search, find and research something new. `Scholarships` and `fellowships` are instituted by a University, a research center, academic institution, laboratory, government or a foundation.
+
+### Main difference between Scholarship and Fellowship
+
+The most important difference between `scholarship` and `fellowship` is that the term `scholarship` always means that there is a **financial aid** available. So there is no `scholarship` without **financial aid**. If there is `scholarship`, then a **financial aid** is included as a **tuition fee**, as a **per diem**, as a **living allowance** or in any other shape, but there is always money included. In case of **fellowship**, though in most cases a **financial aid** will be provided, but the term does not necessarily suppose a **financial aid**.
+
+For example, if someone receives a `scholarship` to study at Ohio University or to do a research at NASA that means the person has for sure received money to study or to do a research. When MIT or Harvard announce `scholarships` for undergraduate, graduate or postgraduate students, for researchers or journalists, that always means the University or research institute or the foundation is going to fully or partly cover some of the costs.
+
+But the `fellowship` first of all is the status, only then a **financial aid**. `Fellowship` is a status within the University or research institute and it may or may not include a **financial aid**. Cambridge or Oxford sometimes announce a `fellowship` and only provide a desk with a computer at the library. For that particular position often apply many renowned researchers or public figures, who are ready to pay for all other costs themselves, only to receive the announced `fellowship`.
+
+`Fellowship` may be granted as a status within an academic institution and that’s it, nothing more, no salary (sometimes with salary), no financial aid, just status. With that status the person may be accepted as a fellow of certain college or department and have access to some of library and research facilities.
+
+### Other differences between scholarships and fellowships
+
+`Scholarships` are available from the very early stage of academic career. Even before University career and undergraduate studies one may apply for a `scholarship` in the school, but no fellowships are available for that stage.
+
+The same is true for undergraduate studies. All **financial aid** available for undergraduate students in the University is called `scholarship` and only in rare cases, when related to research activities it may be called `fellowship`.
+
+ 
+
+From graduate level **financial aid**, which is called a `fellowship` may be available for students who are particularly interested in some specific research area.
+
+ 
+
+`Scholarships` are granted to student level and above, and the `fellowships` are mainly for experienced individuals to apply. For example, if you search google for **scholarships for journalists** you will mainly get results about **financial aid** to study in the University at any level, but if you search **fellowships for journalists** you will get first of all results about programs for experienced journalists to conduct some investigations and do some research.
+
+ 
+
+In many instances scholarship and fellowship are used interchangeably, cause some confusion, and sometime mean the same thing or something different. Hopefully this short introduction about the differences of scholarship and fellowship is helpful.
+
+Share your feedback on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="internship" /><category term="student partners" /><category term="universities" /><summary type="html">Both scholarship and fellowship in general assume a financial aid for students and researchers, or any individual with an interest to search, find and research something new. Scholarships and fellowships are instituted by a University, a research center, academic institution, laboratory, government or a foundation.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/students/scholarship-fellowship.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/students/scholarship-fellowship.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How to install Flutter in linux and Fix general problems</title><link href="http://localhost:4000/how-to-install-flutter-in-linux/" rel="alternate" type="text/html" title="How to install Flutter in linux and Fix general problems" /><published>2020-05-31T00:00:00+05:30</published><updated>2020-05-31T00:00:00+05:30</updated><id>http://localhost:4000/how-to-install-flutter-in-linux</id><content type="html" xml:base="http://localhost:4000/how-to-install-flutter-in-linux/">## Get the Flutter SDK
 
 **1.** First clone the SDK from
 &lt;div class=&quot;highlight highlighter-rouge&quot;&gt;
@@ -391,69 +481,4 @@ Gnirehtet provides reverse tethering for your Android phone.
 
 It allows devices to use the internet connection of the computer they are plugged on. It does not require any root access (neither on the device nor on the computer). It works on Linux,Windows and Mac OS.
 
-You can download it from it's [here](https://github.com/Genymobile/gnirehtet).</content><author><name>puneeth</name></author><category term="linux" /><category term="ubuntu" /><category term="os" /><category term="apps" /><summary type="html">In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/linux/5-cool-linux-apps.png" /><media:content medium="image" url="http://localhost:4000/assets/images/linux/5-cool-linux-apps.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Github announced the MLH Fellowship for students</title><link href="http://localhost:4000/github-mlh-fellowship-for-students/" rel="alternate" type="text/html" title="Github announced the MLH Fellowship for students" /><published>2020-05-20T00:00:00+05:30</published><updated>2020-05-20T00:00:00+05:30</updated><id>http://localhost:4000/github-mlh-fellowship-for-students</id><content type="html" xml:base="http://localhost:4000/github-mlh-fellowship-for-students/">These days companies everywhere find themselves quickly changing how they work. With the culture shift that comes along with remote work, it’s fair to say that collaboration is already starting to be different.
-
-[GitHub Education](https://education.github.com/), always helps the next generation of developers to make their best in work. Now, more than ever, students need opportunities to sustain their growth. Github together with their partners **Major League Hacking (MLH)**, solving this problem with a new program—the **MLH Fellowship**, Powered by **GitHub**. This remote program matches up *pods* of 8-10 students with **open-source projects and mentors** over a period of 12 weeks. Students will receive a stipend for the program through **GitHub Sponsors**.
-
-![github-quote](https://i0.wp.com/user-images.githubusercontent.com/1874003/80812907-e87bbc80-8b96-11ea-914b-8a35398996a4.jpg?ssl=1)
-
-Not just GitHub, many other tech companies will come together and fuel this ecosystem. To kick off the program, GitHub Education plans to support **100 MLH Fellows** in the inaugural class of summer 2020. These are the other partners who're joining this coalition Facebook, DEV, and the Royal Bank of Canada.
-
-This is how GitHub describes about MLH Fellowship
-
-##### GitHub's vision: Workforce innovation to meet student demand
-
-Enterprises want to stay competitive with recent graduates, and internship programs often provide that edge. Internships also serve as a credential: For future hiring managers, an internship with a top tech company is a good indication of a quality candidate.
-
-But for students, many, many more of them apply for those coveted roles than there are positions to fill. For most students, a summer in Silicon Valley is often out of the question for those aspiring developers, maintainers, and engineering managers. In partnering with MLH, we’re looking to welcome a new global workforce that is trained in real-world workflows and collaboration
-
-CEO of MLH, Mike Swift, points to the program’s design around remote work and public projects:
-
-&gt; Enabling students to spend their summer contributing to the software that runs the world is a unique     opportunity for them. They’ll work on meaningful projects with their peers under the guidance of some of the world’s most talented engineers. The remote nature of this program will democratize access to internships for countless students worldwide.
-
-###### The opportunity: Shape the future of work
-In this moment, companies have the opportunity to affect how we learn, collaborate, and share for decades to come. We hope to see the results of these particular efforts in as little as 12 months when this year’s group of interns graduate.
-
-&gt; Let’s keep education moving forward. Students, we got you. - GitHub
-
-
-#### Read to level-up your learning?
-
-Apply to GitHub MLH Fellowship and join them  from [here](http://fellowship.mlh.io/)
-
-Share your experience with GitHub Fellowship and your feedback about our article on [twitter](https://twitter.com/devskrate), [Instagram](https://instagram.com/devskrate), or mail us at [support@devskrate.com](mailto:support@devskrate.com). Use [#DevsKrate](https://devskrate.com) on any social media platforms we will reach out to you.</content><author><name>satya</name></author><category term="fellowship" /><category term="internship" /><category term="mlh-fellowship" /><category term="github-education" /><summary type="html">These days companies everywhere find themselves quickly changing how they work. With the culture shift that comes along with remote work, it’s fair to say that collaboration is already starting to be different.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/mlogs/github/github-mlh.png" /><media:content medium="image" url="http://localhost:4000/assets/images/mlogs/github/github-mlh.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dell launches new XPS 17 and redesigned XPS 15</title><link href="http://localhost:4000/compare-dell-xps-15-and-xps-17/" rel="alternate" type="text/html" title="Dell launches new XPS 17 and redesigned XPS 15" /><published>2020-05-19T00:00:00+05:30</published><updated>2020-05-19T00:00:00+05:30</updated><id>http://localhost:4000/compare-dell-xps-15-and-xps-17</id><content type="html" xml:base="http://localhost:4000/compare-dell-xps-15-and-xps-17/">Dell launches new XPS 17 and redesigned XPS 15
-
-The company has made big changes to its XPS lineup, with the much-rumored redesign of the XPS 15 and a new XPS 17.
-What do these laptops bring to the market let's find in this article?
-
-![]({{site.baseurl}}/assets/images/dell/dell-xps-15-17.jpeg)
-
-Lets first talk about the XPS 15, The new XPS 15 design has seen a significant redesign after nearly 5 years and it now comes with a bigger 16:10 aspect ratio and trimmed down bezels, similar to that of Dell XPS 13.
-You can either pick a 4k or a regular FHD (1920 x 1200) display with a small webcam on top for Windows 10 Hello Facial Recognition. It also offers a fingerprint for authentication.
-
-![]({{site.baseurl}}/assets/images/dell/dell-xps-15-17-display.jpeg)
-
-+ Powering this is the new 10th gen mobile processors from Intel which can be equipped up to a Core i9 and it also comes with an option for dedicated graphics namely the  Nvidia’s GeForce GTX 1650 Ti Max-Q for graphically intense task.
-
-+ This laptop ditches ports like USB-A and HDMI in favor of USB-C and this laptop comes with two USB-C with Thunderbolt 3 support and a regular USB-C 3.1 port, and full-size SD card reader. This laptop is quite thinner at 18mm high.
-
-![]({{site.baseurl}}/assets/images/dell/dell-xps-15-17-ports.jpg)
-
-+ Talking about battery, Dell is promising “The longest battery life of any 15-inch laptop”, with up to 25 hours on the FHD display model and It also comes with Quad speaker setup(2 front facing and 2 at rear) for immersive sound experience. 
-
-This laptop starts at **$1,299.99**.
-
-Alongside the XPS 15, Dell reintroduced it's slightly bigger XPS 17. It’s been nearly 10 years since we have seen an XPS 17 and as the name implies it's a larger 17-inch laptop and dell claims that “The XPS 17 is the smallest 17-inch laptop on the planet”. 
-Similar to the XPS 15 this laptop also comes with a 16:10 aspect ratio and a much smaller bezel.
-
-![]({{site.baseurl}}/assets/images/dell/dell-xps-15-17-17.jpeg)
-
-This 17-inch laptop also comes new 10th gen intel processors, which can be equipped up to the new core i9 and at the GPU side of things, this can be equipped with either Nvidia’s GTX 1650 Ti Max-Q or the more powerful RTX 2060. With this CPU and GPU combination Dell claims this laptop to be the &quot;Most powerful XPS laptop ever&quot;.
-
-+ Talking about the ports, this comes with four USB-C Thunderbolt 3 ports and a full-size SD card reader and the fact that it does not have any USB-A port is a bummer. 
-+ Dell has added a new thermal design to the XPS 17 with a custom vapor chamber, to improve airflow and sustain high performance for longer periods of time.
-+ It also comes with Quad speaker setup(2 front facing and 2 at rear) for immersive sound experience.
-
-![]({{site.baseurl}}/assets/images/dell/dell-xps-15-17-speakers.jpeg)
-
-The new Dell XPS 17 will be available soon starting at **$1,499.99**.</content><author><name>mohit</name></author><category term="dell" /><category term="computers" /><category term="versions" /><category term="comparsions" /><summary type="html">Dell launches new XPS 17 and redesigned XPS 15</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/dell/dell-xps-15-17-2020-feature-image.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+You can download it from it's [here](https://github.com/Genymobile/gnirehtet).</content><author><name>puneeth</name></author><category term="linux" /><category term="ubuntu" /><category term="os" /><category term="apps" /><summary type="html">In the recent days many people are tending towards linux use. So here are some of the cool apps which you can use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/linux/5-cool-linux-apps.png" /><media:content medium="image" url="http://localhost:4000/assets/images/linux/5-cool-linux-apps.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
