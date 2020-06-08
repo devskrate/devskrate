@@ -55,8 +55,8 @@ But if you are using a lite version.. Yes there are **The Best** alternatives li
 {:class="table table-bordered dark"}
 |Browser         | App size  | Description | Image |
 | -----------    | --------- | ----------- | ----- |
-|[Firefox Lite](https://play.google.com/store/apps/details?id=org.mozilla.rocket&hl=en_IN)    | 6.1 MB    |It is a lite version of Firefox, which gives more protection to your data and privacy.| <img width="30%" src="{{site.baseurl}}/assets/images/alternatives/chinese-apps/firefox-lite.png"> |
-|[Google Go](https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite&hl=en_IN)       | 7.4 MB    | A lite browser by Google|<img width="30%" src="{{site.baseurl}}/assets/images/alternatives/chinese-apps/google-go.png"> |
+|[Firefox Lite](https://play.google.com/store/apps/details?id=org.mozilla.rocket&hl=en_IN)    | 6.1 MB    |It is a lite version of Firefox, which gives more protection to your data and privacy.| ![Firefox Lite]({{site.baseurl}}/assets/images/alternatives/chinese-apps/firefox-lite.png){:width="30%"} |
+|[Google Go](https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite&hl=en_IN)       | 7.4 MB    | A lite browser by Google| ![Google Go]({{site.baseurl}}/assets/images/alternatives/chinese-apps/google-go.png){:width="30%"} |
 
 ### 5. Alternatives to Helo:
 
