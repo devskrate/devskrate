@@ -3,8 +3,8 @@ layout: post
 title:  "Best alternatives to Popular Chinese apps"
 author: puneeth
 categories: [ Tech, Alternatives ]
-image: assets/images/flutter.jpg
-tags: [Tech, Alternatives]
+image: assets/images/flutter.png
+tags: [Tech, Android, Alternatives]
 ---
 .
 ### 1. File transfer:
