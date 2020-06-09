@@ -3,11 +3,11 @@ layout: post
 title:  "Best alternatives to Popular Chinese apps"
 author: puneeth
 categories: [ Tech, Alternatives ]
-image: assets/images/flutter.png
+image: assets/images/alternatives/chinese-apps/best-alternatives-to-chinese-apps.png
 tags: [Tech, Android, Alternatives]
 ---
 .
-### 1. File transfer:
+### 1. Alternatives to File transfer apps:
 
 SHAREit and Xender are the most popular file transferring apps, though they are very annoying.
 
@@ -65,6 +65,7 @@ Helo is one of the popular app, but there is a local made app for it by name **S
 <p align="">
   <a href="https://play.google.com/store/apps/details?id=in.mohalla.sharechat"><img width="6%" src="{{ site.baseurl }}/assets/images/alternatives/chinese-apps/share-chat.png">&nbsp;&nbsp;&nbsp;&nbsp;<bold>ShareChat - Made in India</bold></a>
 </p>
+Youtube and Instagram are also a way similar and can be considered as some of the alternatives
 
 ### 6. Alternatives to Turbo VPN:
 
