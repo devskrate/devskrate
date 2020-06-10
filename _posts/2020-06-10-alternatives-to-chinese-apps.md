@@ -6,7 +6,9 @@ categories: [ Tech, Alternatives ]
 image: assets/images/alternatives/chinese-apps/best-alternatives-to-chinese-apps.png
 tags: [Tech, Android, Alternatives]
 ---
-.
+
+Here are some of the best alternatives to popular chinese apps..
+
 ### 1. Alternatives to File transfer apps:
 
 SHAREit and Xender are the most popular file transferring apps, though they are very annoying.
