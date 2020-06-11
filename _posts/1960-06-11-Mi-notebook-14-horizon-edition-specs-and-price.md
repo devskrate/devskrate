@@ -8,6 +8,7 @@ tags: [Xiaomi, Laptop, MiLaptop]
 redirect_from:
   - /mi-notebook-14-and-mi-notebook-14-horizon-edition-specs-and-price/
   - /mi-notenook-14-horizon-edition-specs-and-price/
+  - /Mi-notebook-14-and-Mi-notebook-14-horizon-edition-specs-and-price/
 ---
 
 After years of waiting and a lot of teasers, **Xiaomi has finally launched its first-ever laptop lineup in India.** Today the company has launched two laptops which include Mi Notebook 14 and  Mi Notebook 14 Horizon Edition.
