@@ -13,10 +13,6 @@
 <lastmod>1999-05-17T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/htc-desire-20-launch-date/</loc>
-<lastmod>1999-06-10T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/alternatives-of-google-play-store/</loc>
 <lastmod>2019-10-19T00:00:00+05:30</lastmod>
 </url>
@@ -239,6 +235,10 @@
 <url>
 <loc>http://localhost:4000/alternatives-to-chinese-apps/</loc>
 <lastmod>2020-06-10T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/htc-desire-20-launch-date/</loc>
+<lastmod>2020-06-11T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
