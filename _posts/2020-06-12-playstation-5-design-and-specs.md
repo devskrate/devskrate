@@ -2,7 +2,7 @@
 layout: post
 title:  "Sony unveils the PlayStation 5’s futuristic design"
 author: mohit
-categories: [ Console]
+categories: [Tech, gaming]
 image: assets/images/sony/PS5.jpg
 tags: [Sony, PlayStation, Console]
 ---
