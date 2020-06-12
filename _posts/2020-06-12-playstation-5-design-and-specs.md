@@ -9,7 +9,7 @@ tags: [Sony, PlayStation, Console]
 
 Sony has been a major player in the console market for years and they finally revealed what its **next-generation console** looks like, the several other accessories to go with, and also some important features in the game show today.
 
-Speaking of the PlayStation 5, this time it comes in two variants one is the **Standard PS5** and the other is the **PlayStation 5 Digital Edition**. The difference being that the Digital Edition does not have a disk drive. We can expect at least a 100$(7500 rupees) price difference between the two variants. The standard edition's disk drive supports 4K Blu-ray drive which was missing on the PS4.
+Speaking of the PlayStation 5, this time it comes in two variants one is the **Standard PlayStation 5** and the other is the **PlayStation 5 Digital Edition**. The difference being that the Digital Edition does not have a disk drive. We can expect at least a 100$(7500 rupees) price difference between the two variants. The standard edition's disk drive supports 4K Blu-ray drive which was missing on the PS4.
 
 #### Looks and Design:
 Talking about the looks and design, we think the two-tone design of the PS5, which is the black surrounded by white design looks futuristic but we can find a lot of people on the internet saying that it looks like a router and we won't cannot deny that even. On the front of the PS5 we get a regular USB and a USB-c port, the I/O on the back is kind of a mystery for now and we can find an air went on the top.
