@@ -14,7 +14,7 @@ Speaking of the PlayStation 5, this time it comes in two variants one is the **S
 #### Looks and Design:
 Talking about the looks and design, we think the two-tone design of the PS5, which is the black surrounded by white design looks futuristic but we can find a lot of people on the internet saying that it looks like a router and we won't cannot deny that even. On the front of the PS5 we get a regular USB and a USB-c port, the I/O on the back is kind of a mystery for now and we can find an air went on the top.
 
-#### Accessories
+#### Accessories:
 The PS5 is accompanied by several other accessories, which sony showed on the event. The first being the Dual Sense Controller which also comes with the dual-tone finish similar to that of the PlayStation.We also find the Dual-Sense Stand to charge two controllers at once and that looks pretty cool. For all those how to remember the pulse wireless gaming headset which sony came out years ago, The successor of that the Pulse 3D wireless is here and that looks minimal with the two-tone design and promises to offer a fully immersive sound experience. It also comes with an HD camera following a similar two-tone vibe.PS5 standard edition will also come with a remote to use your PS5 as a regular Blu-ray player.
 
 ![Playstion 5 and it's acessories]({{ site.baseurl}}/assets/images/Sony/ps5-family.jfif)
