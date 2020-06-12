@@ -13,6 +13,10 @@
 <lastmod>1999-05-17T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/linux-tricks-for-begginers.md/</loc>
+<lastmod>1999-06-11T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/alternatives-of-google-play-store/</loc>
 <lastmod>2019-10-19T00:00:00+05:30</lastmod>
 </url>
@@ -237,8 +241,16 @@
 <lastmod>2020-06-10T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Mi-notebook-14-horizon-edition-specs-and-price/</loc>
+<lastmod>2020-06-11T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/htc-desire-20-launch-date/</loc>
 <lastmod>2020-06-11T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/playstation-5-design-and-specs/</loc>
+<lastmod>2020-06-12T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
@@ -335,5 +347,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page6/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page7/</loc>
 </url>
 </urlset>
