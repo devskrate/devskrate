@@ -2,21 +2,10 @@
 layout: post
 title:  "MiUI 12 features"
 author: mohit
-categories: [ mi, miui ]
+categories: [tech, android]
 image: assets/images/mi/miui12.jpg
 tags: [redmi, os, android, miui]
 ---
-
-###### Feature list:
-1. UI changes
-2. Wallpapers
-3. Dark mode 2.0
-4. MI health app
-5. Improved Gestures
-6. Privacy enhancement
-7. Floating window
-8. Ads
-9. AI
 
 Xiaomi Announces MIUI 12, Here is a quick overview and list of phones which is expected to get this update.
 Xiaomi in its recent keynote along with its phone announcement, it also the latest version of its software skin MIUI 12. It's a slight redesign of its exciting MIUI 11 and has quite a lot of visual changes. Let's see what features does this new UI brings to the table.
