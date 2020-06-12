@@ -2,9 +2,9 @@
 layout: post
 title:  "Sony unveils the PlayStation 5’s futuristic design: Here's everything You need to know"
 author: mohit
-categories: [ Laptop]
+categories: [ Console]
 image: assets/images/Sony/PS5.jpg
-tags: [Xiaomi, Redmi, Laptop]
+tags: [Sony, PlayStation, Console]
 ---
 
 Sony has been a major player in the console market for years and they finally revealed what its **next-generation console** looks like, the several other accessories to go with, and also some important features in the game show today.
