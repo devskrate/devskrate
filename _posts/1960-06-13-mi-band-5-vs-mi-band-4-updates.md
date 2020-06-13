@@ -14,12 +14,12 @@ The Mi band has been one of the most successful lineups for Xioami and it recent
 |Display           | 1.1-inch AMOLED touch display          | 0.95-inch AMOLED touch display      |
 |Weight            | 22 grams(apx)                          | 22.1 grams                          |
 |Heart rate sensor | Yes                                    | Yes                                 |
+|Connectivity      | Bluetooth 5.0 BLE                      | Bluetooth 5.0 BLE                   |
 |Waterproof        | 50 meters/ 5ATM upto 30 Minutes        | 50 meters/ 5ATM upto 30 Minutes     |
 |Sport Modes       | 11                                     | 5                                   |
 |Battery Size      | 125mAh                                 | 135mAh                              |
 |Battery Life      | 20 days                                | 20 days                             |
 |Price             | Rs. 2,100 (China Converted)            | Rs. 2,299 (India)                   |
-|Connectivity      | Bluetooth 5.0 BLE                      | Bluetooth 5.0 BLE                   |
 
 #### Bigger Display and More Watch Faces:
 Mi band 5 features a **1.1-inch color AMOLED touch display**, which is 20 percent bigger when compared to that of the 0.95-inch found on band 4, which we consider to be a minor upgrade but would like to have seen smaller bezels. Along with bigger display comes new faces 100 to be precise and these wallpaper will also have some renowned animated series, including Hatsune Miku, Neon Genesis Evangelion, and SpongeBob SquarePants.These can be found on the Mi Fit app.
