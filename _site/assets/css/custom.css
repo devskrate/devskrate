@@ -10823,3 +10823,24 @@ pre, code, kbd, samp {
   color: whitesmoke;
   border: 1px solid whitesmoke !important;
 }
+
+.d-shares h2{
+  font-weight: 500 !important;
+  font-size: 1rem !important;
+}
+.d-shares img{
+  width: 75% !important;
+  text-align: unset !important;
+}
+.d-shares h4{
+  font-weight: 500 !important;
+  font-size: 1.2rem !important;
+}
+.d-shares h6{
+  font-weight: 450 !important;
+  font-size: 1rem !important;
+}
+.d-shares {
+  font-size: 0.75rem;
+  font-weight: 400;
+}

@@ -8,13 +8,19 @@ redirect_from:
   - /share/
   - /share
 ---
+
 <div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-9">        
-                {% assign posts = site.posts %}
-                {% for post in posts %}
-                {% include post-stack.html %}
-                {% endfor %}
+    <div class="row mt-3">
+        <div class="col-md-7 main-loop">
+
+            {% assign posts = site.posts %}
+            {% for post in posts %}
+            {% include post-stack.html %}
+            {% endfor %}
+
+        </div>
+        <div class="col-md-4">
+            {% include post-stack-sidebar-featured.html %}    
         </div>
     </div>
 </div>
