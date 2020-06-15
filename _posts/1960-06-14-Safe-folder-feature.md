@@ -19,8 +19,13 @@ If you see the code below, We cannot find any built-in methods to recover passwo
 
 No surprise to see Google to make such a move since most of the users are losing confidence from Google in terms of privacy, Samsung has been offering the same feature for years in their phone and called it Secure Folder.
 
+<<<<<<< HEAD
 Below is the code found by 9 TO 5 Google. 
 ```java
+=======
+Below is the snipets of the code found by 9 TO 5 Google.
+
+>>>>>>> ac766c06bf7232144b5ee727fcb552711a411da0
 <string name=”safe_folder_label”>Safe folder</string>
 <string name=”safe_folder_first_time_tooltip”>Move any files you want to keep protected by a PIN to this folder.</string>
 <string name=”safe_folder_after_setup_tooltip”>Find your protected files in this folder.</string>
