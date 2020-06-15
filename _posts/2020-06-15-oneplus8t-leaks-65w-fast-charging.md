@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leaks show new color variant for One Plus 8 and a Faster charging for the upcoming One Plus 8t series"
+title:  "Leaks shows Faster charging for One Plus 8t and new color variant of One Plus 8"
 author: mohit
 categories: [Tech, Android]
 image: assets/images/oneplus/oneplus-8t-leaks.png
