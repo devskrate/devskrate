@@ -14,6 +14,6 @@ The Galaxy S20 Plus BTS Editon looks like the regular flagship with a unique pur
 
 The Galaxy Buds Plus BTS Edition's only change is the purple color which we find in the earbuds and the charging case as well. We also find the BTS and heart icons on each of the earbuds.
 
-![Galaxy Buds Plus BTS Edition]({{ site.baseurl}}/images/samsung/samsung-galaxy-buds-bts-edition.jpg)
+![Galaxy Buds Plus BTS Edition]({{ site.baseurl}}/assets/images/samsung/samsung-galaxy-buds-bts-edition.jpg)
 
 This BTS Edition of the S20+ 5G BTS Edition, Galaxy S20+ BTS Edition, and Galaxy Buds+ BTS Edition will be sold in South Korea, the US, and Europe and the pre-orders will start from 19th of June and will start shipping from 9th of July, which marks the seventh BTS anniversary.The exact pricing and variants are not yet confirmed by Samsung.   
