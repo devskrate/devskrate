@@ -41,3 +41,16 @@ Xiaomi, also launched a projector called the Mi Laser Projector 1S 4K. The high
 Under the hood, the device is powered by a T968-H processor, which comes with 2GB of RAM and 32GB of internal storage. It supports 4k resolution and is also HDR10 certified. Speaking about the brightness, it supports 2,000 ANSI Lumens, which means that users can use it even in a brighter environment without any issues.
 
 It also has HDMI and USB 3.0  for connectivity and the company claims that the lifespan of this Projector's light source is estimated to be around 25,000 hours. The projector is priced at 12,999 yuan which roughly converts to 139391.36 Rupees.
+
+#### Xiaomi Mi Power Bank 3:
+
+![Mi Power Bank 3]({{ site.baseurl}}/assets/images/mi/mi-power-bank-3.jpg)
+
+The Mi Power Bank 3 is the largest power bank released by the company till date. Let’s see what features it has got to offer. Speaking of capacity it offers 30,000 mAh capacity which is enough to charge even huge phones with 5000mAH battery six times.    
+
+First talking about the ports it has two full-size USB-A ports, one USB-C and one MicroUSB. You can get 18W of power output from the USB-A ports and USB-C and the power bank itself can charge via both the USB-C and micro USB. The type-c port can charge the power bank at 24W, while the Micro USB is restricted at 18W.
+
+![Mi Power Bank 3]({{ site.baseurl}}/assets/images/mi/mi-power-bank-3-ports.jpg)
+
+This power bank even offers to low-current mode for slower charging option to charge accessories like a smartwatch or even Bluetooth earbuds-this can be accessed by tapping the power button twice. Talking about the price, In China the power bank is priced at 170 Yuan which roughly converts to 2000 Indian Rupees. This is expected to India very soon, so stay tuned for that.
+
