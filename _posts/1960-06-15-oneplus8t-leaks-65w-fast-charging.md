@@ -10,6 +10,8 @@ One plus has always been known for speed, by bringing high-end specs of their ph
 
 First, let's talk about faster charging, One Plus is reportedly bringing 65W fast charging to its 8t series of smartphone line up and this was found in the android 11 code. This is not something new we have already seen this tech being used in other phones from Oppo's Find X2 Pro and Realme's X50 Pro. This speed will be achieved by using a dual-cell battery, both of which charge individually. This will be a considerable setup compared to the Warp Charge 30T found on the One Plus 8 and 8 pro. 
 
+Here you can see the code reveals the new colors and 65W fast charging support.
+
 ```java
 Code:
 <string name="swrap_charger_test">Super Wrap Charger</string>
@@ -27,3 +29,6 @@ Code:
 <string name="str_sm8250_color4_title">Ice Blue</string>
 ```
 Souce:XDA Developers
+
+
+
