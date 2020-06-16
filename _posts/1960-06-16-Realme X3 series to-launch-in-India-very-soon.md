@@ -6,6 +6,7 @@ categories: [Tech]
 image: assets/images/realme/Realme-X3-SuperZoom.jpg
 tags: [Realme, Realme X3 , Realme X3 Zoom ,]
 ---
+Realme CEO, Madhav Seth has teased the launch of Realme X3 Super Zoom in India, but its not totally a new phone we have already seen this phone launch in India. In this article, we will see the specs and the expected price in which this phone will be launching in India.
 
 {:class="table table-bordered dark"}
 |Name            | Specifications                                                            |
