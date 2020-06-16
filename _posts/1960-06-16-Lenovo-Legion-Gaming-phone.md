@@ -23,3 +23,5 @@ This phone will come with dual rear camera, The primary will be a 64-megapixel s
 
 #### Pricing and release date:
 This phone is rumored to be released on 10 of July and at a starting price of Rs 49,990.
+
+Image source:XDA Developers
