@@ -2,9 +2,9 @@
 layout: post
 title:  "Moto One Fusion Launched in India Starting at 16,999"
 author: mohit
-categories: [Tech]
-image: assets/images/samsung/samsung-galaxy-bts-edition-banner-image.jpg
-tags: [Moto, SmartPhone, ]
+categories: [Tech, Android]
+image: assets/images/moto/moto-fusion-plus-blog.png
+tags: [Moto, Specs, ]
 ---
 Moto after being acquired by Lenovo has not been able to release a good mid-range smartphone but this phone might be the one to change this. Let's see what this phone has offer.
 
@@ -19,3 +19,5 @@ This phone comes with a Quad-Rear camera setup, The primary camera being a 64 MP
 
 #### Pricing and Verdict:
 Moto decided to price the 6G RAM and 128GB ROM at 16,999, At this price, this is competing against the likes of Realme 6, Realme X2, Samsung M31, Vivo Z1x, Redmi Note 9 Pro and Pro Max. We think it's a good smartphone, if what you what is a stock android like experience and a full-screen notch-less display this might suit you the best.
+
+
