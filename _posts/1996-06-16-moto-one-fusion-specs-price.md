@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moto One Fusion Launched in India Starting at 16,999"
+title:  "Moto One Fusion Plus Launched in India Starting at 16,999"
 author: mohit
 categories: [Tech, Android]
 image: assets/images/moto/moto-fusion-plus-blog.png
