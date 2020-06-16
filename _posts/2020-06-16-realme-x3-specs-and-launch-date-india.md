@@ -11,7 +11,7 @@ Realme CEO, Madhav Seth has teased the launch of Realme X3 Super Zoom in India, 
 {:class="table table-bordered dark"}
 |Name            | Specifications                                                            |
 | -----------    | ------------------------------------------------------------------------  |
-|Processor       | Qualcomm Snapdragon 865                                                   |
+|Processor       | Qualcomm Snapdragon 855 Plus                                                  |
 |Rear Camera     | Quad Cameras 64MP(f/1.8) +  8MP(periscope 5x optical zoom) + 8MP(Ultra Wide) +  2MP(macro sensor) |
 |front Camera    | 32MP(Wide) + 8MP(Ultra Wide)                                              |                                                                      
 |Display         | 6.6 inches 120HZ IPS LCD (Aspect ratio: 20:9)                             |
