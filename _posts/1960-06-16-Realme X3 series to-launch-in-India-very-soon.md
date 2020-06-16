@@ -3,7 +3,7 @@ layout: post
 title:  "Realme X3 series to launch in India very soon"
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.jpg
+image: assets/images/realme/Realme-X3-SuperZoom.jpg
 tags: [Realme, Realme X3 , Realme X3 Zoom ,]
 ---
 
