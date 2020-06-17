@@ -3,7 +3,7 @@ layout: post
 title:  "Leaks show OnePlus’s new true wireless earbuds"
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.jpg
+image: assets/images/oneplus/oneplus-buds-banner.jpg
 tags: [OnePlus, TWS, Leaks]
 ---
 One Plus has once been known for its flagship killer smartphones and then as the time passed they started expanding into several other product lineups like a real flagship, Bluetooth earphones and many more and now one plus is planning to add to a new member to its family, a new true wireless buds.
