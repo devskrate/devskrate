@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Samsung Announces BTS Edition of S20+ and Buds+"
+title:  "Samsung Announced BTS Edition of S20+ and Buds+"
 author: mohit
-categories: [Tech]
-image: assets/images/samsung/samsung-galaxy-bts-edition-banner-image.jpg
+categories: [Tech, Android]
+image: assets/images/samsung/samsung-bts-edition-blog.png
 tags: [Samsung, BTS , S20 Plus ,Buds Plus ,]
 ---
 BTS has one of the biggest fan bases in the world and we have good news for them. Samsung has announced the BTS Edition for the Galaxy S20 plus and Buds plus.
+
+![Galaxy S20 Plus BTS Editon]({{ site.baseurl}}assets/images/samsung/samsung-galaxy-bts-edition-banner-image.jpg)
 
 The Galaxy S20 Plus BTS Editon looks like the regular flagship with a unique purple exterior, inspired by the K-pop group. The phone has a BTS logo on the back and the band's heart iconography on the camera array. The phone will also have a custom theme inspired by BTS. The phone will also come with the Weverse app, which the band members use to interact with the fans pre-installed. The BTS themed box of the phone will also come with photo cards and stickers of the band included. The Specification of this phone are similar to regular S20 plus. There will also be an S20+ 5G BTS Edition, whose specs are similar to S20+ 5G. 
 
