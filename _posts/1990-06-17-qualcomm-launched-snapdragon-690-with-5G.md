@@ -15,7 +15,7 @@ This new Snapdragon 690, will be a successor to Snapdragon 675. It will offer 20
 Here are the complete specs released by snapdragon -
 
 
-<center><a href="{{site.baseurl}}/assets/images/android/sanpdragon-690-details.jpg" data-lightbox="image-1" data-title="Snapdragon 690"><img width="50%" src="{{site.baseurl}}/assets/images/android/sanpdragon-690-details.jpg"></a></center>
+<center><a href="{{site.baseurl}}/assets/images/android/sanpdragon-690-details.jpg" data-lightbox="image-2" data-title="Snapdragon 690"><img width="50%" src="{{site.baseurl}}/assets/images/android/sanpdragon-690-details.jpg"></a></center>
 
 The 5G modem in this will only support slower sub-6GHz versions of 5G, not the faster mmWave standard. This 5G modem in this chipset will allow for a wider adoption of this technology. We can see 5G enabled smartphones powered by the Snapdragon 690 in the year 2021 at a price point of 10,000 to 20,000 rupees.
 
