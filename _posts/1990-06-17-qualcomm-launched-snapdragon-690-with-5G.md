@@ -10,4 +10,10 @@ We have seen Qualcomm forcing manufactures to include 5G with the latest flagshi
 
 This new Snapdragon 690, will be a successor to Snapdragon 675. It will offer 20 percent better CPU performance and 60 percent faster graphics rendering compared to the Snapdragon 675. It will also have support for high-end features like support 120Hz displays for faster refresh rates, 4K HDR video capture, 192-megapixel cameras.
 
+Here are the complete specs released by snapdragon -
+
+
+<a href="{{site.baseurl}}/assets/images/android/sanpdragon-690-specs.jpg" data-lightbox="image-1" data-title="Snapdragon 690"><img width="20%" src="{{site.baseurl}}/assets/images/android/sanpdragon-690-specs.jpg"></a>
+
 The 5G modem in this will only support slower sub-6GHz versions of 5G, not the faster mmWave standard. This 5G modem in this chipset will allow for a wider adoption of this technology. We can see 5G enabled smartphones powered by the Snapdragon 690 in the year 2021 at a price point of 10,000 to 20,000 rupees.
+
