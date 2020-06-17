@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leaks show OnePlus’s new true wireless earbuds"
+title:  "Leaks show OnePlus’s new True Wireless Earbuds"
 author: mohit
 categories: [Tech]
 image: assets/images/oneplus/oneplus-buds-banner.jpg
