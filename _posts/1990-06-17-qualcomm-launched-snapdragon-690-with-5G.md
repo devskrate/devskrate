@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Qualcomm launches the new Snapdragon 690 processor with 5G support."
+title:  "Snapdragon 690 with 5G support for budget phones"
 author: mohit
 categories: [Tech]
 image: assets/images/android/sanpdragon-690-banner.jpg
