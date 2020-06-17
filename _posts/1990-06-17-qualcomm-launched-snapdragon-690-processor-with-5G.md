@@ -3,8 +3,8 @@ layout: post
 title:  "Qualcomm launches the new Snapdragon 690 processor with 5G support."
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.jpg
-tags: [ Qualcomm, Snapdragon , ]
+image: assets/images/android/sanpdragon-690-banner.jpg
+tags: [ Qualcomm, Snapdragon ]
 ---
 We have seen Qualcomm forcing manufactures to include 5G with the latest flagship  Snapdragon 865, by not selling a separate version a separate 865 without 5G. We have also seen the company include its 5G modem(X51 modem) to the 700 series chips with SnapDragon 765 5G and now Qualcomm has decided to add the 5G modem to 600 series of chipset with the introduction of SnapDragon 690 processor.
 
