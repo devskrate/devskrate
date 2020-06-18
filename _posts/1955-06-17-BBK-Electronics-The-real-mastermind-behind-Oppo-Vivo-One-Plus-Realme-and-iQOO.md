@@ -6,11 +6,11 @@ categories: [Tech]
 image: assets/images/sony/PS5.jpg
 tags: [Mi, MiBand, Fitness Tracker ,]
 ---
-By now, most of you might know that Oppo, Vivo, One Plus, Realme, and recently iQOO are owned by a single company called BBK Electronics. So why own multiple brands?. To understand the real reason behind it we need to find look at their brief history.
+By now, most of you might know that Oppo, Vivo, One Plus, Realme, and recently iQOO are owned by a single company called BBK Electronics. So why own multiple brands in the same industry?. To understand the real reason behind it we need to look at their history.
 
 #### The Foundation of BBK:
 
-The founder Yong Ping Duan used to work in Subor Electronics which sold Consumer electronics like learning machines, language repeaters, electronic dictionary, reading machines, and later in 1995 stared his company called BBK Electronics. This company also sold Consumer electronics and then further expanded into making DVD player,mp3 player, feature phone, and many more.
+The founder Yong Ping Duan used to work in Subor Electronics which sold Consumer electronics like learning machines, language repeaters, electronic dictionary, reading machines, and several other products. Thereafter in 1995 stared his company called BBK Electronics. This company also sold Consumer electronics and then further expanded into making DVD player,mp3 player, feature phone, and many more.
 #### The Birth of Oppo:
 
 This was the time when sales of BBK products started reducing and the idea to overcome this problem was to create a subsidiary brand and this gave birth to Oppo. The brand name Oppo registered in 2001 in China and launched in 2004. Tony Chen was appointed as the CEO of the company. Oppo started making several products like DVD player,mp3 player, feature phone. The first product that they sold was OPPO OPDV971H, which was a Universal DVD player. The company entered the mobile market in the year 2008 and just within five years it became the second most profitable company in China in 2013 among the players like ZTE, Huawei, Lenovo, and Xiaomi.
@@ -29,7 +29,7 @@ The company launched its first smartphone OnePlus One in the year 2014, which ca
 
 #### The birth of Realme:
 
-While OnePlus occupied the premium market, Xioami has entirely conquered the Indian smartphone and became the number one in India. This gave birth to Realme Company. This was founded in 2018 and Sky Li was appointed as CEO. It entered the Indian market with the Realme 1, which gave an instant hit to the company and from there they grew and now become the number four smartphone seller in India. From India, it extended into many other countries like Europe and many other countries. This company main focus was to compete with Xioami, which they did successfully and still are doing.
+While OnePlus occupied the premium market, Xioami has entirely conquered the Indian mid-range smartphone and became the number one smartphone manufacture beating then-leader Samsung. This gave birth to another subsidiary company called Realme, you might wonder, why not just have OnePlus launch a mid-range phone, After all, they were supposed to be the bang for buck smartphone brand for Oppo but OnePlus isn't a budget smartphone brand anymore as they have slowly increased the price and they don't what to be seen as budget smartphone maker anymore. Coming back to Realme, This was founded in 2018 and Sky Li was appointed as CEO. It entered the Indian market with the Realme 1, which gave an instant hit to the company and from there they grew and now become the number four smartphone seller in India. From India, it extended into many other countries like Europe and many other countries. This company main focus was to compete with Xioami, which they did successfully and still are doing.
 
 #### The Birth of iQOO:
 
