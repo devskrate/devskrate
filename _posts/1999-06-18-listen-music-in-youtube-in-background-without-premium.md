@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "How to listen music in YouTube even when you lock screen"
+title:  "How to listen music in YouTube even in lockscreen in phone"
 author: satya
 categories: [Tech, Android]
-image: assets/images/samsung/samsung-bts-edition-blog.png
-tags: [Samsung, BTS , S20 Plus ,Buds Plus ,]
+image: assets/images/google/youtube/youtube-background-banner.jpg
+tags: [Youtube, music , app, modded appa]
 ---
 Mostly everyone use Youtube, but we all like to use it in the background and in the lockscreen, for this we need to buy Youtube premium for this. There are alternative ways for getting this thing done.
 ### 1. Using Browser:
 We can get this by using any mobile browser..
 
 <a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-1.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-1.jpg" style = "border:1.5px solid black;" ></a>
-<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-2.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-2.jpg" style = "border:1.5px solid black;" ></a>
-<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-3.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-3.jpg" style = "border:1.5px solid black;" ></a>
-<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-4.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-4.jpg" style = "border:1.5px solid black;" ></a>
-<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-5.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-5.jpg" style = "border:1.5px solid black;" ></a>
-<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-6.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-6.jpg" style = "border:1.5px solid black;" ></a>
-<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-7.jpg" data-lightbox="image-1" data-title="Open chrome and open youtube.com"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-7.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-2.jpg" data-lightbox="image-1" data-title="Click options"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-2.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-3.jpg" data-lightbox="image-1" data-title="Enable Desktop Site"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-3.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-4.jpg" data-lightbox="image-1" data-title="Open a video to play"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-4.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-5.jpg" data-lightbox="image-1" data-title="Press home button to get chrome to background"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-5.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-6.jpg" data-lightbox="image-1" data-title="Can resume using notification panel"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-6.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-7.jpg" data-lightbox="image-1" data-title="Can use it in lock screen"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-7.jpg" style = "border:1.5px solid black;" ></a>
 
-i)Firstly open chrome browser in Normal or Incognito mode, then type `youtube.com` in the search bar. If you are redirected to youtube app, try typing `m.youtube.com` in the search.
+i)Firstly open chrome browser in Normal or Incognito mode, then type `youtube.com` in the search bar. If you are redirected to youtube app, try opening `m.youtube.com` in the search.
 
 ii)Now open the options..
 
@@ -36,7 +36,9 @@ v)Now after the video started playing, goto home by pressing home button. Now yo
 ### 2. Using an APK:
 (Educational Purpose Only)
 
-The are lots of modded apps in the net for using the premium content freely. For youtube there is an app called YouTube Vanced and here are it's features..
+The are lots of modded apps in the net for using the premium content freely.
+
+###### 1.YouTube Vanced and here are it's features..
 
 - Block all ads (togglable)
 - Background Playback
@@ -51,3 +53,8 @@ The are lots of modded apps in the net for using the premium content freely. For
 - And many more coming..
 
 You can goto it's official site and download the version suitable for your device [here](https://youtubevanced.com/)
+
+###### 2. YMusic Android
+
+Super convenient music app for you, enjoy music from YouTube with smallest consumed data!
+You can download it [here](https://ymusic.io/)
