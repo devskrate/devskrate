@@ -17,6 +17,7 @@ We can get this by using any mobile browser..
 <a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-5.jpg" data-lightbox="image-1" data-title="Press home button to get chrome to background"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-5.jpg" style = "border:1.5px solid black;" ></a>
 <a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-6.jpg" data-lightbox="image-1" data-title="Can resume using notification panel"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-6.jpg" style = "border:1.5px solid black;" ></a>
 <a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-7.jpg" data-lightbox="image-1" data-title="Can use it in lock screen"><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-7.jpg" style = "border:1.5px solid black;" ></a>
+<a href="{{site.baseurl}}/assets/images/google/youtube/youtube-background-8.jpg" data-lightbox="image-1" data-title="If you cannot see notification, turn it on.."><img width="20%" src="{{site.baseurl}}/assets/images/google/youtube/youtube-background-8.jpg" style = "border:1.5px solid black;" ></a>
 
 i)Firstly open chrome browser in Normal or Incognito mode, then type `youtube.com` in the search bar. If you are redirected to youtube app, try opening `m.youtube.com` in the search.
 
@@ -31,6 +32,7 @@ v)Now after the video started playing, goto home by pressing home button. Now yo
 
 + Now the final step is, drag the notification panel and resume the video or just lock your screen and resume your video.
 
+- If you cannot see the notification, just turn of the notifications from the settings.
 
 
 ### 2. Using an APK:
