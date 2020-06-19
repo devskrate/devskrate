@@ -3,8 +3,8 @@ layout: post
 title:  "BBK Electronics: The real mastermind behind Oppo, Vivo, One Plus, Realme and iQOO"
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.jpg
-tags: [Mi, MiBand, Fitness Tracker ,]
+image: assets/images/bbk-electronics-banner.jpg
+tags: [realme, oppo, vivo, iqoo, oneplus, bbk electronics]
 ---
 By now, most of you might know that Oppo, Vivo, One Plus, Realme, and recently iQOO are owned by a single company called BBK Electronics. So why own multiple brands in the same industry?. To understand the real reason behind it we need to look at their history.
 
