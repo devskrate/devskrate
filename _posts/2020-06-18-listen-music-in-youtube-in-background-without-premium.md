@@ -4,7 +4,7 @@ title:  "How to listen music in YouTube even in lockscreen in phone"
 author: satya
 categories: [Tech, Android]
 image: assets/images/google/youtube/youtube-background-banner.jpg
-tags: [Youtube, music , app, modded appa]
+tags: [Youtube, music , app, modded apps]
 ---
 Mostly everyone use Youtube, but we all like to use it in the background and in the lockscreen, for this we need to buy Youtube premium for this. There are alternative ways for getting this thing done.
 ### 1. Using Browser:
