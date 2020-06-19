@@ -3,7 +3,7 @@ layout: post
 title:  "Apple's new Apple Phone and iphone os"
 author: puneeth
 categories: [Tech, ios]
-image: assets/images/google/youtube/youtube-background-banner.jpg
+image: assets/images/apple/apple-name-change-banner.jpg
 tags: [iphone, ios , apple, apple phone]
 ---
 Some leaks say that Apple is planning two major name changes to their products.
