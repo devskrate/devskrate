@@ -31,7 +31,7 @@ Google Assistant can understand common requests for businesses and names, and it
 
 Google Assistant is far ahead at features like voice recognition, ability to use different voices, and lot more.
 
-<img src="{{ site.baseurl }}/assets/images/android/gassistant.png" alt="Google Assistant" title="Google Assistant" />
+<a href="{{site.baseurl}}/assets/images/android/gassistant.png" data-lightbox="image-1" data-title="Google Assistant"><img width="40%" src="{{site.baseurl}}/assets/images//android/gassistant.png"></a>
 
 ### Use two apps at once through split-screen mode
 
@@ -39,7 +39,8 @@ Even though iPadOS 13 supports using multiple apps at the same time, iOS 13 and 
 
 Using two apps is helpful if you're trying to look up a contact's phone number to send to someone on Facebook Messenger, or if you need to reference information in a document when composing an email. It's unclear why Apple hasn't added this feature to the iPhone yet.
 
-<img src="{{ site.baseurl }}/assets/images/android/splitscreen.jpg" alt="Android Split Screen" title="Android Split Screen" />
+
+<a href="{{site.baseurl}}/assets/images/android/splitscreen.jpg" data-lightbox="image-1" data-title="Android Split Screen"><img width="40%" src="{{site.baseurl}}/assets/images//android/splitscreen.jpg"></a>
 
 ### Customize your home screen, how you like it
 
@@ -47,7 +48,9 @@ Apple's approach to the home screen is to place all installed apps in a rigid gr
 
 The benefit of Android's approach is that you can customize the home screen by arranging app icons in any pattern of your choosing, and Android supports widgets of varying sizes. Right now, Apple's Today view is the only place you'll find a widget.
 
-<img src="{{ site.baseurl }}/assets/images/android/home.jpg" alt="Android Home Screen" title="Android Home Screen" />
+<a href="{{site.baseurl}}/assets/images/android/home.jpg" data-lightbox="image-1" data-title="Android Home Screen"><img width="40%" src="{{site.baseurl}}/assets/images//android/home.jpg"></a>
+
+
 
 ### Use launchers to fully customize your phone
 
@@ -55,7 +58,8 @@ Launchers are the epitome of Android customization. These apps let you completel
 
 Launchers like Nova Launcher, Microsoft's Launcher, Apex Launcher and Action Launcher all add their own twists and features to your Android phone.
 
-<img src="{{ site.baseurl }}/assets/images/android/launcher.jpg" alt="Select a launcher" title="Select a launcher" />
+<a href="{{site.baseurl}}/assets/images/android/launcher.jpg" data-lightbox="image-1" data-title="Select a Launcher"><img width="40%" src="{{site.baseurl}}/assets/images//android/launcher.jpg"></a>
+
 
 ### Never get bored with automatic wallpapers
 
