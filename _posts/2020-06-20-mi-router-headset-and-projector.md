@@ -3,7 +3,7 @@ layout: post
 title:  "New products launched by  Xiaomi in the last week"
 author: mohit
 categories: [Tech]
-image: assets/images/sony/PS5.jpg
+image: assets/images/mi/mi-products-banner-2020.jpg
 tags: [Mi, MiBand, Fitness Tracker ,]
 ---
 Xiaomi in India is famously known for its smartphone, fitness tracker, and laptops recently but it also makes several other products in China. These are some products Xiaomi launched in China recently.
