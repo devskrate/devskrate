@@ -7,7 +7,7 @@ image: assets/images/android/android-better-then-ios.jpg
 tags: [comparision, android vs ios]
 ---
 
-Google's Android Operating System is now a very **mature Operating System** had been up with 11 versions of different flavours. Google released the first public beta of Android 11 last week, and it does look good. From the new Quick Controls screen to a built-in screen recording tool, Android users are in for a treat when it launches later this year. Apple will have its first chance to show off what iOS 14 is going to bring iPhones at WWDC on June 22, but for now, it's looking like Android 11 could expand the list of features that the iPhone doesn't yet have.
+Google's Android Operating System is now a very **mature Operating System** and had been up with 11 versions of different flavours. Google released the first public beta of Android 11 last week, and it does look good. From the new Quick Controls screen to a built-in screen recording tool, Android users are in for a treat when it launches later this year. Apple will have its first chance to show off what iOS 14 is going to bring iPhones at WWDC on June 22, but for now, it's looking like Android 11 could expand the list of features that the iPhone doesn't yet have.
 
 Right now, I want to highlight some of Android's strengths that iOS just can't do yet, from your being able to set default apps and use more than one app at a time to being able to completely customize the look of your phone.
 
