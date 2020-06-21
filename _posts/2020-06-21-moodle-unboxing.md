@@ -2,9 +2,9 @@
 layout: post
 title: "What Is Moodle?"
 author: contributor
-categories: [ opensource, website ]
+categories: [ Tech ]
 image: assets/images/moodle-banner.jpg
-tags: [opensource tool, learning management system]
+tags: [opensource, learning management system, website]
 ---
 
 
