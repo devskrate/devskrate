@@ -7,11 +7,7 @@ image: assets/images/moodle-banner.jpg
 tags: [opensource, learning management system, website]
 ---
 
-
-### Introduction To Moodle
-
 Hello Geeks, you might be wondering what this Moodle is?
-
 The word Moodle is an acronym for Modular Object-Oriented Dynamic Learning Environment. Moodle is a free and opensource online learning management system (LMS). It is suitable for all ages and all sectors. Anywhere learning takes place, Moodle can be used. It is usually used online but may also be used on an 'intranet' within your organization. Moodle is used for distance education, blended learning, flipped classroom, and e-learning projects in schools, universities, workplaces, and other sectors.
 
 
