@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Is PUBG a chinese game?? let's find out"
-author: contributor
+title: "Is PUBG a chinese game?? Let's find out"
+author: puneeth
 categories: [ Tech ]
 image: assets/images/moodle-banner.jpg
 tags: [Game, pubg]
+redirect_from:
+  - /why-PUBG-is-not-chinese-game/
 ---
 
 Majority of us play PUBG(Player Unknown Battle Ground) game. So we can see TENCET branding while opening the app, now lets check the fact is PUBG a china game..
