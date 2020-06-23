@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Apple iPod OS and Mac OS"
-author: puneeth
+title: "Apple iPadOS 14 and macOS - Big Sur"
+author: mohit
 categories: [ Tech ]
-image: assets/images/moodle-banner.jpg
-tags: [Apple, ipod, mac, os]
+image: assets/images/apple/wwdc2020/ipados-and-macos-banner.jpg
+tags: [Apple, ipad, mac, os, wwdc]
 ---
+
+Apple released it's new iPadOS 14 and Mac OS Big Sur
 
 #### iPad OS:
 

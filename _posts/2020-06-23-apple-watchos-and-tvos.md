@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Apple Watch OS and TV OS"
-author: puneeth
+author: mohit
 categories: [ Tech ]
-image: assets/images/moodle-banner.jpg
-tags: [Apple, watchos, iphone, appletv]
+image: assets/images/apple/wwdc2020/watchos-and-tvos-banner.jpg
+tags: [Apple, watchos, appletv, wwdc]
 ---
+
+Apple has released new WatchOS and tvOS, here is a quick view of them.
 
 ### Watch OS:
 
