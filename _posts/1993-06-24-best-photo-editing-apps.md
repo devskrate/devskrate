@@ -2,7 +2,7 @@
 layout: post
 title: "6 photo-editing apps for mobile photographers"
 author: nikhil
-categories: [ANDROID]
+categories: [APPS]
 image: assets/images/apps/best-photo-editing-apps.jpg
 tags: [comparision, android vs ios]
 ---
