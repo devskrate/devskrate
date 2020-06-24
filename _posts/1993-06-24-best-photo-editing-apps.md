@@ -48,6 +48,6 @@ Photofox has powerful tools for removing subjects from background that let you c
 
 Available on <a href="https://apps.apple.com/us/app/enlight-photofox-digital-art/id1191337894" target="_blank">iOS</a> (<b>Free, In-app purchases available</b>)
 
-Hope these apps will be useful and will come with new set of best apps in a different category✌.
+Hope these apps will be useful and will come up with new set of best apps in a different category✌.
 
 > Also read: [Best alternatives to Popular Chinese apps](https://devskrate.com/alternatives-to-chinese-apps/)
