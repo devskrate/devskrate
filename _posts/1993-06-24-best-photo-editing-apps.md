@@ -31,7 +31,7 @@ Available on <a href="https://apps.apple.com/us/app/photoshop-express-photo-edit
 
 **4. VSCO:**  
 VSCO began life making color grading presets for Lightroom and its roots are clear in the app today. Rather than offer stickers and animated GIFs for Snapchat enthusiasts, VSCO is all about the more artful filmic color filters. The app has a huge range of presets available.  
-It's got a great selection of black-and-white filters too, making it a great choice to experiment with if you're into your moody monochrome shots.
+It's got a great selection of black-and-white filters too, making it a great choice to experiment with if you're into your moody monochrome shots.  
 <img src="{{ site.baseurl }}/assets/images/apps/vsco.png" alt="VSCO" title="VSCO"/>
 
 Available on <a href="https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838" target="_blank">iOS</a> | <a href="https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en_GB" target="_blank">Android</a> (<b>Free, In-app purchases available</b>)
