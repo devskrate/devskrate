@@ -19,6 +19,8 @@ Speaking of internals, It comes with the previous year’s flagship processor fr
 #### Camera:
 Realme X3 superzoom comes with a Quad-Rear camera setup, The primary camera being a 64 MP, f/1.8 lens. The second sensor and the highlight of the phone is the 8MP Periscope zoom lens, which offers five times of lossless zoom and can go up to sixty times with digital zoom. The third is an 8MP ultra-wide with a 115-degree FOV and the last one is a 2MP macro lens. The regular Realme X3 replaces the periscope camera for a standard 12MP telephoto sensor with 2x optical zoom.
 
+Speaking of Selfie camera, Both come with a dual-camera setup inside the punch hole but with differnt sensors, the SuperZoom comes with 32MP primary sensor and an 8MP ultra-wide sensor with a 105-degree FOV, while the regular comes with 16MP primary sensor and an 8MP ultra-wide sensor.
+
 ![Realme X3 series Camera]({{ site.baseurl}}/assets/images/realme/Realme-X3-Series-Camera.jpg)
 
 #### Pricing:
