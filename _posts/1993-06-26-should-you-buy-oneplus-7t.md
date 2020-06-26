@@ -11,6 +11,22 @@ It's been a month and half since OnePlus had launched the OnePlus 8 series in In
 
 Firstly let's have a spec comparison
 
+<style>
+  table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
+</style>
+
 |                        | OnePlus 7T                                                                                                      | OnePlus 8                                                                                                    |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 |                        | <img src="{{ site.baseurl }}/assets/images/oneplus/oneplus-7t-render.png" alt="OnePlus 7T" title="OnePlus 7T" width="50dp"/> | <img src="{{ site.baseurl }}/assets/images/oneplus/oneplus-8-render.png" alt="OnePlus 8" title="OnePlus 8" width="50dp"/> |
