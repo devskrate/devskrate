@@ -56,6 +56,6 @@ From hardware perspective, with the OnePlus 8 making a few minor improvements in
 
 <img src="{{ site.baseurl }}/assets/images/oneplus/cpu-performance.jpg" />
 
-But the whole lot of caviar comes here as OnePlus 7T already has a decent full-day battery life and in a country like India where 5G is mere dream until the end of 2022.
+But the whole lot of caviar comes here as OnePlus 7T already has a decent full-day battery life and in a country like India where 5G is mere dream until the end of 2022. Also OnePlus 7T had a advantage of ultra wide camera for beautiful and wide angled photos.
 
 **Final Verdict:** For a massive **₹10,000 price difference** sacrificing those little perks, it worth buying OnePlus 7T over OnePlus 8.
