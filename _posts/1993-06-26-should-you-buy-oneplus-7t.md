@@ -46,8 +46,8 @@ td{
 | **Water Resistance**   | No IP rating                                                                                                    | No IP rating                                                                                                 |
 | **Dimensions**         | 160.9 x 74.4 x 8.1mm                                                                                            | 160.2 x 72.9 x 8mm                                                                                           |
 | **Weight**             | 190g                                                                                                            | 180g                                                                                                         |
-| **Colors**             | Glacier Blue, Frosted Silver                                                                                    | Glacial Green, Interstellar Glow, Onyx Black                                                                 |
-| **Price**              | ₹44,999/-                                                                                                       | ₹34,999/-                                                                                                    |
+| **Colors**             | Glacier Blue, Frosted Silver                                                                                    | Glacial Green, Interstellar Glow, Onyx Black                                                                 | ₹44,999/-
+| **Price**              | ₹34,999/-                                                                                                       |                                                                                                     |
 
 <br/>
 You've already got everything about the two phones and OnePlus 8 and 7T have a whole _lot_ in common.
