@@ -49,7 +49,7 @@ td{
 | **Colors**             | Glacier Blue, Frosted Silver                                                                                    | Glacial Green, Interstellar Glow, Onyx Black                                                                 |
 | **Price**              | ₹44,999/-                                                                                                       | ₹34,999/-                                                                                                    |
 
-
+<br/>
 You've already got everything about the two phones and OnePlus 8 and 7T have a whole _lot_ in common.
 
 From hardware perspective, with the OnePlus 8 making a few minor improvements in areas like the display, battery, storage options, and of course, 5G support. The only perk is that OnePlus 8 is that, it is packed with a more energy efficient processor making its battery life a whole lot improved.
