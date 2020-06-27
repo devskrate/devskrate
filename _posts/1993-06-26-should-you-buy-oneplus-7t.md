@@ -60,4 +60,6 @@ But the whole lot of caviar comes here as OnePlus 7T already has a decent full-d
 
 <b>Final Verdict:</b> For a massive <b>₹10,000 price difference</b> sacrificing those little perks, it worth buying OnePlus 7T over OnePlus 8.
 
-Buy OnePlus 7T online at <a href = "https://www.amazon.in/gp/product/B07DJLVJ5M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07DJLVJ5M&linkCode=as2&tag=devskrate-21&linkId=d2a373fe29948ba22833a6dbeb27145b">Amazon</a>, <a href="https://www.oneplus.in/oneplus-7t?from=7t">OnePlus Store</a>
+Buy OnePlus 7T online at <a href = "https://www.amazon.in/gp/product/B07DJLVJ5M/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07DJLVJ5M&linkCode=as2&tag=devskrate-21&linkId=d2a373fe29948ba22833a6dbeb27145b">Amazon</a> <b>|</b> <a href="https://www.oneplus.in/oneplus-7t?from=7t">OnePlus Store</a>
+
+
