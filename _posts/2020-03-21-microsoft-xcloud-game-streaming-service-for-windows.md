@@ -22,7 +22,7 @@ The experience is very similar to what is available on Android and iOS, even dow
 
 Microsoft also recently upgraded its xCloud server blades to include eight Xbox One S consoles in a single server instance. That’s up from the four the company was previously testing.
 
-<img src="{{ site.baseurl }}/assets/images/microsoft/xcloudblade.jpg" title="Microsoft's xCloud Server" alt="Microsoft's xCloud Server";"/>
+<img src="{{ site.baseurl }}/assets/images/microsoft/xcloudblade.jpg" title="Microsoft's xCloud Server" alt="Microsoft's xCloud Server"/>
 
 Microsoft is now working to eventually transition these xCloud servers to the Xbox Series X processor. This next-gen processor is far more powerful and capable of running four Xbox One S game sessions simultaneously on a single chip. It also includes a new built-in video encoder that is up to six times faster than the current external encoder that Microsoft uses on existing xCloud servers.
 
