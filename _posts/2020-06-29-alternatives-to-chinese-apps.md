@@ -7,6 +7,10 @@ image: assets/images/alternatives/chinese-apps/best-alternatives-to-chinese-apps
 tags: [Tech, Android, Alternatives]
 ---
 
+> These apps were "engaged in activities which is prejudicial to sovereignty and integrity of India, defence of India, and security of state and public order"
+
+<a href="{{site.baseurl}}/assets/images/alternatives/chinese-apps/banned-chinese-apps-list.jpeg" data-lightbox="image-1" data-title="Govt Banned apps list"><img width="50%" src="{{site.baseurl}}/assets/images/alternatives/chinese-apps/banned-chinese-apps-list.jpeg"></a>
+
 Here are some of the best alternatives to popular chinese apps..
 
 ### 1. Alternatives to File transfer apps:

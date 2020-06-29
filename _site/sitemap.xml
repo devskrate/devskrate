@@ -29,6 +29,10 @@
 <lastmod>1993-06-24T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/should-you-buy-oneplus-7t/</loc>
+<lastmod>1993-06-26T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/creating-browser-extensions/</loc>
 <lastmod>1999-05-17T00:00:00+05:30</lastmod>
 </url>
@@ -261,10 +265,6 @@
 <lastmod>2020-06-07T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/alternatives-to-chinese-apps/</loc>
-<lastmod>2020-06-10T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/Mi-notebook-14-horizon-edition-specs-and-price/</loc>
 <lastmod>2020-06-11T00:00:00+05:30</lastmod>
 </url>
@@ -351,6 +351,10 @@
 <url>
 <loc>http://localhost:4000/realme-x3-and-realme-x3-superzoom-specs-and-price-in-india/</loc>
 <lastmod>2020-06-25T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/alternatives-to-chinese-apps/</loc>
+<lastmod>2020-06-29T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about</loc>
