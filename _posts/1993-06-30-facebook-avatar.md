@@ -15,7 +15,7 @@ Avatars’ launch comes to India at the height of a backlash against Chinese app
 
 Avatars is a clone of Snapchat's Bitmoji and users can create their avatar from the sticker tray in the comment section of a News Feed post or in Messenger.
 
-So, How to make your Avatar?  
+So, **How to make your Avatar?**    
 **1.** Open the Facebook app on your phone and tap the hamburger menu (three stacked lines). It could be in the lower right corner in iOS and in the upper right corner on Android phones.  
 **2.** Scroll down and tap **See More**.  
 **3.** Select Avatars.
