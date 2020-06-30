@@ -3,7 +3,7 @@ layout: post
 title: "Is PUBG a chinese game?? Let's find out"
 author: puneeth
 categories: [ Tech ]
-image: assets/images/moodle-banner.jpg
+image: https://devskrate.github.io/assets/blog-banners/pubg-chineese.webp
 tags: [Game, pubg]
 redirect_from:
   - /why-PUBG-is-not-chinese-game/
