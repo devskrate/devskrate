@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OnePlus launched two new range of TV's starting at Rs. 12,999"
+title:  "OnePlus Launches Three New Affordable TVs Under the U- & Y-Series"
 author: mohit
 categories: [gadgets]
 image: assets/images/oneplus/oneplus-budget-tv-banner.jpg
