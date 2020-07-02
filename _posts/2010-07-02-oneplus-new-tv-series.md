@@ -3,12 +3,14 @@ layout: post
 title:  "OnePlus launched two new range of TV's starting at Rs. 12,999"
 author: mohit
 categories: [gadgets]
-image: assets/images/sony/PS5.jpg
+image: assets/images/oneplus/oneplus-budget-tv-banner.jpg
 tags: [oneplus , oneplus tv]
 ---
 OnePlus entered the Tv market in India with the Q1 smart TV in 2019 and the conclusion was that the Tv was good but it was a bit overpriced and in a market like India price matters a lot and OnePlus has realized it and plans to correct it with the launch of new U- series and Y-series range of smart TV.
 
 #### OnePlus TV U1:
+
+![oneplus u series tv]({{ site.baseurl}}/assets/images/oneplus/oneplus-tv-u-series.jpg)
 
 Speaking of design, It comes with a bezel-less front with a thicker bottom bezel, which also has the OnePlus branding. The rear comes with a brushed metal finish up-top and a carbon fiber cover at the bottom. The TV comes with a brand new remote with D-pad at the top, followed by an array of buttons including the Google Assistant, Netflix, Prime Video, volume rocker, and more.
 
@@ -28,6 +30,8 @@ Speaking of software, it comes with Android TV 9.0 out-of-the-box which is a sto
 The TV comes with both WIFI 2.4GHz & 5GHz and also Bluetooth 5.0 for wireless connectivity and speaking of ports it comes with 3x HDMI, 1x USB 3.0, 1x USB 2.0, RF port, optical port, Ethernet, and AV port.
 
 #### OnePlus TV Y-Series:
+
+![oneplus Y series tv]({{ site.baseurl}}/assets/images/oneplus/oneplus-tv-y-series.jpg)
 
 The Y-series range of Tv comes in at two sizes the 32-inch HD and 43-inch Full-HD with a resolution of 1366 x 768 and 1920 x 1080 respectively, but the panel used is the same LED panel (VA).
 
