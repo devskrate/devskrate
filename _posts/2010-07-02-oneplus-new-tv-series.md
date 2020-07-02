@@ -43,6 +43,6 @@ The Y series of the TV are almost similar to the U1 but with a few changes. Both
 
 The Y-series OnePlus TVs are also powered by a MediaTek processor but with a lower 1GB of RAM and 8GB of storage to go with it. The software is the same. The I/O is also the same. the main difference is that this Y-Series of smart Tv's come with only a 20W(2x 10W) with Dolby Audio support.
 
-#### Price & Availability
+### Price & Availability
 
 The 32-inch HD OnePlus TV is priced at Rs. 12,999, the 43-inch Full-HD variant will retail at Rs. 22,999 and the highest-end 55-inch 4K U-series OnePlus TV will retail at Rs. 49,999 in India. All of the three smart TVs will go on sale starting from July 5 via Amazon India and will soon be available at offline stores.
